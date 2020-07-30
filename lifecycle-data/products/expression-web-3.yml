@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: ביטוי 3
+  description: ביטוי 3 עוקב אחר מדיניות מחזור החיים הקבוע.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9544cb1ac337a36e0e9d12b4afde25d392bdd767
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "819242"
+name: ביטוי 3
+summary: >+
+  ביטוי 3 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+
+
+  הדבר חל על המהדורות הבאות: עיצוב, מקודד, סטודיו, אינטרנט
+
+products:
+- expression
+policyType: fixed
+supportDates:
+  start: 10/19/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 10/19/2009
+  endDate: 01/14/2020
+content: "\n\n> [!NOTE]\n> תאריך ההתחלה של ביטוי עיצוב 3 הוא 19 בנובמבר, 2009. \n\n## <a name=\"editions\"></a>מהדורות \n* עיצוב\n* קודד\n* סטודיו\n* אינטרנט"
