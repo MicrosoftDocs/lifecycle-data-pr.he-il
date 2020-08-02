@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: שרת רישוי והגנה של תוכנה
+  description: שרת רישוי התוכנה וההגנה עוקב אחר מדיניות מחזור החיים הקבוע.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9a42af57f9f0bfd7232e67126c6d9923413e06f6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "819194"
+name: שרת רישוי והגנה של תוכנה
+summary: >
+  שרת רישוי התוכנה וההגנה עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+
+
+  פעולה זו חלה על המהדורות הבאות: ארגון, סטנדרטי
+
+
+  > [!IMPORTANT]
+
+  > בשל הדיון בשרת רישוי תוכנה והגנה (SLPS), מיקרוסופט תמכה ב-SLPS עד ל -24 בספטמבר 2009.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/30/2007
+  end: 09/24/2009
+  extendedEnd: 09/24/2009
+releases:
+- version: Original Release
+  startDate: 12/30/2007
+  endDate: 01/09/2018
+content: "\n## <a name=\"links\"></a>קישורים \n* [שרת רישוי והגנה של תוכנה (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>מהדורות \n* ארגון\n* רגיל"

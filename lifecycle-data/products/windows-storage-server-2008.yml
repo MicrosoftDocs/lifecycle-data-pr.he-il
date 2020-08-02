@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows אחסון שרת 2008
+  description: Windows Storage Server 2008 מלווה את מדיניות מחזור החיים הקבוע.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 5fcd64fc253504e9ffb8db1c34a0597cc550b12b
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "819145"
+name: Windows אחסון שרת 2008
+summary: >
+  Windows Storage Server 2008 מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+
+
+  פעולה זו חלה על המהדורות הבאות: Basic, בסיסי 32-Bit, בסיסי 64-bit, מוטבע בסיסי, בסיסי מוטבע 32-bit, ארגון, מוטבע ארגוני, רגיל, מוטבע רגיל, קבוצת עבודה
+
+
+  > [!IMPORTANT]
+
+  > מוצר זה הגיע לסוף התמיכה. ראה להלן לקבלת הדרכה להעברה.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/19/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 07/19/2009
+  endDate: 07/12/2011
+- version: Service Pack 2
+  startDate: 07/19/2009
+  endDate: 01/14/2020
+content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [מידע אודות שדרוג השרת](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>מהדורות \n* בסיסי\n* 32 בסיסי-סיבית\n* 64 בסיסי-סיבית\n* מוטבע בסיסי\n* 32-סיבית מוטבעת בסיסית\n* ארגון\n* ארגון מוטבע\n* רגיל\n* מוטבע רגיל\n* קבוצת עבודה"
