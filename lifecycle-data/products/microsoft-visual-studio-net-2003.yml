@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: מיקרוסופט Visual Studio .NET 2003
+  description: Microsoft Visual Studio .NET 2003 מלווה את מדיניות מחזור החיים הקבוע.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 3480529da4e74d11dd7fda7e1b052e5adc7e82f1
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "819191"
+name: מיקרוסופט Visual Studio .NET 2003
+summary: >+
+  Microsoft Visual Studio .NET 2003 מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+
+
+  הדבר חל על המהדורות הבאות: אדריכל ארגוני, מפתח ארגוני, מקצועי
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 07/10/2003
+  end: 10/14/2008
+  extendedEnd: 10/08/2013
+releases:
+- version: Service Pack 1
+  startDate: 09/15/2006
+  endDate: 10/08/2013
+- version: Original Release
+  startDate: 07/10/2003
+  endDate: 10/09/2007
+content: "\n## <a name=\"links\"></a>קישורים \n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>מהדורות \n* אדריכל ארגוני\n* מפתח ארגוני\n* מקצועי"

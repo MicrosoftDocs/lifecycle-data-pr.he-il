@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: מיקרוסופט ויז סטודיו 2005
+  description: Microsoft Visual Studio 2005 מלווה את מדיניות מחזור החיים הקבוע.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "819193"
+name: מיקרוסופט ויז סטודיו 2005
+summary: >+
+  Microsoft Visual Studio 2005 מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+
+
+  הדבר חל על המהדורות הבאות: מקצועי, סטנדרטי, הרישיון האקדמי מהדורת סטנדרטי, מהדורת צוות עבור מומחי מסד נתונים, מהדורת צוות עבור אדריכלים תוכנה, מהדורת צוות עבור מפתחי תוכנה, מהדורת צוות עבור בודקי תוכנה, חבילת צוות, צוות מבחן עומס סוכן, כלים עבור מערכת Microsoft Office, VB Express, Visual Cexpress, visual C++
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/27/2006
+  end: 04/12/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Service Pack 1
+  startDate: 12/14/2006
+  endDate: 04/12/2016
+- version: Original Release
+  startDate: 01/27/2006
+  endDate: 01/08/2008
+content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות תמיכה ב-Visual j](https://msdn.microsoft.com/vstudio/bb188593)\n* [הנחיית הגירה](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [מידע אודות המוצר של Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> התמיכה במוצר זה הסתיימה. ראה להלן לקבלת הדרכה להעברה.\n> [!NOTE]\n> מיקרוסופט Visual Studio 2005 צוות מהדורת עבור מומחי מסד נתונים שפורסמו במרץ 2, 2007.\n\n## <a name=\"editions\"></a>מהדורות \n* מקצועי\n* רגיל\n* הרישיון האקדמי של מהדורת תקן\n* מהדורת צוות למומחי מסדי נתונים\n* מהדורת הקבוצה לאדריכלים תוכנה\n* מהדורת הקבוצה עבור מפתחי תוכנה\n* מהדורת צוות עבור תוכנות בודקי\n* סוויטת צוות\n* סוכן בדיקת צוות\n* כלים עבור מערכת Microsoft Office\n* VB אקספרס\n* ויזואלי Cאקספרס\n* Visual C++ אקספרס\n* ויז אקספרס\n* מפתח אינטרנט ויזואלי אקספרס"

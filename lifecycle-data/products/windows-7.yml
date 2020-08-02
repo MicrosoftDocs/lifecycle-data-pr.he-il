@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 7
+  description: Windows 7 עוקב אחר מדיניות מחזור החיים הקבוע.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a1b1b370fe7d15abae83da62603b4522ea79a307
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "819167"
+name: Windows 7
+summary: "Windows 7 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .\n\nפעולה זו חלה על המהדורות הבאות: ארגון, ארגון N, דף הבית בסיסי, Home Premium, בית פרימיום N, מקצועי, מקצועי עבור מערכות מוטבעות, N מקצועי, Starter, Starter N, האולטימטיבי, האולטימטיבי עבור מערכות מוטבעות, N האולטימטיבי\n\n> [!IMPORTANT]\n> התמיכה במוצר זה הסתיימה. ראה הנחיות הגירה להלן. \n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/22/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Extended Security Update Year 3*
+  startDate: 01/11/2022
+  endDate: 01/10/2023
+- version: Extended Security Update Year 2*
+  startDate: 01/12/2021
+  endDate: 01/11/2022
+- version: Extended Security Update Year 1*
+  startDate: 01/14/2020
+  endDate: 01/12/2021
+- version: Service Pack 1
+  startDate: 02/22/2011
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 10/22/2009
+  endDate: 04/09/2013
+content: "> [!TIP]\n> * עדכוני אבטחה מורחבים (מערכת ההפעלה) זמינים באמצעות תוכניות מסוימות של רישוי קבוצתי עבור Windows 7 Professional, ארגוני ומקצועי עבור מהדורות מערכות מוטבעות של מוצר זה, עד שלוש שנים נוספות אחרי סוף התמיכה. פנה אל השותף או צוות תיקי הלקוח של Microsoft כדי ללמוד עוד. \n\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](https://support.microsoft.com/help/4057281)\n* [שדרוג מ-Windows 7 ל-Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [תוכנית לעדכון אבטחה מורחבת (לא מאובטח)](/lifecycle/faq/extended-security-updates)\n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>מהדורות \n* ארגון\n* ארגון N\n* הום בייסיק\n* הום פרימיום\n* הום פרימיום N\n* מקצועי\n* מקצועי למערכות מוטבעות\n* מקצועי N\n* Starter\n* התחלה\n* אולטימטיבי\n* האולטימטיבי למערכות מוטבעות\n* האולטימטיבי N"
