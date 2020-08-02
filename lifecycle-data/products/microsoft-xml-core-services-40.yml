@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: שירותי הליבה של XML 4.0 של Microsoft
+  description: שירותי הליבה של Microsoft XML 4.0 מעקב אחר מדיניות מחזור החיים הקבוע.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 06e9c5a8f669333fa8c5c49b71c4563aaa03ff6f
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "819719"
+name: שירותי הליבה של XML 4.0 של Microsoft
+summary: >+
+  שירותי הליבה של Microsoft XML 4.0 מעקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+
+
+products:
+- vs
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/28/2009
+  end: 04/12/2014
+releases:
+- version: Service Pack 3
+  startDate: 12/28/2009
+  endDate: 04/12/2014
+content: "\n\n> [!NOTE]\n> תמיכה עבור שירותי ליבה של XML 4.0 הסתיימה. התמיכה הייתה זמינה רק עבור Service Pack 3."

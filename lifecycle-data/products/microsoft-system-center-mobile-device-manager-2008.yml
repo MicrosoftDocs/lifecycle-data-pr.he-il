@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: מנהל ההתקנים הניידים של מרכז המערכת של Microsoft 2008
+  description: מנהל ההתקנים הניידים של Microsoft System Center 2008 עוקב אחר מדיניות מחזור החיים הקבוע.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 14a7c0da14eb713aa83ca322fe5a321cff6e4544
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "819749"
+name: מנהל ההתקנים הניידים של מרכז המערכת של Microsoft 2008
+summary: >+
+  מנהל ההתקנים הניידים של Microsoft System Center 2008 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 05/14/2008
+  end: 07/09/2013
+  extendedEnd: 07/10/2018
+releases:
+- version: Service Pack 1
+  startDate: 12/15/2008
+  endDate: 07/10/2018
+- version: Original Release
+  startDate: 05/14/2008
+  endDate: 01/12/2010
+content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)"

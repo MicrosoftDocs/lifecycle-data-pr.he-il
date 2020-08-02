@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: מנהל מחשב וירטואלי של Microsoft System Center 2008
+  description: מנהל המחשב הווירטואלי של Microsoft System Center 2008 עוקב אחר מדיניות מחזור החיים הקבוע.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 20f4d174c142e762fd98385e6b0296fa13c41081
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "819742"
+name: מנהל מחשב וירטואלי של Microsoft System Center 2008
+summary: >
+  מנהל המחשב הווירטואלי של Microsoft System Center 2008 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+
+
+
+  > [!IMPORTANT]
+
+  > התמיכה במוצר זה הסתיימה.
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 01/29/2009
+  end: 04/08/2014
+  extendedEnd: 04/09/2019
+releases:
+- version: Original Release
+  startDate: 01/29/2009
+  endDate: 04/09/2019
+content: ''
