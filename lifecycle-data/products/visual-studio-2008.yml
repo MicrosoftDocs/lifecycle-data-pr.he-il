@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: ויז סטודיו 2008
+  description: Visual Studio 2008 מלווה את מדיניות מחזור החיים הקבוע.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 2c78c508275eda64e51e80bb21e954944bd86404
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "819327"
+name: ויז סטודיו 2008
+summary: >+
+  Visual Studio 2008 מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+
+
+  הדבר חל על המהדורות הבאות: All, Pro w/MSDN Premium, מקצועי, מקצועי w/MSDN, חבילת צוות, צוות מבחן עומס סוכן, VB Express, Visual Basic Express, Visual Cexpress, visual C++ אקספרס, מפתח ויזואלי של אינטרנט אקספרס
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 02/19/2008
+  end: 04/09/2013
+  extendedEnd: 04/10/2018
+releases:
+- version: Service Pack 1
+  startDate: 08/11/2008
+  endDate: 04/10/2018
+- version: Original Release
+  startDate: 02/19/2008
+  endDate: 10/13/2009
+content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> כולל Visual C++ אקספרס, Visual Cexpress, VB Express, ויזואלי מפתח אינטרנט אקספרס ומהדורות צוות Visual Studio\n\n## <a name=\"editions\"></a>מהדורות \n* כל\n* Pro w/MSDN פרימיום\n* מקצועי\n* W מקצועי/MSDN \n* סוויטת צוות\n* סוכן בדיקת צוות\n* VB אקספרס\n* ויז בייסיק אקספרס\n* ויזואלי Cאקספרס\n* Visual C++ אקספרס\n* מפתח אינטרנט ויזואלי אקספרס"

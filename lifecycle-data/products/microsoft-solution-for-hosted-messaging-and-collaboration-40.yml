@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: פתרון Microsoft להודעות מתארחות ושיתוף פעולה 4.0
+  description: פתרון Microsoft עבור העברת הודעות ושיתוף פעולה 4.0 מתארח בעקבות מדיניות מחזור החיים הקבוע.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d5aad6d836257bdbd054a1e385c6268769a1da05
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "819351"
+name: פתרון Microsoft להודעות מתארחות ושיתוף פעולה 4.0
+summary: >+
+  פתרון Microsoft עבור העברת הודעות ושיתוף פעולה 4.0 מתארח בעקבות מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 07/15/2007
+  end: 12/12/2011
+releases:
+- version: Original Release
+  startDate: 07/15/2007
+  endDate: 12/12/2011
+content: ''
