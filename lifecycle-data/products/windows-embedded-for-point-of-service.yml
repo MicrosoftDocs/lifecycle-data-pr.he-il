@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: חלונות מוטבעים לנקודת שירות
+  description: Windows מוטבע עבור נקודת שירות מלווה במדיניות מחזור חיי קבוע.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: fbfd3d13009c5b34a5ef92a78e76149f30ec707d
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "819682"
+name: חלונות מוטבעים לנקודת שירות
+summary: >
+  Windows מוטבע עבור נקודת שירות מלווה במדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+
+
+
+  > [!IMPORTANT]
+
+  > התמיכה במוצר זה הסתיימה.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 06/06/2005
+  end: 04/12/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Service Pack 3
+  startDate: 10/07/2008
+  endDate: 04/12/2016
+- version: Original Release
+  startDate: 06/06/2005
+  endDate: 10/12/2010
+content: "\n## <a name=\"links\"></a>קישורים \n* [Windows מוטבע עבור תמיכת נקודת השירות](https://support.microsoft.com/help/18581)"

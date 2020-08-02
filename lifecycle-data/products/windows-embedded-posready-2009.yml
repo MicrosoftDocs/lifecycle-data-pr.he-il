@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 2009 מוטבע של המיקום המוטבע של Windows
+  description: המיקום המוטבע של Windows 2009 מאחר למדיניות מחזור חיי הקבוע.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0e56e5a9ca8be7a3144f2107f487ce342b8f3ffe
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "819679"
+name: 2009 מוטבע של המיקום המוטבע של Windows
+summary: >
+  המיקום המוטבע של Windows 2009 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+
+
+
+  > [!IMPORTANT]
+
+  > . התמיכה הסתיימה ראה הנחיות הגירה להלן.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/10/2009
+  end: 04/08/2014
+  extendedEnd: 04/09/2019
+releases:
+- version: Original Release
+  startDate: 03/10/2009
+  endDate: 04/09/2019
+content: "\n## <a name=\"links\"></a>קישורים \n* [סיום תמיכה עבור Windows מוטבע 2009](/lifecycle/announcements/windows-embedded-2009-end-of-support)\n* [חלונות עבור הרבה](https://www.microsoft.com/windowsforbusiness/windows-iot)"
