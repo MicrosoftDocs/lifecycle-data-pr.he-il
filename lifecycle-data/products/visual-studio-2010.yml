@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2010
+  description: Visual Studio 2010 מלווה את מדיניות מחזור החיים הקבוע.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 30c112ab23bba45aaec60660ab85c362bcebf030
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "819326"
+name: Visual Studio 2010
+summary: >+
+  Visual Studio 2010 מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+
+
+  הדבר חל על המהדורות הבאות: סוכנים, הכל, ASP .NET MVC 4, Express, F 2.0 זמן ריצה, ניהול מעבדה, כלי ביצועים, פרמיה, מקצועית, מאתר באגים מרחוק, SDK, מעטפת (משולבת), מעטפת (מבודד), סוכני צוות, סייר הצוותים, מבחן מקצועי, כלים עבור Office System 4.0 זמן ריצה, Ultimate, VB Express, Visual Cexpress, visual C++ אקספרס, מפתח
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 06/29/2010
+  end: 07/14/2015
+  extendedEnd: 07/14/2020
+releases:
+- version: Service Pack 1
+  startDate: 03/08/2011
+  endDate: 07/14/2020
+- version: Original Release
+  startDate: 06/29/2010
+  endDate: 04/10/2012
+content: "\n## <a name=\"links\"></a>קישורים \n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>מהדורות \n* סוכנים\n* כל\n* ASP .NET MVC 4\n* אקספרס\n* F 2.0 זמן ריצה\n* ניהול מעבדות\n* כלי ביצועים\n* פרימיום\n* מקצועי\n* מבאגים מרחוק\n* SDK\n* מעטפת (משולבת)\n* מעטפת (מבודדת)\n* סוכני צוות\n* סייר הצוותים\n* בדיקת מקצועיות\n* כלים עבור Office System 4.0 זמן ריצה\n* אולטימטיבי\n* VB אקספרס\n* ויזואלי Cאקספרס\n* Visual C++ אקספרס\n* מפתח אינטרנט ויזואלי אקספרס\n* ויזואליזציה _ מידול SDK למודלים"

@@ -1,0 +1,46 @@
+### YamlMime:Lifecycle
+metadata:
+  title: שרת מיקרוסופט SQL 2005
+  description: Microsoft SQL Server 2005 עוקב אחר מדיניות מחזור החיים הקבוע.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cbfadc2995b179c7ee286f02fb5e78cc01d7db8f
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "819353"
+name: שרת מיקרוסופט SQL 2005
+summary: >
+  Microsoft SQL Server 2005 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+
+
+  הדבר חל על המהדורות הבאות: קומפקטי, מפתח, מוטבע, ארגוני, ארגוני עבור מערכות מבוססות Itanium, X64, Express, אקספרס עם שירותים מתקדמים, סטנדרטי, סטנדרטי עבור מערכות מבוססות Itanium, 64-X64 סטנדרטיים, קבוצת עבודה
+
+
+  > [!IMPORTANT]
+
+  > התמיכה במוצר זה הסתיימה. ראה הנחיות הגירה להלן.
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 01/14/2006
+  end: 04/12/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Service Pack 4
+  startDate: 12/13/2010
+  endDate: 04/12/2016
+- version: Service Pack 3
+  startDate: 12/15/2008
+  endDate: 01/10/2012
+- version: Service Pack 2
+  startDate: 02/19/2007
+  endDate: 01/12/2010
+- version: Service Pack 1
+  startDate: 04/18/2006
+  endDate: 04/08/2008
+- version: Original Release
+  startDate: 01/14/2006
+  endDate: 07/10/2007
+content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> שרת Microsoft SQL 2005 קומפקטי Edition שוחרר 19 בפברואר, 2007.\n\n## <a name=\"editions\"></a>מהדורות \n* קומפקטי\n* מפתח\n* מוטבע\n* ארגון\n* ארגון עבור מערכות מבוססות Itanium\n* X64 של הארגון\n* אקספרס\n* אקספרס עם שירותים מתקדמים\n* רגיל\n* תקן עבור מערכות מבוססות Itanium\n* X64 סטנדרטי\n* קבוצת עבודה"
