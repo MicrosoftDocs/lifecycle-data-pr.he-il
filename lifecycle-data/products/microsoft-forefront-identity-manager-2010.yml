@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: מנהל זהות מיקרוסופט בחזית 2010
+  description: מנהל הזהויות של מיקרוסופט בחזית 2010 עוקב אחר מדיניות מחזור החיים הקבוע.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9b76ebc222ff94ed78ae77e18623f18557e8ac38
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "819807"
+name: מנהל זהות מיקרוסופט בחזית 2010
+summary: >+
+  מנהל הזהויות של מיקרוסופט בחזית 2010 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+
+
+products:
+- m365
+policyType: fixed
+supportDates:
+  start: 05/27/2010
+  end: 10/10/2017
+  extendedEnd: 10/11/2022
+releases:
+- version: Original Release
+  startDate: 05/27/2010
+  endDate: 10/11/2022
+content: "\n\n> [!NOTE]\n> תמיכה רגילה ומורחבת עבור מנהל זהות החזית של Microsoft 2010 מורחבת כפי שמוצג על מנת לספק את כל הלקוחות עם ציר הזמן הסטנדרטי של מעבר מחזור החיים."

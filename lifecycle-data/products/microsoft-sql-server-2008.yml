@@ -1,0 +1,46 @@
+### YamlMime:Lifecycle
+metadata:
+  title: שרת מיקרוסופט SQL 2008
+  description: Microsoft SQL Server 2008 עוקב אחר מדיניות מחזור החיים הקבוע.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 8dd6dece999e9bea86eb5b4172ae47f925fa2772
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "819768"
+name: שרת מיקרוסופט SQL 2008
+summary: >
+  Microsoft SQL Server 2008 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+
+
+  הדבר חל על המהדורות הבאות: מפתח, ארגון, אקספרס, אקספרס עם שירותים מתקדמים, תקן, מהדורה סטנדרטית עבור עסקים קטנים, אינטרנט, קבוצת עבודה
+
+
+  > [!IMPORTANT]
+
+  > התמיכה במוצר זה הסתיימה. ראה הנחיות הגירה להלן.
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 11/06/2008
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Service Pack 4
+  startDate: 07/07/2014
+  endDate: 07/09/2019
+- version: Service Pack 3
+  startDate: 10/06/2011
+  endDate: 10/13/2015
+- version: Service Pack 2
+  startDate: 09/24/2010
+  endDate: 10/09/2012
+- version: Service Pack 1
+  startDate: 03/31/2009
+  endDate: 10/11/2011
+- version: Original Release
+  startDate: 11/06/2008
+  endDate: 04/13/2010
+content: "> [!TIP]\n> עדכוני אבטחה מורחבים (אנשי משימה) זמינים עבור מהדורות מרכז הנתונים, התקן, הארגון, האינטרנט, קבוצת העבודה והמהדורות המוטבעות של מוצר זה, עד שלוש שנים נוספות מעבר לסוף התמיכה.\n\n## <a name=\"links\"></a>קישורים \n* [תוכנית לעדכון אבטחה מורחבת (לא מאובטח)](/lifecycle/faq/extended-security-updates)\n* [שירותי שחרור SQL בלוג](https://blogs.msdn.com/b/sqlreleaseservices/archive/2014/09/26/sql-server-2008-r2-service-pack-3-has-released.aspx)\n* [הנחיית הגירה](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> עבור IA64 בלבד, SP3 יהיה נתמך עד 7/9/2019.\n\n## <a name=\"editions\"></a>מהדורות \n* מפתח\n* ארגון\n* אקספרס\n* אקספרס עם שירותים מתקדמים\n* רגיל\n* מהדורה סטנדרטית לעסקים קטנים\n* אינטרנט\n* קבוצת עבודה"
