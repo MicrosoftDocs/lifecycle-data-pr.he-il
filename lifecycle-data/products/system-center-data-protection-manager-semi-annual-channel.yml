@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: מנהל הגנת נתונים של מרכז המערכת ערוץ חצי שנתי
+  description: הערוץ השנתי של מרכז המערכת להגנת נתונים מלווה את מדיניות מחזור החיים המודרני.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 60f83dbcc7830bca583b04a805878d1836f7e965
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "869764"
+name: מנהל הגנת נתונים של מרכז המערכת ערוץ חצי שנתי
+summary: >
+  מנהל הגנת הנתונים של מרכז המערכת ערוץ חצי שנתי עוקב אחר מדיניות מחזור החיים [המודרני](/lifecycle/policies/modern) .
+
+
+
+  > [!IMPORTANT]
+
+  > . התמיכה הסתיימה ראה הנחיות הגירה להלן.
+products:
+- msc
+policyType: modern-on-prem
+supportDates:
+  start: 02/08/2018
+  end: 01/24/2020
+releases:
+- version: Version 1807
+  startDate: 07/24/2018
+  endDate: 01/24/2020
+- version: Version 1801
+  startDate: 02/08/2018
+  endDate: 08/08/2019
+content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](/system-center/dpm/upgrade-dpm?view=sc-dpm-2019)"

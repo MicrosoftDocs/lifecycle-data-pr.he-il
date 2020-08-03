@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: חלונות 10 הרבה שירותי ליבה
+  description: Windows 10 הרבה שירותי ליבה בעקבות מדיניות מחזור החיים המודרני.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e2e64958c91092f2890a4d871de3fd7b96614d65
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "869689"
+name: חלונות 10 הרבה שירותי ליבה
+summary: >+
+  Windows 10 הרבה שירותי ליבה בעקבות מדיניות מחזור החיים [המודרני](/lifecycle/policies/modern) .
+
+
+products:
+- windows
+policyType: modern-online
+supportDates:
+  start: 11/13/2018
+releases:
+- version: Original Release
+  startDate: 11/13/2018
+content: "\n## <a name=\"links\"></a>קישורים \n* [Windows 10 הרבה שירותי ליבה](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> Windows 10 הרבה ליבות Services הוא מנוי המציע תמיכה בתוכנה כשירות, כולל בקרת עדכון עם מרכז העדכונים של התקן ואבטחה משופרת עם התקן בריאות Attestation, כל עוד אתה מפעיל גירסה נתמכת של Windows 10 הרבה תוכנות ליבה."

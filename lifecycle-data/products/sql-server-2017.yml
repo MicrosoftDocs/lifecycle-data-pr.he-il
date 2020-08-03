@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: שרת SQL 2017
+  description: שרת SQL 2017 מלווה את מדיניות מחזור החיים הקבוע.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 8eb60aa5e94d8c064f0bb06f4bfb11782141d320
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "869775"
+name: שרת SQL 2017
+summary: >+
+  שרת SQL 2017 מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+
+
+  הדבר חל על המהדורות הבאות: בלינוקס (כל המהדורות), ב-Windows (כל המהדורות)
+
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 09/29/2017
+  end: 10/11/2022
+  extendedEnd: 10/12/2027
+releases:
+- version: Original Release
+  startDate: 09/29/2017
+  endDate: 10/12/2027
+content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות מתן שירות](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n> [!NOTE]\n> החל מ-SQL Server 2017, לא ישוחררו ערכות Service Pack.\n\n## <a name=\"editions\"></a>מהדורות \n* על לינוקס (כל המהדורות)\n* ב-Windows (כל המהדורות)"
