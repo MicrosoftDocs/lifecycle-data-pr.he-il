@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: מסגרת טיפול לקוחות של Microsoft 2005 מהדורת .NET 2.0
+  description: מסגרת הטיפול בלקוחות של Microsoft 2005 .NET 2.0 Edition מלווה את מדיניות מחזור החיים הקבוע.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c319c9a4362d847d9ac7fe80a48a13b3d7209cdd
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "819824"
+name: מסגרת טיפול לקוחות של Microsoft 2005 מהדורת .NET 2.0
+summary: >
+  מסגרת הטיפול בלקוחות של Microsoft 2005 .NET 2.0 Edition מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+
+
+
+  > [!IMPORTANT]
+
+  > . התמיכה הסתיימה ראה הנחיות הגירה להלן.
+products:
+- customer-care-framework
+policyType: fixed
+supportDates:
+  start: 11/11/2006
+  end: 01/10/2012
+  extendedEnd: 01/10/2017
+releases:
+- version: Original Release
+  startDate: 11/11/2006
+  endDate: 01/10/2017
+content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](https://blogs.msdn.microsoft.com/crm/2016/04/07/microsoft-customer-care-framework-support-lifecycle-announcement)"
