@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: פתרונות עסקיים של Microsoft-סולומון 6.0
+  description: פתרונות עסקיים של Microsoft-סולומון 6.0 מלווה את מדיניות מחזור החיים הקבוע.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 540bb6a54428f0ebae78d2599649a27a4504fea6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "819845"
+name: פתרונות עסקיים של Microsoft-סולומון 6.0
+summary: >+
+  פתרונות עסקיים של Microsoft-סולומון 6.0 מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+
+
+products:
+- dynamics
+policyType: fixed-mainstream-only
+supportDates:
+  start: 09/30/2004
+  end: 10/13/2009
+releases:
+- version: Original Release
+  startDate: 09/30/2004
+  endDate: 10/13/2009
+content: ''

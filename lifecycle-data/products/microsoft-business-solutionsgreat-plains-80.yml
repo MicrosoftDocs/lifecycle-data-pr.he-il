@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: פתרונות עסקיים של Microsoft--המישורים הגדולים 8.0
+  description: פתרונות עסקיים של Microsoft--המישורים הגדולים 8.0 מעקב אחר מדיניות מחזור החיים הקבוע.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 708ba112ad66ce2d89482c6771b24c9fb9e31cab
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "819849"
+name: פתרונות עסקיים של Microsoft--המישורים הגדולים 8.0
+summary: >
+  פתרונות עסקיים של Microsoft--המישורים הגדולים 8.0 מעקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+
+
+  פעולה זו חלה על המהדורות הבאות: תקן
+
+
+  > [!IMPORTANT]
+
+  > התמיכה במוצר זה הסתיימה באוקטובר 13, 2009
+products:
+- dynamics
+policyType: fixed-mainstream-only
+supportDates:
+  start: 06/01/2004
+  end: 10/13/2009
+releases:
+- version: Original Release
+  startDate: 06/01/2004
+  endDate: 10/13/2009
+content: "\n\n\n## <a name=\"editions\"></a>מהדורות \n* רגיל"

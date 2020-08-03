@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: מאיץ הBizTalk של Microsoft לשירותים פיננסיים 1.0
+  description: Microsoft BizTalk מאיץ עבור שירותים פיננסיים 1.0 לאחר מדיניות מחזור החיים קבוע.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: dbacf7590c1aa3b0736935e033bbc6c3d2968dab
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "819880"
+name: מאיץ הBizTalk של Microsoft לשירותים פיננסיים 1.0
+summary: >+
+  Microsoft BizTalk מאיץ עבור שירותים פיננסיים 1.0 עוקב אחר מדיניות מחזור החיים [קבוע](/lifecycle/policies/fixed) .
+
+
+  פעולה זו חלה על המהדורות הבאות: ארגון, סטנדרטי
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 03/12/2003
+  end: 04/08/2008
+  extendedEnd: 04/09/2013
+releases:
+- version: Original Release
+  startDate: 03/12/2003
+  endDate: 04/09/2013
+content: "\n\n\n## <a name=\"editions\"></a>מהדורות \n* ארגון\n* רגיל"
