@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2008 R2
+  description: Windows Server 2008 R2 עוקב אחר מדיניות מחזור החיים הקבוע.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a6c6adf73d2ed1b58f9ce3f1458f7a11cd1ae494
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820032"
+name: Windows Server 2008 R2
+summary: "Windows Server 2008 R2 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .\n\nהדבר חל על המהדורות הבאות: מרכז נתונים, ארגון, מהדורת HPC, מערכות מבוססות Itanium, תקן, אינטרנט\n\n> [!IMPORTANT]\n> התמיכה במוצר זה הסתיימה. ראה הנחיות הגירה להלן. \n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/22/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 1
+  startDate: 02/22/2011
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 10/22/2009
+  endDate: 04/09/2013
+content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](https://aka.ms/AA1ovn4)\n* [מידע אודות שדרוג השרת](/windows-server/upgrade/upgrade-overview)\n* [תוכנית לעדכון אבטחה מורחבת (לא מאובטח)](/lifecycle/faq/extended-security-updates)\n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> עדכוני אבטחה מורחבים (מסוג משימה) זמינים באמצעות תוכניות מסוימות של רישוי קבוצתי עבור מהדורות מסוג מרכז הנתונים, התקן, הארגון והמוטבע של מהדורות מוצר אלה, עד שלוש שנים נוספות מעבר לסוף התמיכה. פנה אל השותף או צוות תיקי הלקוח של Microsoft כדי ללמוד עוד. \n\nשחרר-------------------------------תאריך התחלה----תאריך סיום\n\nעדכון אבטחה מורחבת שנה 3---01/11/2022---01/10/2023\n\nעדכון אבטחה מורחבת שנה 2---01/12/2021---01/11/2022\n\nעדכון אבטחה מורחב שנה 1---01/14/2020---01/12/2021\n\n## <a name=\"editions\"></a>מהדורות \n* נתונים\n* ארגון\n* מהדורת HPC\n* מערכות מבוססות Itanium\n* רגיל\n* אינטרנט"
