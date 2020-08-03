@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: ויז סטודיו 2012
+  description: Visual Studio 2012 מלווה את מדיניות מחזור החיים הקבוע.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 31d437b362fc9cdf06165caca18202e49cd7624b
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854901"
+name: ויז סטודיו 2012
+summary: >+
+  Visual Studio 2012 מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+
+
+  זה חל על המהדורות הבאות: סוכנים, קהילה 2013, אקספרס עבור אינטרנט, אקספרס עבור Windows 8, Express עבור שולחן העבודה של Windows, מלקט IntelliTrace, כלים התכלת של מיקרוסופט, פרמיה, מקצועי, כלי מרוחק, מעטפת (משולב), מעטפת (מבודד), SQL שרת נתונים כלי, סייר הצוות, בדיקה מ2013 קצועית
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 10/31/2012
+  end: 01/09/2018
+  extendedEnd: 01/10/2023
+releases:
+- version: Update 5
+  startDate: 08/21/2015
+  endDate: 01/10/2023
+- version: Update 4
+  startDate: 11/12/2013
+  endDate: 10/08/2019
+- version: Original Release
+  startDate: 10/31/2012
+  endDate: 01/10/2023
+content: "\n## <a name=\"links\"></a>קישורים \n* [מחזור חיי המוצר של Visual Studio ושירות](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>מהדורות \n* סוכנים\n* 2013 קהילתי\n* אקספרס לאינטרנט\n* אקספרס עבור Windows 8\n* אקספרס עבור שולחן העבודה של Windows\n* מלקט IntelliTrace\n* כלים התכלת של מיקרוסופט\n* פרימיום\n* מקצועי\n* כלים מרוחקים\n* מעטפת (משולבת)\n* מעטפת (מבודדת)\n* כלי נתונים של שרת SQL\n* סייר הצוותים\n* בדיקה מקצועית 2013\n* אולטימטיבי\n* ההפצה החוזרת של Visual C++\n* הרחבות של כלי אינטרנט"

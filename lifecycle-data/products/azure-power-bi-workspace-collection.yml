@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: מאגר העבודה של הכוח התכלת הבינלאומי
+  description: כוחות העבודה של הכוחות התכולים מתקדמים אחרי מדיניות מחזור החיים המודרני.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a95f325fa895563c498eca76aaa2b7978d393473
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854700"
+name: מאגר העבודה של הכוח התכלת הבינלאומי
+summary: >
+  כוחות העבודה של הכוח התכלת מלווה את מדיניות מחזור החיים [המודרני](/lifecycle/policies/modern) .
+
+
+
+  > [!IMPORTANT]
+
+  > . התמיכה הסתיימה ראה הנחיות הגירה להלן.
+products:
+- sql-server
+policyType: modern-online
+supportDates:
+  start: 03/31/2016
+  end: 07/30/2018
+releases:
+- version: Original Release
+  startDate: 03/31/2016
+  endDate: 07/30/2018
+content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](/power-bi/developer/embedded/migrate-from-powerbi-embedded)"

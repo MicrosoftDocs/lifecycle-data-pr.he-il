@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: התעשייה של Windows מוטבע 8
+  description: התעשייה Windows מוטבעת 8 מלווה את מדיניות מחזור החיים הקבוע.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9ea7dea72b8c455d30007ba3b166f43cf59a4822
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854728"
+name: התעשייה של Windows מוטבע 8
+summary: >
+  התעשייה Windows מוטבעת 8 מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+
+
+  פעולה זו חלה על המהדורות הבאות: אנטרפרייז, פרו
+
+
+  > [!IMPORTANT]
+
+  > על הלקוחות לעבור ל-Windows 8.1 כדי להישאר נתמכים.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 06/24/2013
+  end: 01/12/2016
+  extendedEnd: 01/12/2016
+releases:
+- version: Original Release
+  startDate: 06/24/2013
+  endDate: 01/12/2016
+content: "\n## <a name=\"links\"></a>קישורים \n* [העברת הנחיה](https://www.microsoft.com/download/details.aspx?id=40279)\n* [מחזור חיים שאלות נפוצות-מוצרי Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>מהדורות \n* ארגון\n* Pro"

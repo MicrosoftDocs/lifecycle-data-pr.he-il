@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: אינטרנט אקספלורר 9
+  description: Internet Explorer 9 עוקב אחר מדיניות מחזור חיי הרכיבים.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 595ea8f1727166a645aa139d28dc093b4b6f2b41
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854851"
+name: אינטרנט אקספלורר 9
+summary: >+
+  Internet Explorer 9 עוקב אחר מדיניות מחזור חיי [הרכיבים](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+
+
+products:
+- internet-explorer
+policyType: component
+supportDates:
+  start: 03/15/2011
+releases:
+- version: Original Release
+  startDate: 03/15/2011
+content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](https://www.microsoft.com/itpro/microsoft-edge)\n* [שאלות נפוצות על מדיניות מחזור חיי האינטרנט של internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> החל מ-12 בינואר, 2016, רק הגירסה העדכנית ביותר של Internet Explorer הזמינה עבור מערכת הפעלה נתמכת תקבל תמיכה טכנית ועדכוני אבטחה."

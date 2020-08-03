@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office 2013
+  description: Microsoft Office 2013 עוקב אחר מדיניות מחזור החיים הקבוע.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 57eeaf9939d11f53914fef0e92795621dfb9db44
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855145"
+name: Microsoft Office 2013
+summary: >+
+  Microsoft Office 2013 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+
+
+  הדבר חל על המהדורות הבאות: בית ועסק, בית וסטודנט, מקצועי, פלוס מקצועי, תוכנית מקצועית בתוספת הבית, רגיל, שרת יישומי אינטרנט
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/09/2013
+  end: 04/10/2018
+  extendedEnd: 04/11/2023
+releases:
+- version: Service Pack 1
+  startDate: 02/25/2014
+  endDate: 04/11/2023
+- version: Original Release
+  startDate: 01/09/2013
+  endDate: 04/14/2015
+content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Service Pack 1 אינו חל על מהדורת שרת יישומי האינטרנט. \n\n## <a name=\"editions\"></a>מהדורות \n* בית ועסק\n* בית ותלמיד\n* מקצועי\n* פלוס מקצועי\n* תוכנית לשימוש ביתי מקצועי פלוס\n* רגיל\n* שרת אפליקציות ווב"

@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: דינמיקה 365 למימון ותפעול
+  description: דינמיקה 365 למימון ותפעול מלווה את מדיניות מחזור החיים המודרני.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 04432837adaeae9ae5ec6f7cfad703875e45b772
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854972"
+name: דינמיקה 365 למימון ותפעול
+summary: >+
+  דינמיקה 365 למימון ותפעול מלווה את מדיניות מחזור החיים [המודרני](/lifecycle/policies/modern) .
+
+
+  פעולה זו חלה על המהדורות הבאות: ארגון
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 02/19/2016
+releases:
+- version: Original Release
+  startDate: 02/19/2016
+content: "\n## <a name=\"links\"></a>קישורים \n* [מיקרוסופט Dynamics 365 מפת הדרכים](https://roadmap.dynamics.com/)\n* [מידע אודות מתן שירות](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)\n* [דרישות מערכת](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)\n\n\n## <a name=\"editions\"></a>מהדורות \n* ארגון"

@@ -1,0 +1,42 @@
+### YamlMime:Lifecycle
+metadata:
+  title: שרת מיקרוסופט SQL 2012
+  description: Microsoft SQL Server 2012 עוקב אחר מדיניות מחזור החיים הקבוע.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 28bafe1de891ae8c50f7ef276817ede7a380c8b1
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854795"
+name: שרת מיקרוסופט SQL 2012
+summary: >+
+  Microsoft SQL Server 2012 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+
+
+  הדבר חל על המהדורות הבאות: מודיעין עסקי, מפתח, ארגון, ליבה ארגונית, אקספרס, עבור מערכות מוטבעות, תקן, אינטרנט
+
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 05/20/2012
+  end: 07/11/2017
+  extendedEnd: 07/12/2022
+releases:
+- version: Service Pack 4
+  startDate: 10/05/2017
+  endDate: 07/12/2022
+- version: Service Pack 3
+  startDate: 12/01/2015
+  endDate: 10/09/2018
+- version: Service Pack 2
+  startDate: 06/10/2014
+  endDate: 01/10/2017
+- version: Service Pack 1
+  startDate: 11/07/2012
+  endDate: 07/14/2015
+- version: Original Release
+  startDate: 05/20/2012
+  endDate: 01/14/2014
+content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>מהדורות \n* מודיעין עסקי\n* מפתח\n* ארגון\n* הליבה הארגונית\n* אקספרס\n* עבור מערכות מוטבעות\n* רגיל\n* אינטרנט"

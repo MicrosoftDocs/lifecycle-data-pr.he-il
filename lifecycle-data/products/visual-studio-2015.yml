@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: ויז סטודיו 2015
+  description: Visual Studio 2015 מלווה את מדיניות מחזור החיים הקבוע.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4300bd472c7f836c9d93e7f7e3da2005da410bac
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854949"
+name: ויז סטודיו 2015
+summary: >+
+  Visual Studio 2015 מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+
+
+  הדבר חל על המהדורות הבאות: סוכנים, קהילה, ארגון, אקספרס עבור אינטרנט, אקספרס עבור Windows 10, אקספרס עבור Windows Desktop, מידול SDK, מקצועי, ניהול שחרור, כלים מרוחקים, SDK, מעטפת (משולב), מעטפת (מבודד), Test Professional, Visual C++ להפצה חוזרת
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 07/20/2015
+  end: 10/13/2020
+  extendedEnd: 10/14/2025
+releases:
+- version: Update 3
+  startDate: 06/27/2016
+  endDate: 10/14/2025
+- version: Original Release
+  startDate: 07/20/2015
+  endDate: 10/14/2025
+content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות מתן שירות](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>מהדורות \n* סוכנים\n* קהילה\n* ארגון\n* אקספרס לאינטרנט\n* אקספרס עבור חלונות 10\n* אקספרס עבור שולחן העבודה של Windows\n* מידול SDK\n* מקצועי\n* ניהול שחרורים\n* כלים מרוחקים\n* SDK\n* מעטפת (משולבת)\n* מעטפת (מבודדת)\n* בדיקת מקצועיות\n* ההפצה החוזרת של Visual C++"
