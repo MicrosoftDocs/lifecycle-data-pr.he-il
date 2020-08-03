@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: התוכנית המקוונת של Visio 2
+  description: התוכנית של Visio Online 2 עוקבת אחר מדיניות מחזור החיים המודרני.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 5320f94b79e36743b0fb70999b363dd7f5466fb6
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854999"
+name: התוכנית המקוונת של Visio 2
+summary: >+
+  התוכנית של Visio Online 2 מלווה את מדיניות מחזור החיים [המודרני](/lifecycle/policies/modern) .
+
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 09/22/2015
+releases:
+- version: Original Release
+  startDate: 09/22/2015
+content: ''

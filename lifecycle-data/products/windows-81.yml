@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: חלונות 8.1
+  description: Windows 8.1 מלווה את מדיניות מחזור החיים הקבוע.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f9a4bcbbb6bfcd3a4ddd5445f78d459baba2c3e2
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854943"
+name: חלונות 8.1
+summary: >+
+  Windows 8.1 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+
+
+  הדבר חל על המהדורות הבאות: אנטרפרייז, ארגונית N, N, Pro עם מרכז המדיה, מקצועי, N מקצועי
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/13/2013
+  end: 01/09/2018
+  extendedEnd: 01/10/2023
+releases:
+- version: Original Release
+  startDate: 11/13/2013
+  endDate: 01/10/2023
+content: "\n## <a name=\"links\"></a>קישורים \n* [מחזור חיים שאלות נפוצות-מוצרי Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>מהדורות \n* ארגון\n* ארגון N\n* N\n* Pro עם מרכז המדיה\n* מקצועי\n* מקצועי N"

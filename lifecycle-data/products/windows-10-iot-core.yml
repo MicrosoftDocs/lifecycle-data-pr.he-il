@@ -1,0 +1,43 @@
+### YamlMime:Lifecycle
+metadata:
+  title: חלונות 10 הרבה ליבות
+  description: Windows 10 הרבה ליבות מלווה את מדיניות מחזור החיים המודרני.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4de1aecc88c37d87a38cd5eca9274bcb4c854739
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854992"
+name: חלונות 10 הרבה ליבות
+summary: >
+  Windows 10 הרבה ליבות מלווה את מדיניות מחזור החיים [המודרני](/lifecycle/policies/modern) .
+
+
+
+  > [!IMPORTANT]
+
+  > Microsoft תמשיך לתמוך לפחות בערוץ אחד של Windows 10 למחצה עד ליום 14 באוקטובר, 2025.
+products:
+- windows
+policyType: modern-on-prem
+supportDates:
+  start: 08/02/2016
+  end: 10/14/2025
+releases:
+- version: Version 1809
+  startDate: 11/13/2018
+  endDate: 11/10/2020
+- version: Version 1803
+  startDate: 04/30/2018
+  endDate: 11/12/2019
+- version: Version 1709
+  startDate: 10/17/2017
+  endDate: 04/09/2019
+- version: Version 1703
+  startDate: 04/11/2017
+  endDate: 10/09/2018
+- version: Version 1607
+  startDate: 08/02/2016
+  endDate: 04/10/2018
+content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות המוצר](/windows/iot-core/windows-iot-core)\n* [גיליון עובדות של מחזור החיים של Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [חלונות כשירות (WaaS)](/windows/deployment/update/waas-quick-start)\n* [מחזור חיים שאלות נפוצות-מוצרי Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> אם לא נדחה, העדכונים הבאים של Windows 10 שנתי למחצה של הערוץ עשויים להיות מותקנים לפני הסיום המפורט של תאריך התמיכה הרגילה."

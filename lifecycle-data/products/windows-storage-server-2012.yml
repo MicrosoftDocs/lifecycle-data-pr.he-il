@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows אחסון שרת 2012
+  description: Windows Storage Server 2012 מלווה את מדיניות מחזור החיים הקבוע.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ff27c05566c461244c14b45f75ef07a6ad47f6db
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854721"
+name: Windows אחסון שרת 2012
+summary: >+
+  Windows Storage Server 2012 מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+
+
+  פעולה זו חלה על המהדורות הבאות: רגיל, קבוצת עבודה
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/30/2012
+  end: 10/09/2018
+  extendedEnd: 10/10/2023
+releases:
+- version: Original Release
+  startDate: 10/30/2012
+  endDate: 10/10/2023
+content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](/windows-server/upgrade/upgrade-2012-to-2016)\n\n> [!NOTE]\n> תמיכה רגילה ומורחבת עבור מוצר זה הורחבה כדי לספק ללקוחות את ציר הזמן הסטנדרטי למעבר בין מחזור החיים.\n\n## <a name=\"editions\"></a>מהדורות \n* רגיל\n* קבוצת עבודה"

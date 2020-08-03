@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: וונדריסט
+  description: וונדריסט מלווה את מדיניות מחזור החיים הקבוע.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: dd978a839e950577c0854ee914df4114d50a9865
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "854773"
+name: וונדריסט
+summary: "וונדריסט מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .\n\n\n> [!IMPORTANT]\n> התמיכה במוצר זה כפופה לתנאי הרכישה. התמיכה במוצר זה הסתיימה. ראה הנחיות הגירה להלן. \n"
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 06/02/2015
+  end: 05/06/2020
+  extendedEnd: 05/06/2020
+releases:
+- version: Original Release
+  startDate: 06/02/2015
+  endDate: 05/06/2020
+content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](https://www.wunderlist.com/blog/join-us-on-our-new-journey)"
