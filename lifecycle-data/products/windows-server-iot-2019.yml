@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 2019 הרבה שרת של Windows
+  description: 2019 הרבה בשרת של Windows עוקב אחר מדיניות מחזור חיי קבוע.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 31bc197c23ee1cdbba7340156da48c4a8d1aea4c
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "869679"
+name: 2019 הרבה שרת של Windows
+summary: >+
+  2019 הרבה בשרת של Windows עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+
+
+  הדבר חל על המהדורות הבאות: מרכז נתונים, יסודות, תקן, תקשורת
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/04/2019
+  end: 01/09/2024
+  extendedEnd: 01/09/2029
+releases:
+- version: Original Release
+  startDate: 03/04/2019
+  endDate: 01/09/2029
+content: "\n## <a name=\"links\"></a>קישורים \n* [מחזור חיים שאלות נפוצות-מוצרי Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> כל הגירסאות של Windows Server 2019 הרבה בעקבות מחזור החיים של Windows Server 2019.\n\n## <a name=\"editions\"></a>מהדורות \n* נתונים\n* מונחים בסיסיים\n* רגיל\n* תקשורת"
