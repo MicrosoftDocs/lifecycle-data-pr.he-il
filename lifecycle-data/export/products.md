@@ -1,13 +1,13 @@
 ---
 title: ייצוא מוצרים
 description: ייצוא מידע של מחזור חיים של מוצר
-ms.date: 08/07/2020
-ms.openlocfilehash: cca8929e0dab2fb530d94edbcda7a037b05ff794
-ms.sourcegitcommit: 41160e72cd21aa5bf1748336c3975d8ec9b9ac06
+ms.date: 08/11/2020
+ms.openlocfilehash: fc05add6eb3bf3cb01f6c7e0985c334647a163d7
+ms.sourcegitcommit: d4ec29fd0c57053cfa2254d1bb08c610bb5e6817
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "885793"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "887819"
 ---
 # <a name="export"></a>ייצוא
 
