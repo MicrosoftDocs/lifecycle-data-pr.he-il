@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: מתאם Microsoft BizTalk 2.0
+  description: מתאם Microsoft BizTalk 2.0 עוקב אחר מדיניות מחזור חיי הקבוע.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 807011d58eb9c568bd6d71b1ce3e616a4451e0bd
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893987"
+name: מתאם Microsoft BizTalk 2.0
+summary: >+
+  מתאם Microsoft BizTalk 2.0 עוקב אחר מדיניות מחזור חיי [הקבוע](/lifecycle/policies/fixed) .
+
+
+  אפשרות זו חלה על המהדורות הבאות: עבור MSMQ, עבור mySAP Business Suite, עבור SAP
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 10/20/2004
+  end: 01/12/2010
+  extendedEnd: 01/13/2015
+releases:
+- version: Original Release
+  startDate: 10/20/2004
+  endDate: 01/13/2015
+content: "\n\n> [!NOTE]\n> תאריך ההתחלה עבור Microsoft BizTalk Adapter 2.0 עבור SAP הוא 2 בנובמבר 2004. תאריך ההתחלה עבור מתאם Microsoft BizTalk עבור MSMQ 2.0 הוא 10 בדצמבר 2004\n\n## <a name=\"editions\"></a>מהדורות \n* עבור MSMQ\n* עבור mySAP Business Suite\n* עבור SAP"

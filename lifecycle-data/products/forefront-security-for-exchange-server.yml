@@ -1,21 +1,29 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: אבטחה בחזית עבור שרת Exchange
-  description: "' אבטחת חזית עבור Exchange Server ' מלווה במדיניות מחזור חיי הקבוע."
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0c3d1542acc20b211ef41984c07656ca0f74be61
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: אבטחה של חנית עבור Exchange Server
+  description: האבטחה ' חנית ' עבור Exchange Server מופיעה לפי מדיניות מחזור חיי הקבוע.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 0053b2aaf2be3d4c6ecbc29a6396bade882e16dc
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: he-IL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "819917"
-name: אבטחה בחזית עבור שרת Exchange
-summary: "' אבטחת חזית עבור Exchange Server ' מלווה במדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .\n\n\n> [!IMPORTANT]\n> מפת הדרכים עבור מוצרי אבטחה תחת המותג חזית השתנתה. מוצר זה הופסק בתאריך 31 בדצמבר, 2015.\n"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893721"
+name: אבטחה של חנית עבור Exchange Server
+summary: >
+  האבטחה ' חנית ' עבור Exchange Server מופיעה לפי מדיניות מחזור חיי [הקבוע](/lifecycle/policies/fixed) .
+
+
+
+  > [!IMPORTANT]
+
+  > מפת הדרכים למוצרי אבטחה תחת המותג החזיתית השתנתה. מוצר זה הופסק החל מ-31 בדצמבר 2015.
 products:
 - windows
 policyType: fixed
 supportDates:
   start: 03/08/2007
+  end: 12/31/2015
   extendedEnd: 12/31/2015
 releases:
 - version: Service Pack 2
@@ -27,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 03/08/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](https://www.microsoft.com/security/business/explore/cybersecurity)"
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת העברה](https://www.microsoft.com/security/business/explore/cybersecurity)"
