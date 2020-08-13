@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מחשב וירטואלי 2004
-  description: Virtual PC 2004 מלווה את מדיניות מחזור החיים הקבוע.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 869a0829186bfc00b527cb9196a97356020ea033
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Virtual PC 2004
+  description: מחשב 2004 וירטואלי מבצע את מדיניות מחזור חיי הקבוע.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: e4a1b7e6f5b072185d8b2f406398cb077ce983a6
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: he-IL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "819701"
-name: מחשב וירטואלי 2004
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893277"
+name: Virtual PC 2004
 summary: >
-  Virtual PC 2004 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  מחשב 2004 וירטואלי מבצע את מדיניות מחזור חיי [הקבוע](/lifecycle/policies/fixed) .
 
 
-  פעולה זו חלה על המהדורות הבאות: Express, סטנדרטי
+  פעולה זו חלה על המהדורות הבאות: Express, Standard
 
 
   > [!IMPORTANT]
 
-  > התמיכה במוצר זה הסתיימה.
+  > התמיכה עבור מוצר זה הסתיימה.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 01/20/2004
   endDate: 10/09/2007
-content: "> [!TIP]\n> מיקרוסופט Virtual PC 2004 Express שוחרר באפריל 13, 2006.\n\n## <a name=\"links\"></a>קישורים \n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>מהדורות \n* אקספרס\n* רגיל"
+content: "> [!TIP]\n> Microsoft Virtual PC 2004 Express שוחרר ב-13 באפריל 2006.\n\n## <a name=\"links\"></a>קישורים \n* [מדיניות service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>מהדורות \n* אקספרס\n* רגיל"

@@ -1,27 +1,27 @@
 ---
 title: ייצוא מוצרים
 description: ייצוא מידע של מחזור חיים של מוצר
-ms.date: 08/12/2020
-ms.openlocfilehash: 4a3e2de9614fe0850cb0353468a6ad9f88857d8c
-ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
+ms.date: 08/13/2020
+ms.openlocfilehash: 392fea55e33da62de142ddf7fe2d70e1aec3e0da
+ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/12/2020
-ms.locfileid: "891696"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "893314"
 ---
-# <a name="export"></a><span data-ttu-id="ee410-103">ייצוא</span><span class="sxs-lookup"><span data-stu-id="ee410-103">Export</span></span>
+# <a name="export"></a><span data-ttu-id="cf4dc-103">ייצוא</span><span class="sxs-lookup"><span data-stu-id="cf4dc-103">Export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="ee410-104">דף זה נמצא תחת פיתוח.</span><span class="sxs-lookup"><span data-stu-id="ee410-104">This page is under development.</span></span>
+> <span data-ttu-id="cf4dc-104">דף זה נמצא תחת פיתוח.</span><span class="sxs-lookup"><span data-stu-id="cf4dc-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="ee410-105">ייצוא כל המוצרים</span><span class="sxs-lookup"><span data-stu-id="ee410-105">Export All Products</span></span>
-<span data-ttu-id="ee410-106">יצא את כל המוצרים ללא מסננים.</span><span class="sxs-lookup"><span data-stu-id="ee410-106">Export all products without any filters.</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="cf4dc-105">ייצוא כל המוצרים</span><span class="sxs-lookup"><span data-stu-id="cf4dc-105">Export All Products</span></span>
+<span data-ttu-id="cf4dc-106">יצא את כל המוצרים ללא מסננים.</span><span class="sxs-lookup"><span data-stu-id="cf4dc-106">Export all products without any filters.</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="ee410-107">ייצוא כל המוצרים</span><span class="sxs-lookup"><span data-stu-id="ee410-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="cf4dc-107">ייצוא כל המוצרים</span><span class="sxs-lookup"><span data-stu-id="cf4dc-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a><span data-ttu-id="ee410-108">ייצוא מוצרים לפי קטגוריה</span><span class="sxs-lookup"><span data-stu-id="ee410-108">Export Products by Category</span></span>
-<span data-ttu-id="ee410-109">בחר קבוצה לייצוא:</span><span class="sxs-lookup"><span data-stu-id="ee410-109">Select a grouping to export:</span></span>
+## <a name="export-products-by-category"></a><span data-ttu-id="cf4dc-108">ייצוא מוצרים לפי קטגוריה</span><span class="sxs-lookup"><span data-stu-id="cf4dc-108">Export Products by Category</span></span>
+<span data-ttu-id="cf4dc-109">בחר קבוצה לייצוא:</span><span class="sxs-lookup"><span data-stu-id="cf4dc-109">Select a grouping to export:</span></span>
 
 > [!div class="op_multi_selector" title1="משפחה" title2="קבוצה"]
 > - [(.NET | כל](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ ms.locfileid: "891696"
 > - [(Windows | אבטחה](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a><span data-ttu-id="ee410-167">ייצוא מוצרים לפי סוף שנת התמיכה</span><span class="sxs-lookup"><span data-stu-id="ee410-167">Export Products by End of Support Year</span></span>
-<span data-ttu-id="ee410-168">בחר שנה כדי לייצא את שירות הסיום של products באותה שנה:</span><span class="sxs-lookup"><span data-stu-id="ee410-168">Select a year to export products ending service in that year:</span></span>
+## <a name="export-products-by-end-of-support-year"></a><span data-ttu-id="cf4dc-167">ייצוא מוצרים לפי סוף שנת התמיכה</span><span class="sxs-lookup"><span data-stu-id="cf4dc-167">Export Products by End of Support Year</span></span>
+<span data-ttu-id="cf4dc-168">בחר שנה כדי לייצא את שירות הסיום של products באותה שנה:</span><span class="sxs-lookup"><span data-stu-id="cf4dc-168">Select a year to export products ending service in that year:</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
