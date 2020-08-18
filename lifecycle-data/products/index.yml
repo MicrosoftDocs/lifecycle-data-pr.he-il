@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
-title: חיפוש מידע מחזור חיי מוצר ושירותים (תצוגה מקדימה)
+title: מידע אודות מחזור חיים של מוצר ושירותים (תצוגה מקדימה)
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> דף זה נמצא בשלבי פיתוח. לקבלת רשימה מלאה של מוצרי Microsoft וצירי הזמן והפרטים התומכים שלהם, בקר [בaka.ms/lifecycle/search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> ייצוא מידע מחזור חיים מדף [הייצוא של מחזור החיים](/lifecycle/export/products) .\n\n\nמחזור חיי מיקרוסופט מספק קווים מנחים עקביים וצפויים לתמיכה במהלך חיי המוצר, ומסייע ללקוחות לנהל את ההשקעות וסביבות ה-IT שלהם תוך תכנון אסטרטגי לעתיד.\n\n\nחפש להלן רשימה של מוצרים ושירותים מסחריים של Microsoft ולאחר מכן בחר את התוצאה כדי לחפש צירי זמן של תמיכה ושירות, עדכונים נדרשים, מידע העברה ודרישות מערכת."
+summary: "\n\n> [!IMPORTANT]\n> דף זה נמצא תחת פיתוח והוא ימשיך לחיות במלואו ב-2 בספטמבר. בינתיים, באפשרותך להציג רשימה מלאה של מוצרי Microsoft עם צירי הזמן והפרטים של התמיכה שלהם ב- [aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> ייצוא מידע של מחזור חיים מהדף ' [ייצוא מחזור חיים](/lifecycle/export/products) '.\n\n\nמחזור החיים של Microsoft מספק הנחיות עקביות וצפויות לתמיכה לאורך כל חיי המוצר, ומסייע ללקוחות לנהל את ההשקעות והסביבות של ה-IT שלהם תוך תכנון אסטרטגי עבור העתיד.\n\n\nחפש להלן רשימה של מוצרים ושירותים מסחריים של Microsoft ולאחר מכן בחר את התוצאה לאיתור צירי זמן של תמיכה ושירות, עדכונים נדרשים, מידע אודות העברה ודרישות מערכת."
 metadata:
-  ms.openlocfilehash: d412a8110fc64c4cb346fd9b7056fa35a59c8260
-  ms.sourcegitcommit: 0c5dc5388beb299272e01efb037b964e49ca1fb0
+  ms.openlocfilehash: 5099408b03db5a7d520128dfd1da8271e4289aaa
+  ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
   ms.translationtype: MT
   ms.contentlocale: he-IL
-  ms.lasthandoff: 08/04/2020
-  ms.locfileid: "882437"
+  ms.lasthandoff: 08/17/2020
+  ms.locfileid: "899840"
