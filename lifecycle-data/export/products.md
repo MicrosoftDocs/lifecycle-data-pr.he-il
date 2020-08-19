@@ -1,27 +1,27 @@
 ---
-title: ייצוא מוצרים
+title: ייצוא נתוני מחזור חיים
 description: ייצוא מידע של מחזור חיים של מוצר
-ms.date: 08/17/2020
-ms.openlocfilehash: 01a34995c0dd1fc9fb0c5f75c4460357e091ccce
-ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+ms.date: 08/18/2020
+ms.openlocfilehash: 80145edf59e6406d32292d846ae3f263cddd294a
+ms.sourcegitcommit: 6bed901441570ef084842edd1b7e5dfbc192c99a
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "899803"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "902403"
 ---
-# <a name="export"></a>ייצוא
+# <a name="lifecycle-data-export"></a>ייצוא נתוני מחזור חיים
 
 > [!IMPORTANT]
 > דף זה נמצא תחת פיתוח.
 
 ## <a name="export-all-products"></a>ייצוא כל המוצרים
-יצא את כל המוצרים ללא מסננים.
+ייצוא נתוני מחזור חיים עבור כל המוצרים על-ידי לחיצה להלן:
 
 > [!div class="nextstepaction"]
 > [ייצוא כל המוצרים](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a>ייצוא מוצרים לפי קטגוריה
-בחר קבוצה לייצוא:
+## <a name="export-products-by-family-and-group"></a>ייצוא מוצרים לפי משפחה וקבוצה
+בחר משפחה ולאחר מכן בחר קבוצה לייצוא. הערה: הייצוא יחל בעת בחירת ערך קבוצה. 
 
 > [!div class="op_multi_selector" title1="משפחה" title2="קבוצה"]
 > - [(.NET | כל](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ ms.locfileid: "899803"
 > - [(Windows | אבטחה](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a>ייצוא מוצרים לפי סוף שנת התמיכה
-בחר שנה כדי לייצא את שירות הסיום של products באותה שנה:
+## <a name="export-products-by-end-of-support-date"></a>ייצוא מוצרים לפי תאריך סיום התמיכה
+בחר שנה כדי לראות מוצרים המגיעים לסוף התמיכה. הערה: הייצוא יחל כאשר ערך השנה נבחר.
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
