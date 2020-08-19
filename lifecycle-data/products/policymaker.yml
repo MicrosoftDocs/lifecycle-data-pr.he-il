@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: PolicyMaker
+  description: PolicyMaker עוקב אחר מדיניות מחזור חיי הקבועים.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: d1b7d7ac98ec91c5118023494257fde96fbf2c6f
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "904133"
+name: PolicyMaker
+summary: >+
+  PolicyMaker עוקב אחר מדיניות מחזור חיי [הקבועים](/lifecycle/policies/fixed) .
+
+
+  הדבר חל על המהדורות הבאות: אבטחת יישומים, Outlook Edition, Professional 9.0, הרחבת רישום 2.0, שתף את מנהל 1.0, עדכון התוכנה 1.0, עדכון תוכנה 2.0, Standard 1.0, Standard 2.0
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/01/2007
+  end: 01/12/2010
+releases:
+- version: Original Release
+  startDate: 01/01/2007
+  endDate: 01/12/2010
+content: "\n\n> [!NOTE]\n> התמיכה עבור מוצר זה כפופה לתנאי הרכישה.\n\n## <a name=\"editions\"></a>מהדורות \n* אבטחת יישומים\n* מהדורת Outlook\n* 9.0 מקצועי\n* הרחבת רישום 2.0\n* שיתוף מנהל 1.0\n* עדכון תוכנה 1.0\n* עדכון תוכנה 2.0\n* 1.0 רגיל\n* 2.0 רגיל"
