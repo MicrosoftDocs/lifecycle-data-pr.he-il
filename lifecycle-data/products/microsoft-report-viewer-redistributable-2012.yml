@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 2012 של מציג הדוחות ההפצה החוזרת של Microsoft
+  description: 2012 מציג את המדיניות ההפצה החוזרת של מציג Microsoft Report כדלקמן מדיניות מחזור חיים קבוע.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 851327e620d35cbb94eb2f0df86755e04c75eaac
+  ms.sourcegitcommit: 9d254d51934063ec1dd8c7e0e5fcb53ccc7257b3
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 08/20/2020
+  ms.locfileid: "904893"
+name: 2012 של מציג הדוחות ההפצה החוזרת של Microsoft
+summary: >+
+  2012 מציג את המדיניות ההפצה החוזרת של מציג Microsoft Report כדלקמן מדיניות מחזור חיים [קבוע](/lifecycle/policies/fixed) .
+
+
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 07/13/2014
+  end: 07/11/2017
+  extendedEnd: 07/12/2022
+releases:
+- version: Original Release
+  startDate: 07/13/2014
+  endDate: 07/12/2022
+content: ''
