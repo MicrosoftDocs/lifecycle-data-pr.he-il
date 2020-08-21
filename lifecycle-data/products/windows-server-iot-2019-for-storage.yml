@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 2019 הרבה שרת של Windows עבור אחסון
-  description: הרבה 2019 שרת של Windows עבור אחסון מאחר למדיניות מחזור חיי קבוע.
+  title: Windows Server IoT 2019 עבור Storage
+  description: Windows Server IoT 2019 עבור Storage עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9e346c8980467df3bdbd3c9f9e9667b2fa81f9cf
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869681"
-name: 2019 הרבה שרת של Windows עבור אחסון
+name: Windows Server IoT 2019 עבור Storage
 summary: >+
-  Windows Server הרבה 2019 עבור אחסון מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Windows Server IoT 2019 עבור Storage עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  פעולה זו חלה על המהדורות הבאות: רגיל, קבוצת עבודה
+  הדבר חל על המהדורות הבאות: Standard, Workgroup
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 03/04/2019
   endDate: 01/09/2029
-content: "\n\n\n## <a name=\"editions\"></a>מהדורות \n* רגיל\n* קבוצת עבודה"
+content: "\n\n\n## <a name=\"editions\"></a>מהדורות \n* Standard\n* Workgroup"

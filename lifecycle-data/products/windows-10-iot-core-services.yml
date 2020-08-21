@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: חלונות 10 הרבה שירותי ליבה
-  description: Windows 10 הרבה שירותי ליבה בעקבות מדיניות מחזור החיים המודרני.
+  title: שרותי IoT Core של Windows 10
+  description: שרותי  IoT Core של Windows 10 עוקב אחר מדיניות החיים המודרנית.
   ms.date: 07/28/2020
   ms.openlocfilehash: e2e64958c91092f2890a4d871de3fd7b96614d65
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869689"
-name: חלונות 10 הרבה שירותי ליבה
+name: שרותי IoT Core של Windows 10
 summary: >+
-  Windows 10 הרבה שירותי ליבה בעקבות מדיניות מחזור החיים [המודרני](/lifecycle/policies/modern) .
+  שרותי  IoT Core של Windows 10 עוקב אחר מדיניות החיים [המודרנית.](/lifecycle/policies/modern)
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2018
-content: "\n## <a name=\"links\"></a>קישורים \n* [Windows 10 הרבה שירותי ליבה](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> Windows 10 הרבה ליבות Services הוא מנוי המציע תמיכה בתוכנה כשירות, כולל בקרת עדכון עם מרכז העדכונים של התקן ואבטחה משופרת עם התקן בריאות Attestation, כל עוד אתה מפעיל גירסה נתמכת של Windows 10 הרבה תוכנות ליבה."
+content: "\n## <a name=\"links\"></a>קישורים \n* [שרותי IoT Core של Windows 10](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> שרותי IoT Core של Windows 10 הנם מנוי המציע תמיכה במערכות בתור שירות, הכולל שליטה בעדכונים עם מרכז עדכוני התקן והגנת משופרת עם עדות בריאות ההתקן, כל עוד הנך מריץ גרסא נתמכת של מערכת IoT Core של Windows 10."

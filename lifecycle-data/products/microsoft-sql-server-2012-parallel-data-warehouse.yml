@@ -1,23 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: שרת Microsoft SQL 2012 מחסן נתונים מקבילי (מערכת פלטפורמת ניתוח)
-  description: מחסן נתונים מקבילי של Microsoft SQL Server 2012 (מערכת פלטפורמת ניתוח) עוקב אחר מדיניות מחזור החיים הקבוע.
+  title: Microsoft SQL Server 2012 Parallel Data Warehouse (Analytics Platform System)
+  description: 'Microsoft SQL Server 2012 Parallel Data Warehouse (Analytics Platform System) עוקב אחר מדיניות מחזור-חיים קבועה. '
   ms.date: 07/28/2020
   ms.openlocfilehash: 78651a46cb453708bccc394e512756a7c24b599d
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869777"
-name: שרת Microsoft SQL 2012 מחסן נתונים מקבילי (מערכת פלטפורמת ניתוח)
-summary: >
-  מחסן נתונים מקבילי של Microsoft SQL Server 2012 (מערכת פלטפורמת ניתוח) עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
-
-
-
-  > [!IMPORTANT]
-
-  > שרת SQL 2012 מחסן נתונים מקבילי (PDW) ממותג מחדש כ-APS (מערכת פלטפורמת ניתוח)
+name: Microsoft SQL Server 2012 Parallel Data Warehouse (Analytics Platform System)
+summary: "Microsoft SQL Server 2012 Parallel Data Warehouse (Analytics Platform System) עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed). \n\n\n> [!IMPORTANT]\n> SQL Server 2012 Parallel Data Warehouse (PDW) עבר מיתוג מחדש ונקרא כעת APS (Analytics Platform System) \n"
 products:
 - sql-server
 policyType: fixed
