@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: לקוח הגנת מידע תכלת
-  description: לקוח הגנת מידע תכלת מלווה את מדיניות מחזור החיים המודרני.
+  title: לקוח הגנת מידע של Azure
+  description: לקוח הגנת המידע של Azure עוקב אחר מדיניות מחזור החיים המודרנית.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a7e2c02d8f1d7ca3f071b5f36b97eab364b3340
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854688"
-name: לקוח הגנת מידע תכלת
+name: לקוח הגנת מידע של Azure
 summary: >+
-  לקוח הגנת מידע תכלת מלווה את מדיניות מחזור החיים [המודרני](/lifecycle/policies/modern) .
+  לקוח הגנת המידע של Azure עוקב אחר מדיניות מחזור החיים [המודרנית.](/lifecycle/policies/modern)
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/01/2016
   endDate: 03/31/2021
-content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות מתן שירות](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [הנחיית הגירה](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> כדי לספק חווית לקוח מאוחדת ומפושטת, לקוח הגנת מידע תכלת (קלאסי) וניהול תוויות בפורטל התכלת אינם מוגנים כ-31 במרץ 2021. מסגרת זו הזמן מאפשר לכל הלקוחות הנוכחי הגנה מידע הלקוח למעבר לפתרון שלנו תיוג מאוחד באמצעות פלטפורמת הגנת המידע של Microsoft מידע מאוחד."
+content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות מתן שירות](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [הדרכת ביצוע מעבר](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> כדי לספק חווית לקוח מאוחדת וזורמת, לקוח הגנת המידע של Azure (קלאסי) וניהול מותג בפורטל של Azure יבוטלו החל מה-31 למרץ, 2021. מסגרת זמן זו מאפשרת לכל הלקוחות הנוכחים של הגנת המידע של Azure לעבור לפתרון התיוגים האחיד שלנו בשימוש בפלטפורמת תיוג הגנת מידע האחיד של Microsoft."

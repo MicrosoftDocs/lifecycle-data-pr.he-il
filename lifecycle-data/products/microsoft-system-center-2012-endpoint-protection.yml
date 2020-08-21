@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מרכז המערכת של Microsoft 2012 הגנת נקודות קצה
-  description: מרכז המערכת של Microsoft 2012 הגנת נקודות קצה מלווה במדיניות מחזור חיים קבוע.
+  title: Microsoft System Center 2012 Endpoint Protection
+  description: Microsoft System Center 2012 Endpoint Protection עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 831df2c41a088376f7cb34fb117163dc45ade4ed
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854913"
-name: מרכז המערכת של Microsoft 2012 הגנת נקודות קצה
+name: Microsoft System Center 2012 Endpoint Protection
 summary: >+
-  מרכז המערכת של Microsoft 2012 הגנת נקודות קצה מלווה במדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft System Center 2012 Endpoint Protection עוקב אחר מדיניות מחזור-חיים  [קבועה](/lifecycle/policies/fixed).
 
 
-  פעולה זו חלה על המהדורות הבאות: for Mac
+  הדבר חל על המהדורות הבאות: for Mac
 
 products:
 - msc
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות מתן שירות](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [הנחיית הגירה](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)\n* [תיעוד מרכז המערכת](/system-center/#pivot=components&panel=components-all)\n\n> [!NOTE]\n> על הלקוחות להישאר עדכניים עם עדכון הפלטפורמה האחרונה נגד תוכנות זדוניות להיות נתמך באופן מלא.\n\n## <a name=\"editions\"></a>מהדורות \n* עבור Mac"
+content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות מתן שירות](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [הדרכת ביצוע מעבר](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [מדיניות חבילת תמיכה](/lifecycle/policies/fixed#service-packs)\n* [תיעוד מרכז המערכת](/system-center/#pivot=components&panel=components-all)\n\n> [!NOTE]\n> על הלקוחות להישאר עדכניים עם עדכון הפלטפורמה האחרון נגד תוכנות זדוניות על מנת להתמך באופן מלא.\n\n## <a name=\"editions\"></a>מהדורות \n* עבור Mac"

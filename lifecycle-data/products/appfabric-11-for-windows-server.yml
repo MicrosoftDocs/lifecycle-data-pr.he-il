@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: AppFabric 1.1 עבור Windows Server
-  description: AppFabric 1.1 עבור Windows Server עוקב אחר מדיניות מחזור החיים הקבוע.
+  description: AppFabric 1.1 עבור Windows Server עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 64fa9cde8a1c3dffe62eac74d0c43c0cf7911fa7
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854874"
 name: AppFabric 1.1 עבור Windows Server
 summary: >+
-  AppFabric 1.1 עבור Windows Server עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  AppFabric 1.1 עבור Windows Server עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 02/11/2012
   endDate: 04/12/2022
-content: "\n## <a name=\"links\"></a>קישורים \n* [הארכת מחזור חיי](/archive/blogs/msdn/appfabric/microsoft-appfabric-1-1-for-windows-server-support-lifecycle-extension-4112017)"
+content: "\n## <a name=\"links\"></a>קישורים \n* [הארכת מדיניות מחזור-חיים](/archive/blogs/msdn/appfabric/microsoft-appfabric-1-1-for-windows-server-support-lifecycle-extension-4112017)"

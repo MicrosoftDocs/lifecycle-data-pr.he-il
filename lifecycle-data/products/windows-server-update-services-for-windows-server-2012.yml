@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: שירותי עדכון windows Server עבור Windows Server 2012
-  description: שירותי windows Server Update עבור Windows Server 2012 מעקב אחר מדיניות מחזור חיי הרכיבים.
+  title: שירותי עדכוני שרת ווינדוס עבור שרת ווינדוס 2012
+  description: Windows Server Update Services עבור Windows Server 2012 עוקב אחר מדיניות מחזור-חיים לרכיבים.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4c901f9ed6f882c8009f8c6ea1df3cf55ac81d7c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855067"
-name: שירותי עדכון windows Server עבור Windows Server 2012
+name: שירותי עדכוני שרת ווינדוס עבור שרת ווינדוס 2012
 summary: >+
-  שירותי windows Server Update עבור Windows Server 2012 מעקב אחר מדיניות מחזור חיי [הרכיבים](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Windows Server Update Services עבור Windows Server 2012 עוקב אחר מדיניות מחזור-חיים [לרכיבים](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 content: >-
   > [!TIP]
 
-  > רכיב זה מלווה את מחזור החיים של מוצר האב שלו, Windows Server 2012.
+  > רכיב זה עוקב אחר המחזור-חיים של המוצר מעליו, Windows Server 2012.

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: המיקום המוטבע של Windows 7
-  description: המיקום המוטבע של Windows 7 עוקב אחר מדיניות מחזור החיים הקבוע.
+  title: Windows Embedded POSReady 7
+  description: Windows Embedded POSReady 7 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 61f2ed95175d81f6e33f8435e70b3b45a01094f5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855071"
-name: המיקום המוטבע של Windows 7
+name: Windows Embedded POSReady 7
 summary: >+
-  המיקום המוטבע של Windows 7 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Windows Embedded POSReady 7 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 09/10/2011
   endDate: 10/12/2021
-content: "\n## <a name=\"links\"></a>קישורים \n* [* תוכנית עדכון אבטחה מורחבת (מערכת המידע)-עדכוני אבטחה מורחבים עבור בחירת מוצרים מוטבעים זמינים באמצעות יצרני ציוד מקורי (Oem).](/lifecycle/faq/extended-security-updates)\n* [מצב מוטבע של Windows](/windows/iot-core/develop-your-app/embeddedmode)"
+content: "\n## <a name=\"links\"></a>קישורים \n* [* תכנית עדכון אבטחה מורחב (ESU) - עדכוני אבטחה מורחבים עבור מוצרי Embedded מסוימים זמינים דרך OEMs.](/lifecycle/faq/extended-security-updates)\n* [Windows IoT Embedded Mode](/windows/iot-core/develop-your-app/embeddedmode)"
