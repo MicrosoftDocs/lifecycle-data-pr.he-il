@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 הארגון והחינוך
-  description: Windows 10 הארגון והחינוך מלווה את מדיניות מחזור החיים המודרני.
+  title: Windows 10 Enterprise ו-Education
+  description: Windows 10 Enterprise ו-Education עוקב אחר מדיניות מחזור-חיים עכשוית.
   ms.date: 07/30/2020
   ms.openlocfilehash: 959937e0ef4ac9c0cc65ecb1a6ef8aa332a835a8
   ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "879161"
-name: Windows 10 הארגון והחינוך
+name: Windows 10 Enterprise ו-Education
 summary: >
-  Windows 10 הארגון והחינוך מלווה את מדיניות מחזור החיים [המודרני](/lifecycle/policies/modern) .
+  Windows 10 Enterprise ו-Education עוקב אחר מדיניות מחזור-חיים  [עכשוית](/lifecycle/policies/modern).
 
 
-  פעולה זו חלה על המהדורות הבאות: חינוך, ארגון
+  הדבר חל על המהדורות הבאות: Education, Enterprise
 
 
   > [!IMPORTANT]
 
-  > Microsoft תמשיך לתמוך לפחות בערוץ אחד של Windows 10 למחצה עד ליום 14 באוקטובר, 2025.
+  > Microsoft תמשיך לתמוך לפחות בערוץ Windows 10 חצי-שנתי אחד עד ל- 14 באוקטובר, 2025.
 products:
 - windows
 policyType: modern-on-prem
@@ -57,4 +57,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>קישורים \n* [חלונות כשירות (WaaS)](/windows/deployment/update/waas-quick-start)\n* [מידע אודות המוצר](/windows/windows-10/)\n* [גיליון עובדות של מחזור החיים של Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [מחזור חיים שאלות נפוצות-מוצרי Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> אם לא נדחה, העדכונים הבאים של Windows 10 שנתי למחצה של הערוץ עשויים להיות מותקנים לפני הסיום המפורט של תאריך התמיכה הרגילה.\n\n## <a name=\"editions\"></a>מהדורות \n* מגזר החינוך\n* ארגון"
+content: "\n## <a name=\"links\"></a>קישורים \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [מידע אודות המוצר](/windows/windows-10/)\n* [גיליון עובדות של מדיניות מחזור-חיים של Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [שאלות נפוצות אודות מדיניות מחזור-חיים - מוצרי ](/lifecycle/faq/windows)Windows\n\n> [!NOTE]\n> למעט אם נדחו, עדכוני תכונות עוקבים של הערוץ החצי-שנתי של Windows 10 ניתנים להתקנה טרם תאריך סוף תמיכה עיקרית הרשום.\n\n## <a name=\"editions\"></a>מהדורות \n* Education\n* Enterprise"

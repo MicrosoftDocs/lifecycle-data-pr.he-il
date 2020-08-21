@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ויז סטודיו 2019
-  description: Visual Studio 2019 מלווה את מדיניות מחזור החיים הקבוע.
+  title: Visual Studio 2019
+  description: Visual Studio 2019 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3bb4a3be253fe45b27fa6baa8f165dc2fbb3ffd1
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869699"
-name: ויז סטודיו 2019
+name: Visual Studio 2019
 summary: >+
-  Visual Studio 2019 מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Visual Studio 2019 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  הדבר חל על המהדורות הבאות: סוכנים, בניית כלים, קהילה, ארגון, עבור Mac, מלקט עצמאי של IntelliTrace, כלי ביצועים, מקצועי, כלים מרוחקים, סייר הצוותים, ההפצה החוזרת של Visual C++
+  הדבר חל על המהדורות הבאות: Agents, Build Tools, Community, Enterprise, for Mac, IntelliTrace Standalone Collector, Performance Tools, Professional, Remote Tools, Team Explorer, Visual C++ Redistributable
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Version 16.0
   startDate: 04/02/2019
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>קישורים \n* [ודעה](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [מידע אודות מתן שירות](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>מהדורות \n* סוכנים\n* בניית כלים\n* קהילה\n* ארגון\n* עבור Mac\n* מלקט עצמאית של IntelliTrace\n* כלי ביצועים\n* מקצועי\n* כלים מרוחקים\n* סייר הצוותים\n* ההפצה החוזרת של Visual C++"
+content: "\n## <a name=\"links\"></a>קישורים \n* [הכרזה](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [מידע אודות מתן שירות](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>מהדורות \n* Agents\n* Build Tools\n* Community\n* Enterprise\n* עבור Mac\n* IntelliTrace Standalone Collector\n* Performance Tools\n* Professional\n* Remote Tools\n* Team Explorer\n* Visual C++ Redistributable"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מיקרוסופט Lync Server 2010
-  description: Microsoft Lync Server 2010 עוקב אחר מדיניות מחזור החיים הקבוע.
+  title: Microsoft Lync Server 2010
+  description: Microsoft Lync Server 2010 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/30/2020
   ms.openlocfilehash: 093060d50a15334bdeac1891bf7828d50ad0f9dc
   ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/31/2020
   ms.locfileid: "879452"
-name: מיקרוסופט Lync Server 2010
+name: Microsoft Lync Server 2010
 summary: >+
-  Microsoft Lync Server 2010 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft Lync Server 2010 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  הדבר חל על המהדורות הבאות: ארגון, ערכת פיתוח תוכנה של צ'אט קבוצתי, SDK, תקן
+  הדבר חל על המהדורות הבאות: Enterprise, Group Chat Software Development Kit, SDK, Standard
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>קישורים \n* [מהדורת הטלפון של Lync](/lifecycle/products/microsoft-lync-phone-edition?branch=live)\n\n> [!NOTE]\n> מהדורת lync Phone נתמכת עם Lync Server 2010 ו-Lync Server 2013. תאריך התמיכה עבור מהדורת Lync Phone הורחב 2 שנים כדי להתיישר עם מחזור החיים 2013 של Lync Server.\n\n## <a name=\"editions\"></a>מהדורות \n* ארגון\n* ערכת פיתוח תוכנה של צ'אט קבוצתי\n* SDK\n* רגיל"
+content: "\n## <a name=\"links\"></a>קישורים \n* [Lync Phone Edition](/lifecycle/products/microsoft-lync-phone-edition?branch=live)\n\n> [!NOTE]\n> Lync Phone Edition נתמך עם Lync Server 2010 ו- Lync Server 2013. תאריך התמיכה עבור Lync Phone Edition הוארך בשנתיים כדי לישר קו עם המחזור-חיים של Lync Server 2013. \n\n## <a name=\"editions\"></a>מהדורות \n* Enterprise\n* Group Chat Software Development Kit\n* SDK\n* Standard"
