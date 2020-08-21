@@ -1,18 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מנהל ההתקנים הניידים של מרכז המערכת של Microsoft 2008
-  description: מנהל ההתקנים הניידים של Microsoft System Center 2008 עוקב אחר מדיניות מחזור החיים הקבוע.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 14a7c0da14eb713aa83ca322fe5a321cff6e4544
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: מנהל ההתקנים הניידים של Microsoft System Center 2008
+  description: 2008 מבצע את מדיניות מחזור החיים הקבועים של Microsoft System Center Mobile.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: df98171e48c84191a90b4c051d6d17e77e720d93
+  ms.sourcegitcommit: 58c6a4bf0c3ef066969422e3acf340702facef6e
   ms.translationtype: MT
   ms.contentlocale: he-IL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "819749"
-name: מנהל ההתקנים הניידים של מרכז המערכת של Microsoft 2008
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906280"
+name: מנהל ההתקנים הניידים של Microsoft System Center 2008
 summary: >+
-  מנהל ההתקנים הניידים של Microsoft System Center 2008 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  2008 מבצע את מדיניות מחזור החיים [הקבועים](/lifecycle/policies/fixed) של Microsoft System Center Mobile.
 
+
+  פעולה זו חלה על המהדורות הבאות: כל הרלוונטיות, wSQL
 
 products:
 - msc
@@ -28,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 05/14/2008
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת העברה](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [מדיניות service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>מהדורות \n* כל הרלוונטיות\n* wSQL"
