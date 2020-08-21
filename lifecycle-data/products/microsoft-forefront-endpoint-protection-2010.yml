@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: הגנת נקודות קצה של מיקרוסופט בחזית 2010
-  description: הגנת נקודות קצה של Microsoft בחזית 2010 מלווה את מדיניות מחזור החיים הקבוע.
+  title: Microsoft Forefront Endpoint Protection 2010
+  description: Microsoft Forefront Endpoint Protection 2010 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 113adafeb18c300817f2c264cf2457b0e24cbd8c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855009"
-name: הגנת נקודות קצה של מיקרוסופט בחזית 2010
+name: Microsoft Forefront Endpoint Protection 2010
 summary: >
-  הגנת נקודת קצה של Microsoft בחזית 2010 מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft Forefront Endpoint Protection 2010 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > . התמיכה הסתיימה ראה הנחיות הגירה להלן.
+  > התמיכה הסתיימה. ראו הנחיות מעבר מטה.
 products:
 - office
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 03/31/2011
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [מידע אודות מתן שירות](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> על הלקוחות להישאר עדכניים עם עדכון הפלטפורמה האחרונה נגד תוכנות זדוניות להיות נתמך באופן מלא. הגנה על נקודות קצה בחזית 2010 מכוסה על-ידי מדיניות מחזור החיים של מנהל המערכת, ה2007 הן עבור תמיכה מרכזית ומורחבת."
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [מידע אודות מתן שירות](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> על הלקוחות להישאר עדכניים עם עדכון הפלטפורמה האחרון נגד תוכנות זדוניות על מנת להתמך באופן מלא. Forefront Endpoint Protection 2010 מכוסה על ידי אותה מדיניות מחזור-חיים של System Center Configuration Manager 2007 עבור תמיכה עיקרית וגם תמיכה מורחבת."

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Server 2016 האפשרות ההתקנה של ננו שרת
-  description: Windows Server 2016 באפשרות ההתקנה של ננו Server מלווה את מדיניות מחזור החיים המודרני.
+  title: Windows Server 2016 Nano Server אפשרות התקנה
+  description: Windows Server 2016 Nano Server אפשרות התקנה עוקב אחר מדיניות מחזור-חיים עכשוית.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6c8189a0fe39fe3ad0b79147e0b2ddbd67e3f799
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855157"
-name: Windows Server 2016 האפשרות ההתקנה של ננו שרת
+name: Windows Server 2016 Nano Server אפשרות התקנה
 summary: >+
-  Windows Server 2016 באפשרות ההתקנה של ננו Server מלווה את מדיניות מחזור החיים [המודרני](/lifecycle/policies/modern) .
+  Windows Server 2016 Nano Server אפשרות התקנה עוקב אחר מדיניות מחזור-חיים [עכשוית](/lifecycle/policies/modern).
 
 
-  פעולה זו חלה על המהדורות הבאות: מרכז נתונים, תקן
+  הדבר חל על המהדורות הבאות: Datacenter, Standard
 
 products:
 - windows
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 10/15/2016
   endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות מתן שירות](/windows-server/get-started/nano-in-semi-annual-channel)\n* [מחזור חיים שאלות נפוצות-מוצרי Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>מהדורות \n* נתונים\n* רגיל"
+content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות מתן שירות](/windows-server/get-started/nano-in-semi-annual-channel)\n* [שאלות נפוצות אודות מדיניות מחזור-חיים - מוצרי ](/lifecycle/faq/windows)Windows\n\n\n## <a name=\"editions\"></a>מהדורות \n* Datacenter\n* Standard"

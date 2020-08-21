@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: הגנת נקודות קצה של מרכז המערכת של Microsoft 2012 R2
-  description: Microsoft System Center 2012 R2 הגנת נקודות קצה מלווה את מדיניות מחזור החיים הקבוע.
+  title: Microsoft System Center 2012 R2 Endpoint Protection
+  description: Microsoft System Center 2012 R2 Endpoint Protection עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8e3f5935bc3b59d2a18a967b2bb5001c0ce01c1d
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854794"
-name: הגנת נקודות קצה של מרכז המערכת של Microsoft 2012 R2
+name: Microsoft System Center 2012 R2 Endpoint Protection
 summary: >+
-  Microsoft System Center 2012 R2 הגנת נקודות קצה מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft System Center 2012 R2 Endpoint Protection עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/16/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות מתן שירות](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [הנחיית הגירה](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)\n* [התיעוד של מנהל נקודות הקצה של Microsoft](/mem/)\n\n> [!NOTE]\n> על הלקוחות להישאר עדכניים עם עדכון הפלטפורמה האחרונה נגד תוכנות זדוניות להיות נתמך באופן מלא."
+content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות מתן שירות](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [הדרכת ביצוע מעבר](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [מדיניות חבילת תמיכה](/lifecycle/policies/fixed#service-packs)\n* [תיעוד ](/mem/)Microsoft Endpoint Manager \n\n> [!NOTE]\n> על הלקוחות להישאר עדכניים עם עדכון הפלטפורמה האחרון נגד תוכנות זדוניות על מנת להתמך באופן מלא."

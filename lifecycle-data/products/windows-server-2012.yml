@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server 2012
-  description: Windows Server 2012 עוקב אחר מדיניות מחזור החיים הקבוע.
+  description: Windows Server 2012 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3afe3de568f6e9b7eef58b6af132ff3ad4526724
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855158"
 name: Windows Server 2012
 summary: >+
-  Windows Server 2012 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Windows Server 2012 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  הדבר חל על המהדורות הבאות: מרכז נתונים, יסודות, עבור מערכות מוטבעות, קרן, תקן
+  הדבר חל על המהדורות הבאות: Datacenter, Essentials, for Embedded Systems, Foundation, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](/windows-server/upgrade/upgrade-overview)\n* [מידע אודות המוצר](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> תמיכה רגילה ומורחבת עבור מוצר זה הורחבה כדי לספק ללקוחות את ציר הזמן הסטנדרטי למעבר בין מחזור החיים. יסודות Windows Server שפורסמו ב-2 בינואר 2013.\n\n## <a name=\"editions\"></a>מהדורות \n* נתונים\n* מונחים בסיסיים\n* עבור מערכות מוטבעות\n* קרן\n* רגיל"
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](/windows-server/upgrade/upgrade-overview)\n* [מידע אודות המוצר](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> תמיכה רגילה ומורחבת עבור מוצר זה הורחבה כדי לספק ללקוחות עם ציר הזמן הסטנדרתי של מדיניות מחזור-חיים. Windows Server Essentials פורסם ב-2 בינואר, 2013.\n\n## <a name=\"editions\"></a>מהדורות \n* Datacenter\n* Essentials\n* עבור Embedded Systems\n* Foundation\n* Standard"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: שרת מסחר של Microsoft 2009 R2
-  description: שרת מסחר של Microsoft 2009 R2 עוקב אחר מדיניות מחזור החיים הקבוע.
+  title: Microsoft Commerce Server 2009 R2
+  description: Microsoft Commerce Server 2009 R2 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 64c43c28d793d17e85dbd9c69d8bbe6b30c8f233
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854838"
-name: שרת מסחר של Microsoft 2009 R2
+name: Microsoft Commerce Server 2009 R2
 summary: >+
-  שרת מסחר של Microsoft 2009 R2 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft Commerce Server 2009 R2 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  פעולה זו חלה על המהדורות הבאות: ארגון, סטנדרטי
+  הדבר חל על המהדורות הבאות: Enterprise, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2011
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>קישורים \n* [תכלת](https://azure.microsoft.com/free/virtual-network/search/?OCID=AID2000128_SEM_Xp_oegAAAFhodQoD:20200628234515:s&msclkid=96a2c292042b18351aec9c6b2f5bfc8d&ef_id=Xp_oegAAAFhodQoD:20200628234515:s&dclid=CJrU8sXYpeoCFQ5kfgodDnQP4A)\n* [דינמיקה 365 סקירה כללית של ארכיטקטורת מסחר](/dynamics365/commerce/commerce-architecture)\n\n\n## <a name=\"editions\"></a>מהדורות \n* ארגון\n* רגיל"
+content: "\n## <a name=\"links\"></a>קישורים \n* [Azure](https://azure.microsoft.com/free/virtual-network/search/?OCID=AID2000128_SEM_Xp_oegAAAFhodQoD:20200628234515:s&msclkid=96a2c292042b18351aec9c6b2f5bfc8d&ef_id=Xp_oegAAAFhodQoD:20200628234515:s&dclid=CJrU8sXYpeoCFQ5kfgodDnQP4A)\n* [Dynamics 365 Commerce architecture overview](/dynamics365/commerce/commerce-architecture)\n\n\n## <a name=\"editions\"></a>מהדורות \n* Enterprise\n* Standard"

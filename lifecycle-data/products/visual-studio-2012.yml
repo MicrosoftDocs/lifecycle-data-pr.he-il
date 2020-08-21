@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ויז סטודיו 2012
-  description: Visual Studio 2012 מלווה את מדיניות מחזור החיים הקבוע.
+  title: Visual Studio 2012
+  description: Visual Studio 2012 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 31d437b362fc9cdf06165caca18202e49cd7624b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854901"
-name: ויז סטודיו 2012
+name: Visual Studio 2012
 summary: >+
-  Visual Studio 2012 מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Visual Studio 2012 עוקב אחר מדיניות מחזור-חיים  [קבועה](/lifecycle/policies/fixed).
 
 
-  זה חל על המהדורות הבאות: סוכנים, קהילה 2013, אקספרס עבור אינטרנט, אקספרס עבור Windows 8, Express עבור שולחן העבודה של Windows, מלקט IntelliTrace, כלים התכלת של מיקרוסופט, פרמיה, מקצועי, כלי מרוחק, מעטפת (משולב), מעטפת (מבודד), SQL שרת נתונים כלי, סייר הצוות, בדיקה מ2013 קצועית
+  הדבר חל על המהדורות הבאות: Agents, Community 2013, Express for Web, Express for Windows 8, Express for Windows Desktop, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Remote Tools, Shell (Integrated), Shell (Isolated), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, Web Tools Extensions
 
 products:
 - vs
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>קישורים \n* [מחזור חיי המוצר של Visual Studio ושירות](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>מהדורות \n* סוכנים\n* 2013 קהילתי\n* אקספרס לאינטרנט\n* אקספרס עבור Windows 8\n* אקספרס עבור שולחן העבודה של Windows\n* מלקט IntelliTrace\n* כלים התכלת של מיקרוסופט\n* פרימיום\n* מקצועי\n* כלים מרוחקים\n* מעטפת (משולבת)\n* מעטפת (מבודדת)\n* כלי נתונים של שרת SQL\n* סייר הצוותים\n* בדיקה מקצועית 2013\n* אולטימטיבי\n* ההפצה החוזרת של Visual C++\n* הרחבות של כלי אינטרנט"
+content: "\n## <a name=\"links\"></a>קישורים \n* [מחזור-חיים ושירות המוצר Visual Studio](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>מהדורות \n* Agents\n* Community 2013\n* Express עבור Web\n* Express for Windows 8\n* Express עבור Windows Desktop\n* IntelliTrace Collector\n* Microsoft Azure Tools\n* Premium\n* Professional\n* Remote Tools\n* Shell (Integrated)\n* Shell (Isolated)\n* SQL Server Data Tools\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Web Tools Extensions"

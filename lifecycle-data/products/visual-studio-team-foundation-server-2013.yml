@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ויז סטודיו צוות הקרן שרת 2013
-  description: קרן הצוות של Visual Studio Server 2013 מלווה את מדיניות מחזור החיים הקבוע.
+  title: Visual Studio Team Foundation Server 2013
+  description: Visual Studio Team Foundation Server 2013 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: b24e1b9ebaf9855024973bfa2ff6b7d90e3af408
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855080"
-name: ויז סטודיו צוות הקרן שרת 2013
+name: Visual Studio Team Foundation Server 2013
 summary: >+
-  קרן הצוות של Visual Studio Server 2013 מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Visual Studio Team Foundation Server 2013 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  פעולה זו חלה על המהדורות הבאות: All, ניהול שחרורים
+  הדבר חל על המהדורות הבאות: הכל, Release Management
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 10/11/2016
-content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות המוצר](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [מידע אודות מתן שירות](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> עבור שרת ניהול שחרורים עבור TFS 2013, עדכון 4 יתמוך בכל הנחיות המדיניות עד 4/9/2024.\n\n## <a name=\"editions\"></a>מהדורות \n* כל\n* ניהול שחרורים"
+content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות המוצר](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [מידע אודות מתן שירות](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Service Pack Policy](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> עבור Release Management Server for TFS 2013, עדכון 4 יתמך בהתאם לקווי היסוד של המדיניות עד לתאריך 4/9/2024.\n\n## <a name=\"editions\"></a>מהדורות \n* All\n* Release Management"

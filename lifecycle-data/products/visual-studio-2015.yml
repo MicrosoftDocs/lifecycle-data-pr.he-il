@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ויז סטודיו 2015
-  description: Visual Studio 2015 מלווה את מדיניות מחזור החיים הקבוע.
+  title: Visual Studio 2015
+  description: Visual Studio 2015 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4300bd472c7f836c9d93e7f7e3da2005da410bac
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854949"
-name: ויז סטודיו 2015
+name: Visual Studio 2015
 summary: >+
-  Visual Studio 2015 מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Visual Studio 2015 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  הדבר חל על המהדורות הבאות: סוכנים, קהילה, ארגון, אקספרס עבור אינטרנט, אקספרס עבור Windows 10, אקספרס עבור Windows Desktop, מידול SDK, מקצועי, ניהול שחרור, כלים מרוחקים, SDK, מעטפת (משולב), מעטפת (מבודד), Test Professional, Visual C++ להפצה חוזרת
+  הדבר חל על המהדורות הבאות: Agents, Community, Enterprise, Express for Web, Express for Windows 10, Express for Windows Desktop, Modeling SDK, Professional, Release Management, Remote Tools, SDK, Shell (Integrated), Shell (Isolated), Test Professional, Visual C++ Redistributable
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות מתן שירות](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>מהדורות \n* סוכנים\n* קהילה\n* ארגון\n* אקספרס לאינטרנט\n* אקספרס עבור חלונות 10\n* אקספרס עבור שולחן העבודה של Windows\n* מידול SDK\n* מקצועי\n* ניהול שחרורים\n* כלים מרוחקים\n* SDK\n* מעטפת (משולבת)\n* מעטפת (מבודדת)\n* בדיקת מקצועיות\n* ההפצה החוזרת של Visual C++"
+content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות מתן שירות](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>מהדורות \n* Agents\n* Community\n* Enterprise\n* Express עבור Web\n* Express עבור Windows 10\n* Express עבור Windows Desktop\n* Modeling SDK\n* Professional\n* Release Management\n* Remote Tools\n* SDK\n* Shell (Integrated)\n* Shell (Isolated)\n* Test Professional\n* Visual C++ Redistributable"
