@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: אירוח וירטואליזציה של מיקרוסופט ליישומים 4.6 עבור מחשבים שולחניים של Windows
-  description: אירוח וירטואליזציה של יישומים של Microsoft המארח 4.6 עבור מחשבים שולחניים של Windows מלווה במדיניות מחזור חיים קבוע.
+  title: Microsoft Application Virtualization Hosting 4.6 עבור Windows Desktops
+  description: Microsoft Application Virtualization Hosting 4.6 עבור Windows Desktops עוקב אחר מדיניות מחזור החיים הקבוע.
   ms.date: 07/28/2020
   ms.openlocfilehash: 21ed557cd6333e43a274796a3b25791c0d7f96cd
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819876"
-name: אירוח וירטואליזציה של מיקרוסופט ליישומים 4.6 עבור מחשבים שולחניים של Windows
+name: Microsoft Application Virtualization Hosting 4.6 עבור Windows Desktops
 summary: >+
-  אירוח וירטואליזציה של יישומים של Microsoft המארח 4.6 [עבור מחשבים](/lifecycle/policies/fixed) שולחניים של Windows מלווה את מדיניות מחזור החיים
+  Microsoft Application Virtualization Hosting 4.6 עבור Windows Desktops עוקב אחר מדיניות מחזור החיים [הקבוע.](/lifecycle/policies/fixed)
 
 
-  פעולה זו חלה על המהדורות הבאות: עבור מחשבים שולחניים של Windows
+  הדבר חל על המהדורות הבאות: עבור Windows Desktops
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 05/27/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות מוצרים והגירה](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> מאז App-V 4.6 הלקוח מנצל את App-V 4.5 שרת, App-V 4.5 שרת ימשיכו להיות נתמך על פי תאריכי מחזור החיים של App-V 4.6 כאשר בשימוש עם יישום נתמך-V 4.6 לקוח.\n\n## <a name=\"editions\"></a>מהדורות \n* עבור מחשבים שולחניים של Windows"
+content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות המוצר ומעבר](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [מדיניות חבילת תמיכה](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> מאחר ומשתמשי App-V 4.6 משתמשים ב- App-V 4.5 Server, ה- App-V 4.5 Server ימשיך להיתמך בהתאם לתאריכי מחזור-חיים של App-V 4.6 בעת שימוש עם לקוח ה- App-V 4.6 הנתמך.\n\n## <a name=\"editions\"></a>מהדורות \n* for Windows Desktops"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מיקרוסופט SharePoint 2010 (עבור אתרי אינטרנט)
-  description: Microsoft SharePoint 2010 (עבור אתרי אינטרנט) עוקב אחר מדיניות מחזור החיים הקבוע.
+  title: Microsoft SharePoint 2010 (עבור Internet Sites)
+  description: Microsoft SharePoint 2010 (עבור Internet Sites) עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 91cbc237303d2c4f7f73f93be5375206006b7909
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819769"
-name: מיקרוסופט SharePoint 2010 (עבור אתרי אינטרנט)
+name: Microsoft SharePoint 2010 (עבור Internet Sites)
 summary: >+
-  Microsoft SharePoint 2010 (עבור אתרי אינטרנט) עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft SharePoint 2010 (עבור Internet Sites) עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  פעולה זו חלה על המהדורות הבאות: עבור ארגון אתרי אינטרנט, עבור תקן של אתרי אינטרנט
+  דבר זה חל על המהדורות הבאות: for Internet Sites Enterprise, עבור Internet Sites Standard
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/15/2010
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>קישורים \n* [תיעוד מוצר](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [תיעוד מפתחים](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> סוף התמיכה של מוצר זה הורחב מתאריך 13 באוקטובר 2020 עד 13 באפריל 2021.\n\n## <a name=\"editions\"></a>מהדורות \n* עבור ארגון אתרי אינטרנט\n* עבור תקן של אתרי אינטרנט"
+content: "\n## <a name=\"links\"></a>קישורים \n* [תיעוד מוצר](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [תיעוד מפתח](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> תאריך סוף התמיכה של מוצר זה הוארך מ-13 באוקטובר, 2020 ל-13 באפריל, 2021.\n\n## <a name=\"editions\"></a>מהדורות \n* עבור Internet Sites Enterprise\n* עבור Internet Sites Standard"

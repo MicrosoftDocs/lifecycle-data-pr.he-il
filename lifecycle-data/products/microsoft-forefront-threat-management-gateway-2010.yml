@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: האיום החזית של מיקרוסופט ניהול שער 2010
-  description: לניהול איום החזית של מיקרוסופט השער 2010 מלווה את מדיניות מחזור חיי הקבוע.
+  title: Microsoft Forefront Threat Management Gateway 2010
+  description: Microsoft Forefront Threat Management Gateway 2010 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: c28f728f916bfa317c1c81b4807c7aac16dd42bb
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819805"
-name: האיום החזית של מיקרוסופט ניהול שער 2010
+name: Microsoft Forefront Threat Management Gateway 2010
 summary: >
-  ניהול איום החזית של מיקרוסופט השער 2010 מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft Forefront Threat Management Gateway 2010 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  פעולה זו חלה על המהדורות הבאות: ארגון, סטנדרטי
+  הדבר חל על המהדורות הבאות: Enterprise, Standard
 
 
   > [!IMPORTANT]
 
-  > . התמיכה הסתיימה ראה הנחיות הגירה להלן.
+  > התמיכה הסתיימה. ראו הנחיות מעבר מטה.
 products:
 - office
 policyType: fixed
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 12/01/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n\n\n## <a name=\"editions\"></a>מהדורות \n* ארגון\n* רגיל"
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n\n\n## <a name=\"editions\"></a>מהדורות \n* Enterprise\n* Standard"

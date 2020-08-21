@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Vista
-  description: חלונות ויסטה עוקבת אחר מדיניות מחזור החיים הקבוע.
+  description: Windows Vista עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: e2e6ab946bf405ed524f07047d055a786d7174dc
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819310"
 name: Windows Vista
 summary: >
-  חלונות ויסטה עוקבת אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Windows Vista עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  הדבר חל על המהדורות הבאות: עסקים, עסקים N, ארגון, X64 של הארגון, דף הבית בסיסי, בית בסיסי 64-bit, בית בסיסי N, בית בסיסי N 64-bit, בית פרימיום, Home Premium 64-סיבית, Starter, Ultimate, האולטימטיבי 64-bit
+  הדבר חל על המהדורות הבאות: Business, Business N, Enterprise, Enterprise X64, Home Basic, Home Basic 64-bit, Home Basic N, Home Basic N 64-bit, Home Premium, Home Premium 64-bit, Starter, Ultimate, Ultimate 64-bit
 
 
   > [!IMPORTANT]
 
-  > התמיכה במוצר זה הסתיימה, ראה להלן מידע העברה.
+  > התמיכה במוצר זה הסתיימה, ראו מטה לקבלת מידע אודות המעבר.
 products:
 - windows
 policyType: fixed
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2007
   endDate: 04/13/2010
-content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [שיקולים של שדרוג והעברה של Windows](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>מהדורות \n* עסקים\n* עסקים N\n* ארגון\n* X64 של הארגון\n* הום בייסיק\n* דף הבית בייסיק 64-bit\n* דף הבית בסיסי N\n* דף הבית בייסיק N 64-סיבית\n* הום פרימיום\n* Home Premium 64-סיבית\n* Starter\n* אולטימטיבי\n* 64 האולטימטיבי-סיבית"
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [שיקולי שדרוג ומעבר של Windows](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [מדיניות חבילת תמיכה](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>מהדורות \n* Business\n* Business N\n* Enterprise\n* Enterprise X64\n* Home Basic\n* Home Basic 64-bit\n* Home Basic N\n* Home Basic N 64-bit\n* Home Premium\n* Home Premium 64-bit\n* Starter\n* Ultimate\n* Ultimate 64-bit"

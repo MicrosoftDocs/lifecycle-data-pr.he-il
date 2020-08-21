@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מיקרוסופט לקידמה 7.0
-  description: 7.0 מיקרוסופט מלווה את מדיניות מחזור החיים הקבוע.
+  title: Microsoft Forecaster 7.0
+  description: Microsoft Forecaster 7.0 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: e9af608bbdf2d19517b58ebe46d545b09078be8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819811"
-name: מיקרוסופט לקידמה 7.0
+name: Microsoft Forecaster 7.0
 summary: >+
-  7.0 מיקרוסופט מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft Forecaster 7.0 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> תמיכה בכיוון הקידמה מסתיימת בתאריך שצוין, אלא אם כן מופצת כרכיב של מוצר Dynamics. בעת ההפצה באמצעות מוצר Dynamics, תאריכי מחזור החיים של Dynamics מבטלים את תאריך הסיום."
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [מדיניות חבילת תמיכה](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> התמיכה ב- Forecaster מסתיימת בתאריך המצוין אלא אם מופץ כרכיב של מוצר Dynamics.  כאשר מופץ עם מוצר Dynamics, תאריכי מדיניות מחזור-חיים עוקפים את תאריך ה-Forecaster."

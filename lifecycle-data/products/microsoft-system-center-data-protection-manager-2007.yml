@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center Data Protection Manager 2007
-  description: מנהל הגנת הנתונים של מרכז המערכת של Microsoft 2007 עוקב אחר מדיניות מחזור חיי הקבוע.
+  title: מנהל הגנת נתונים של מרכז המערכת של Microsoft 2007
+  description: Microsoft System Center Data Protection Manager 2007 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: ca60c8ab7630e2ee264017a572243b9f68643607
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819752"
-name: Microsoft System Center Data Protection Manager 2007
+name: מנהל הגנת נתונים של מרכז המערכת של Microsoft 2007
 summary: >
-  מנהל הגנת הנתונים של מרכז המערכת של Microsoft 2007 עוקב אחר מדיניות מחזור חיי [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft System Center Data Protection Manager 2007 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > התמיכה במוצר זה הסתיימה. ראה הנחיות הגירה להלן.
+  > הסתיימה התמיכה עבור מוצר זה. ראו הנחיות מעבר מטה.
 products:
 - msc
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 12/15/2007
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](https://blogs.technet.microsoft.com/dpm/2017/01/10/system-center-data-protection-manager-2007-end-of-support/)\n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](https://blogs.technet.microsoft.com/dpm/2017/01/10/system-center-data-protection-manager-2007-end-of-support/)\n* [מדיניות חבילת תמיכה](/lifecycle/policies/fixed#service-packs)"

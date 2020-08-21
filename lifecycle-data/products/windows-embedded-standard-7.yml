@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: תקן מוטבע של Windows 7
-  description: תקן מוטבע של Windows 7 עוקב אחר מדיניות מחזור החיים הקבוע.
+  title: Windows Embedded Standard 7
+  description: Windows Embedded Standard 7 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2e4b6119250a574a9526e74a7ccea090e02ed61d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819678"
-name: תקן מוטבע של Windows 7
+name: Windows Embedded Standard 7
 summary: >+
-  תקן מוטבע של Windows 7 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Windows Embedded Standard 7 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  פעולה זו חלה על המהדורות הבאות: תקן
+  הדבר חל על המהדורות הבאות: Standard
 
 products:
 - windows
@@ -39,4 +39,4 @@ releases:
 - version: Original Release
   startDate: 07/29/2010
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>קישורים \n* [* תוכנית עדכון אבטחה מורחבת (מערכת דואר)-עדכוני אבטחה מורחבים לבחירת מוצרים מוטבעים זמינים באמצעות יצרני ציוד מקורי (Oem)](/lifecycle/faq/extended-security-updates)\n* [הנחיית הגירה](https://support.microsoft.com/help/4057281)\n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> * עדכוני אבטחה מורחבים (מערכת ההפעלה) זמינים עבור תקן מוטבע של Windows 7 עבור עד שלוש שנים נוספות מעבר לסוף התמיכה באמצעות יצרני ציוד מקורי (Oem). פנה אל השותף או צוות תיקי הלקוח של Microsoft כדי ללמוד עוד.\n\n## <a name=\"editions\"></a>מהדורות \n* רגיל"
+content: "\n## <a name=\"links\"></a>קישורים \n* [* תכנית עדכון אבטחה מורחב (ESU) - עדכוני אבטחה מורחבים עבור מוצרי Embedded מסויימים, זמינים דרך OEMs](/lifecycle/faq/extended-security-updates) \n* [הדרכת ביצוע מעבר](https://support.microsoft.com/help/4057281)\n* [מדיניות חבילת תמיכה](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> '*עדכוני אבטחה מורחבים (ESU) זמינים עבור Windows Embedded Standard 7 לתקופה של עד שלוש שנים נוספות לאחר סיום התמיכה דרך OEMs. פנה אל השותף או צוות תיקי הלקוח של Microsoft כדי ללמוד עוד.\n\n## <a name=\"editions\"></a>מהדורות \n* Standard"

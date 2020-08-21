@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows אחסון שרת 2008
-  description: Windows Storage Server 2008 מלווה את מדיניות מחזור החיים הקבוע.
+  title: Windows Storage Server 2008
+  description: Windows Storage Server 2008 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5fcd64fc253504e9ffb8db1c34a0597cc550b12b
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819145"
-name: Windows אחסון שרת 2008
+name: Windows Storage Server 2008
 summary: >
-  Windows Storage Server 2008 מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Windows Storage Server 2008 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  פעולה זו חלה על המהדורות הבאות: Basic, בסיסי 32-Bit, בסיסי 64-bit, מוטבע בסיסי, בסיסי מוטבע 32-bit, ארגון, מוטבע ארגוני, רגיל, מוטבע רגיל, קבוצת עבודה
+  הדבר חל על המהדורות הבאות: Basic, Basic 32-Bit, Basic 64-bit, Basic Embedded, Basic Embedded 32-bit, Enterprise, Enterprise Embedded, Standard, Standard Embedded, Workgroup
 
 
   > [!IMPORTANT]
 
-  > מוצר זה הגיע לסוף התמיכה. ראה להלן לקבלת הדרכה להעברה.
+  > מוצר זה הגיע לסוף תקופת התמיכה. ראו מטה לקבלת הדרכת מעבר.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Service Pack 2
   startDate: 07/19/2009
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [מידע אודות שדרוג השרת](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>מהדורות \n* בסיסי\n* 32 בסיסי-סיבית\n* 64 בסיסי-סיבית\n* מוטבע בסיסי\n* 32-סיבית מוטבעת בסיסית\n* ארגון\n* ארגון מוטבע\n* רגיל\n* מוטבע רגיל\n* קבוצת עבודה"
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [מידע אודות שדרוג השרת](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>מהדורות \n* Basic\n* Basic 32-Bit\n* Basic 64-bit\n* Basic Embedded\n* Basic Embedded 32-bit\n* Enterprise\n* Enterprise Embedded\n* Standard\n* Standard Embedded\n* Workgroup"

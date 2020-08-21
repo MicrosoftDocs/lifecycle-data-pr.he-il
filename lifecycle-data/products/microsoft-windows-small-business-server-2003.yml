@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: שרת עסקים קטן של Microsoft Windows 2003
-  description: שרת העסקים הקטן של Microsoft Windows 2003 מלווה את מדיניות מחזור החיים הקבוע.
+  title: Microsoft Windows Small Business Server 2003
+  description: Microsoft Windows Small Business Server 2003 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8ac087fd1710a2deb48d9507f342d447d9c96b2c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819729"
-name: שרת עסקים קטן של Microsoft Windows 2003
+name: Microsoft Windows Small Business Server 2003
 summary: >+
-  שרת העסקים הקטן של Microsoft Windows 2003 מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft Windows Small Business Server 2003 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  פעולה זו חלה על המהדורות הבאות: פרמיום, סטנדרטי
+  הדבר חל על המהדורות הבאות: Premium, Standard
 
 products:
 - windows
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 12/16/2003
   endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>קישורים \n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)\n* [הנחיית הגירה](https://aka.ms/AA1ovn4)\n\n> [!NOTE]\n> תאריך התמיכה עבור חבילת מוצר זו נקבע על-ידי מחזורי החיים המתאימים של מוצר הרכיבים הבודדים. נא עיין במחזור החיים של מוצר הרכיב הבודד כדי לקבוע את אורך התמיכה שלו.\n> [!NOTE]\n> תאריך ההתחלה לשרת העסקים הקטן של Windows 2003 מהדורה סטנדרטית הוא 16 בדצמבר 2003. \n\n## <a name=\"editions\"></a>מהדורות \n* פרימיום\n* רגיל"
+content: "\n## <a name=\"links\"></a>קישורים \n* [מדיניות חבילת תמיכה](/lifecycle/policies/fixed#service-packs)\n* [הדרכת ביצוע מעבר](https://aka.ms/AA1ovn4)\n\n> [!NOTE]\n> תאריך התמיכה עבור חבילת מוצר זה נקבע על פי מדיניות מחזור-חיים השייכת לרכיבי המוצר בהתאמה. אנא עיינו במדיניות מחזור-חיים של רכיבי המוצר על מנת לקבוע את משך התמיכה.\n> [!NOTE]\n> תאריך ההתחלה עבור Windows Small Business Server 2003 Standard Edition הוא ה- 16 בדצמבר, 2003. \n\n## <a name=\"editions\"></a>מהדורות \n* Premium\n* Standard"

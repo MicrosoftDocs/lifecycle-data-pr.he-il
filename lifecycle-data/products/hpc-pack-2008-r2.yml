@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: HPC Pack 2008 R2
-  description: HPC Pack 2008 R2 עוקב אחר מדיניות מחזור החיים הקבוע.
+  description: HPC Pack 2008 R2 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 85ea9272f46481e504a5c283c962a8ef7f5ace53
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819911"
 name: HPC Pack 2008 R2
 summary: >
-  HPC Pack 2008 R2 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  HPC Pack 2008 R2 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > התמיכה במוצר זה הסתיימה. ראה הנחיות הגירה להלן.
+  > הסתיימה התמיכה עבור מוצר זה. ראו הנחיות מעבר מטה.
 products:
 - windows
 policyType: fixed
@@ -41,4 +41,4 @@ releases:
 - version: Original Release
   startDate: 10/17/2010
   endDate: 01/08/2013
-content: "\n## <a name=\"links\"></a>קישורים \n* [העברת שרת Windows](https://azure.microsoft.com/migration/windows-server/)\n* [הנחיית הגירה](/powershell/high-performance-computing/overview?view=hpc19-ps)\n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>קישורים \n* [Windows Server Migration](https://azure.microsoft.com/migration/windows-server/)\n* [הדרכת ביצוע מעבר](/powershell/high-performance-computing/overview?view=hpc19-ps)\n* [מדיניות חבילת תמיכה](/lifecycle/policies/fixed#service-packs)"

@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: וירטואליזציה של שולחן עבודה של Microsoft Enterprise 1.0
-  description: וירטואליזציה של שולחן עבודה של Microsoft Enterprise 1.0 מלווה את מדיניות מחזור חיי הקבוע.
+  title: Microsoft Enterprise Desktop Virtualization 1.0
+  description: Microsoft Enterprise Desktop Virtualization 1.0 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71dcb3cec051dba7376d58dc536d778ae7359f4a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819813"
-name: וירטואליזציה של שולחן עבודה של Microsoft Enterprise 1.0
+name: Microsoft Enterprise Desktop Virtualization 1.0
 summary: >
-  וירטואליזציה של שולחן עבודה של Microsoft Enterprise 1.0 מלווה במדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft Enterprise Desktop Virtualization 1.0 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  פעולה זו חלה על המהדורות הבאות: ארגון
+  הדבר חל על המהדורות הבאות: Enterprise
 
 
   > [!IMPORTANT]
 
-  > התמיכה במוצר זה הסתיימה. ראה הנחיות הגירה להלן.
+  > הסתיימה התמיכה עבור מוצר זה. ראו הנחיות מעבר מטה.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 08/03/2008
   endDate: 04/12/2011
-content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](https://technet.microsoft.com/en-us/windows/bb899442)\n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>מהדורות \n* ארגון"
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](https://technet.microsoft.com/en-us/windows/bb899442)\n* [מדיניות חבילת תמיכה](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>מהדורות \n* Enterprise"
