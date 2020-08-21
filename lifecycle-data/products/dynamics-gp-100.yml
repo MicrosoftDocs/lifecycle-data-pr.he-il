@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: דינמיקה GP 10.0
-  description: Dynamics GP 10.0 מלווה את מדיניות מחזור החיים הקבוע.
+  title: Dynamics GP 10.0
+  description: Dynamics GP 10.0 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2cf687c6b390751074f0c89bbbd354f19257a5fe
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819938"
-name: דינמיקה GP 10.0
+name: Dynamics GP 10.0
 summary: >+
-  Dynamics GP 10.0 מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Dynamics GP 10.0 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 08/04/2007
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>קישורים \n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)\n* [הנחיית הגירה](/dynamics-gp/upgrade/introduction)\n\n> [!NOTE]\n> מוצר זה מחוץ לתמיכה, ראה להלן מידע העברה."
+content: "\n## <a name=\"links\"></a>קישורים \n* [מדיניות חבילת תמיכה](/lifecycle/policies/fixed#service-packs)\n* [הדרכת ביצוע מעבר](/dynamics-gp/upgrade/introduction)\n\n> [!NOTE]\n> מוצר זה אינו נתמך עוד, ראו מטה לקבלת מידע אודות מעבר."

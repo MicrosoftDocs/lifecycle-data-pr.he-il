@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: שירותי עדכון של Windows Server 3.0
-  description: Windows Server Update Services 3.0 עוקב אחר מדיניות מחזור החיים הקבוע.
+  title: שירותי עדכון שרת Windows 3.0
+  description: Windows Server Update Services 3.0 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: b5e6ed046b5497010706f64c93962f1c4af0e2a0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820031"
-name: שירותי עדכון של Windows Server 3.0
+name: שירותי עדכון שרת Windows 3.0
 summary: >
-  שירותי Windows Server Update 3.0 מעקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Windows Server Update Services 3.0 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > . התמיכה הסתיימה ראה הנחיות הגירה להלן.
+  > התמיכה הסתיימה. ראו הנחיות מעבר מטה.
 products:
 - windows
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 07/10/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> התמיכה הורחבה מ 7/11/2017 עד 1/14/2020."
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [מדיניות חבילת תמיכה](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> התמיכה הורחבה מ- 7/11/2017 ל- 1/14/2020."

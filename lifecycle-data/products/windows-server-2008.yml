@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server 2008
-  description: Windows Server 2008 עוקב אחר מדיניות מחזור החיים הקבוע.
+  description: Windows Server 2008 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: cb16ce7326c75c0c560a1b8a0078d03656d58c21
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820033"
 name: Windows Server 2008
 summary: >
-  Windows Server 2008 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Windows Server 2008 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  הדבר חל על המהדורות הבאות: מרכז נתונים, מרכז נתונים ללא Hyper-V, ארגון, ארגון ללא Hyper-V, עבור מערכות מבוססות Itanium, קרן, תקן, סטנדרטי ללא Hyper-V, אינטרנט
+  הדבר חל על המהדורות הבאות: Datacenter, Datacenter without Hyper-V, Enterprise, Enterprise ללא Hyper-V, עבור מערכבות מבוססות ליתיום, Foundation, Standard, Standard without Hyper-V, Web
 
 
   > [!IMPORTANT]
 
-  > התמיכה במוצר זה הסתיימה. ראה הנחיות הגירה להלן.
+  > הסתיימה התמיכה עבור מוצר זה. ראו הנחיות מעבר מטה.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](https://aka.ms/AA1ovn4)\n* [מידע אודות שדרוג השרת](/windows-server/upgrade/upgrade-overview)\n* [תוכנית לעדכון אבטחה מורחבת (לא מאובטח)](/lifecycle/faq/extended-security-updates)\n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> עדכוני אבטחה מורחבים (מסוג משימה) זמינים באמצעות תוכניות מסוימות של רישוי קבוצתי עבור מהדורות מסוג מרכז הנתונים, התקן, הארגון והמוטבע של מהדורות מוצר אלה, עד שלוש שנים נוספות מעבר לסוף התמיכה. פנה אל השותף או צוות תיקי הלקוח של Microsoft כדי ללמוד עוד. \n\nשחרר-------------------------------תאריך התחלה----תאריך סיום\n\nעדכון אבטחה מורחבת שנה 3---01/11/2022---01/10/2023\n\nעדכון אבטחה מורחבת שנה 2---01/12/2021---01/11/2022\n\nעדכון אבטחה מורחב שנה 1---01/14/2020---01/12/2021\n> [!NOTE]\n> Windows Server 2008 קרן שוחרר במאי 21, 2009\n\n## <a name=\"editions\"></a>מהדורות \n* נתונים\n* מרכז נתונים ללא Hyper-V\n* ארגון\n* ארגון ללא Hyper-V\n* עבור מערכות מבוססות Itanium\n* קרן\n* רגיל\n* רגיל ללא Hyper-V\n* אינטרנט"
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](https://aka.ms/AA1ovn4)\n* [מידע אודות שדרוג השרת](/windows-server/upgrade/upgrade-overview)\n* [תכנית עדכון אבטחה מורחב (ESU)](/lifecycle/faq/extended-security-updates)\n* [מדיניות חבילת תמיכה](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> עדכוני אבטחה מורחבים (ESU) זמינים דרך תכניות רשיונות בעלות נפח מסוים עבור מהדורות Datacenter, Standard, Enterprise, ו- Embedded של מהדורות מוצר זה, עד למשך של שלוש שנים נוספות לאחר סיום התמיכה.  פנה אל השותף או צוות תיקי הלקוח של Microsoft כדי ללמוד עוד. \n\nפרסום-------------------------------תאריך התחלה----תאריך סיום\n\nעדכון אבטחה מורחב שנה 3---01/11/2022---01/10/2023\n\nעדכון אבטחה מורחב שנה 2---01/12/2021---01/11/2022\n\nעדכון אבטחה מורחב שנה 1---01/14/2020---01/12/2021\n> [!NOTE]\n> Windows Server 2008 Foundation פורסם ב- 21 במאי, 2009\n\n## <a name=\"editions\"></a>מהדורות \n* Datacenter\n* Datacenter ללא Hyper-V\n* Enterprise\n* Enterprise ללא Hyper-V\n* עבור Itanium-Based Systems\n* Foundation\n* Standard\n* Standard ללא Hyper-V\n* Web"

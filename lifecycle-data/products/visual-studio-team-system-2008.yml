@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ויז סטודיו צוות מערכת 2008
-  description: מערכת הצוות של Visual Studio 2008 מלווה את מדיניות מחזור החיים הקבוע.
+  title: Visual Studio Team System 2008
+  description: Visual Studio Team System 2008 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 38c593193296d428c6e0f74bb2e039ac2fa8f3d7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819693"
-name: ויז סטודיו צוות מערכת 2008
+name: Visual Studio Team System 2008
 summary: >
-  מערכת הצוות של Visual Studio 2008 מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Visual Studio Team System 2008 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  הדבר חל על המהדורות הבאות: הכל, ארכיטקטורה, מסדי נתונים, פיתוח, סייר הצוותים, עומס מבחן צוות הסוכן
+  הדבר חל על המהדורות הבאות: All, Architecture, Database, Development, Team Explorer, Team Test Load Agent
 
 
   > [!IMPORTANT]
 
-  > . התמיכה הסתיימה ראה הנחיות הגירה להלן.
+  > התמיכה הסתיימה. ראו הנחיות מעבר מטה.
 products:
 - vs
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [הנחיית הגירה](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>מהדורות \n* כל\n* אדריכלות\n* מסד\n* פיתוח\n* סייר הצוותים\n* סוכן בדיקת צוות"
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [הדרכת ביצוע מעבר](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [מדיניות חבילת תמיכה](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>מהדורות \n* All\n* Architecture\n* Database\n* Development\n* Team Explorer\n* Team Test Load Agent"

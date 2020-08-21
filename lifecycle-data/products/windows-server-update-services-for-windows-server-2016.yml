@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: שירותי עדכון windows Server עבור Windows Server 2016
-  description: שירותי windows Server Update עבור Windows Server 2016 מעקב אחר מדיניות מחזור חיי הרכיבים.
+  title: שירותי עדכוני שרת ווינדוס עבור שרת Microsoft 2016
+  description: שירותי עדכוני שרת של ווינדוס עבור שרת Microsoft 2016 עוקב אחר מדיניות מחזור חיי הרכיבים.
   ms.date: 07/28/2020
   ms.openlocfilehash: 939c37245a4ed7263f746a3baac45b3105d89eda
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819313"
-name: שירותי עדכון windows Server עבור Windows Server 2016
+name: שירותי עדכוני שרת ווינדוס עבור שרת Microsoft 2016
 summary: >+
-  שירותי windows Server Update עבור Windows Server 2016 מעקב אחר מדיניות מחזור חיי [הרכיבים](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  שירותי עדכוני שרת של ווינדוס עבור שרת Microsoft 2016 עוקב אחר מדיניות מחזור חיי [הרכיבים.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
 
 
 products:
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 10/15/2016
   endDate: 01/12/2027
-content: "> [!TIP]\n> רכיב זה מלווה את מחזור החיים של מוצר האב שלו, Windows Server 2016.\n\n## <a name=\"links\"></a>קישורים \n* [Windows Server 2016](/lifecycle/products/windows-server-2016?branch=live)"
+content: "> [!TIP]\n> רכיב זה עוקב אחר מדיניות מחזור-חיים של המוצר מעליו, Windows Server 2016.\n\n## <a name=\"links\"></a>קישורים \n* [Windows Server 2016](/lifecycle/products/windows-server-2016?branch=live)"

@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: f02602c99f6318f55290a629a507a1f33df8f32f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819471"
 name: Microsoft Office 2003
 summary: >+
-  Microsoft Office 2003 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft Office 2003 עוקב אחר מדיניות מחזור החיים [הקבוע.](/lifecycle/policies/fixed)
 
 
-  הדבר חל על המהדורות הבאות: בסיסי, מקצועי, מפעל מקצועי, עסק קטן, סטנדרטי, סטודנט ומורה, רכיבי אינטרנט
+  הדבר חל על המהדורות הבאות: Basic, Professional, Professional Enterprise, Small Business, Standard, Student and Teacher, Web Components
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/17/2003
   endDate: 07/27/2005
-content: "\n## <a name=\"links\"></a>קישורים \n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>מהדורות \n* בסיסי\n* מקצועי\n* ארגון מקצועי\n* Small Business\n* רגיל\n* סטודנט ומורה\n* רכיבי אינטרנט"
+content: "\n## <a name=\"links\"></a>קישורים \n* [מדיניות חבילת תמיכה](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>מהדורות \n* Basic\n* Professional\n* Professional Enterprise\n* Small Business\n* Standard\n* Student ו-Teacher\n* Web Components"

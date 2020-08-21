@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: שרת Microsoft SQL 2008 R2
-  description: Microsoft SQL Server 2008 R2 עוקב אחר מדיניות מחזור החיים הקבוע.
+  title: Microsoft SQL Server 2008 R2
+  description: Microsoft SQL Server 2008 R2 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: fab744b0945bef274e20d81e4c86df2c1e7f69d6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819347"
-name: שרת Microsoft SQL 2008 R2
+name: Microsoft SQL Server 2008 R2
 summary: >+
-  Microsoft SQL Server 2008 R2 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft SQL Server 2008 R2 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  הדבר חל על המהדורות הבאות: מרכז נתונים, מפתח, ארגון, אקספרס, אקספרס עם שירותים מתקדמים, עבור מערכות מוטבעות, תקן, מהדורה סטנדרטית עבור עסקים קטנים, אינטרנט, קבוצת עבודה
+  הדבר חל על המהדורות הבאות: Datacenter, Developer, Enterprise, Express, Express with Advanced Services, for Embedded Systems, Standard, Standard Edition for Small Business, Web, Workgroup
 
 products:
 - sql-server
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>קישורים \n* [הקצה של אפשרויות התמיכה בשרת SQL](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [שרת SQL 2008 ו-Windows Server 2008 סוף אפשרויות התמיכה](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [תוכנית לעדכון אבטחה מורחבת (לא מאובטח)](/lifecycle/faq/extended-security-updates)\n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> עדכוני אבטחה מורחבים (מסוג משימה) זמינים עבור מהדורות מרכז הנתונים, התקן, הארגון והמוטבע של מוצר זה, עד שלוש שנים נוספות מעבר לסוף התמיכה.\n> [!NOTE]\n> עבור IA64 בלבד, התמיכה ב-SP2 תהיה נתמכת עד 7/9/2019. לקבלת מידע נוסף, עיין בבלוג של שירותי שחרור SQL.\n\n## <a name=\"editions\"></a>מהדורות \n* נתונים\n* מפתח\n* ארגון\n* אקספרס\n* אקספרס עם שירותים מתקדמים\n* עבור מערכות מוטבעות\n* רגיל\n* מהדורה סטנדרטית לעסקים קטנים\n* אינטרנט\n* קבוצת עבודה"
+content: "\n## <a name=\"links\"></a>קישורים \n* [אפשרויות סיום התמיכה ב- ](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)SQL Server\n* [אפשרויות סיום התמיכה ב- SQL Server 2008 ו- ](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)Windows Server 2008 \n* [תכנית עדכון אבטחה מורחב (ESU)](/lifecycle/faq/extended-security-updates)\n* [מדיניות חבילת תמיכה](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> עדכוני אבטחה מורחבים (ESU) זמינים עבור מהדורות ה- Datacenter, Standard, Enterprise, ו- Embedded של מוצר זה, לתקופה של עד שלוש שנים נוספות לאחר סיום התמיכה.\n> [!NOTE]\n> עבור IA64 בלבד, SP2 יתמך עד ה- 7/9/2019. לקבלת מידע נוסף, עיינו בבלוג שירות הפרסום של SQL. \n\n## <a name=\"editions\"></a>מהדורות \n* Datacenter\n* Developer\n* Enterprise\n* Express\n* Express with Advanced Services\n* עבור Embedded Systems\n* Standard\n* Standard Edition עבור Small Business\n* Web\n* Workgroup"

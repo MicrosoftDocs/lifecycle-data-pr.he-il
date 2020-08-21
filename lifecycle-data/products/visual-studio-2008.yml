@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ויז סטודיו 2008
-  description: Visual Studio 2008 מלווה את מדיניות מחזור החיים הקבוע.
+  title: Visual Studio 2008
+  description: Visual Studio 2008 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2c78c508275eda64e51e80bb21e954944bd86404
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819327"
-name: ויז סטודיו 2008
+name: Visual Studio 2008
 summary: >+
-  Visual Studio 2008 מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Visual Studio 2008 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  הדבר חל על המהדורות הבאות: All, Pro w/MSDN Premium, מקצועי, מקצועי w/MSDN, חבילת צוות, צוות מבחן עומס סוכן, VB Express, Visual Basic Express, Visual Cexpress, visual C++ אקספרס, מפתח ויזואלי של אינטרנט אקספרס
+  הדבר חל על המהדורות הבאות: All, Pro w/MSDN Premium, Professional, Professional w/MSDN , Team Suite, Team Test Load Agent, VB Express, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> כולל Visual C++ אקספרס, Visual Cexpress, VB Express, ויזואלי מפתח אינטרנט אקספרס ומהדורות צוות Visual Studio\n\n## <a name=\"editions\"></a>מהדורות \n* כל\n* Pro w/MSDN פרימיום\n* מקצועי\n* W מקצועי/MSDN \n* סוויטת צוות\n* סוכן בדיקת צוות\n* VB אקספרס\n* ויז בייסיק אקספרס\n* ויזואלי Cאקספרס\n* Visual C++ אקספרס\n* מפתח אינטרנט ויזואלי אקספרס"
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [מדיניות חבילת תמיכה](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> כולל Visual C++ Express, Visual C# Express, VB Express, Visual Web Developer Express, ומהדורות Visual Studio Team System\n\n## <a name=\"editions\"></a>מהדורות \n* All\n* Pro w/MSDN Premium\n* Professional\n* Professional w/MSDN \n* Team Suite\n* Team Test Load Agent\n* VB Express\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מיקרוסופט ויז סטודיו 2005
-  description: Microsoft Visual Studio 2005 מלווה את מדיניות מחזור החיים הקבוע.
+  title: Microsoft Visual Studio 2005
+  description: Microsoft Visual Studio 2005 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819193"
-name: מיקרוסופט ויז סטודיו 2005
+name: Microsoft Visual Studio 2005
 summary: >+
-  Microsoft Visual Studio 2005 מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft Visual Studio 2005 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  הדבר חל על המהדורות הבאות: מקצועי, סטנדרטי, הרישיון האקדמי מהדורת סטנדרטי, מהדורת צוות עבור מומחי מסד נתונים, מהדורת צוות עבור אדריכלים תוכנה, מהדורת צוות עבור מפתחי תוכנה, מהדורת צוות עבור בודקי תוכנה, חבילת צוות, צוות מבחן עומס סוכן, כלים עבור מערכת Microsoft Office, VB Express, Visual Cexpress, visual C++
+  הדבר חל על המהדורות הבאות: Professional, Standard, Standard Edition academic license, Team Edition for Database Professionals, Team Edition for Software Architects, Team Edition for Software Developers, Team Edition for Software Testers, Team Suite, Team Test Load Agent, Tools for the Microsoft Office System, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2006
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות תמיכה ב-Visual j](https://msdn.microsoft.com/vstudio/bb188593)\n* [הנחיית הגירה](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [מידע אודות המוצר של Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> התמיכה במוצר זה הסתיימה. ראה להלן לקבלת הדרכה להעברה.\n> [!NOTE]\n> מיקרוסופט Visual Studio 2005 צוות מהדורת עבור מומחי מסד נתונים שפורסמו במרץ 2, 2007.\n\n## <a name=\"editions\"></a>מהדורות \n* מקצועי\n* רגיל\n* הרישיון האקדמי של מהדורת תקן\n* מהדורת צוות למומחי מסדי נתונים\n* מהדורת הקבוצה לאדריכלים תוכנה\n* מהדורת הקבוצה עבור מפתחי תוכנה\n* מהדורת צוות עבור תוכנות בודקי\n* סוויטת צוות\n* סוכן בדיקת צוות\n* כלים עבור מערכת Microsoft Office\n* VB אקספרס\n* ויזואלי Cאקספרס\n* Visual C++ אקספרס\n* ויז אקספרס\n* מפתח אינטרנט ויזואלי אקספרס"
+content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות התמיכה ב- Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n* [הדרכת ביצוע מעבר](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [מידע אודות המוצר Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> הסתיימה התמיכה עבור מוצר זה. ראו מטה לקבלת הדרכת מעבר.\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition for Database Professionals פורסם ב- 2 במרץ, 2007.\n\n## <a name=\"editions\"></a>מהדורות \n* Professional\n* Standard\n* Standard Edition רישיון אקדמי\n* Team Edition for Database Professionals\n* Team Edition for Software Architects\n* Team Edition for Software Developers\n* Team Edition for Software Testers\n* Team Suite\n* Team Test Load Agent\n* Tools for the Microsoft Office System\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"

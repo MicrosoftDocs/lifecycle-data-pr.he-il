@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מנהל התצורה של מרכז המערכת של Microsoft 2007
-  description: מנהל התצורה של מרכז המערכת של Microsoft 2007 עוקב אחר מדיניות מחזור חיי הקבוע.
+  title: Microsoft System Center Configuration Manager 2007
+  description: Microsoft System Center Configuration Manager 2007 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 796670fd93547cc79f69c544085070efb0116650
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819757"
-name: מנהל התצורה של מרכז המערכת של Microsoft 2007
+name: Microsoft System Center Configuration Manager 2007
 summary: >
-  מנהל התצורה של מרכז המערכת של Microsoft 2007 עוקב אחר מדיניות מחזור חיי [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft System Center Configuration Manager 2007 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > התמיכה במוצר זה הסתיימה. ראה הנחיות הגירה להלן.
+  > הסתיימה התמיכה עבור מוצר זה. ראו הנחיות מעבר מטה.
 products:
 - msc
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 11/29/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [מידע אודות המוצר](/mem/configmgr/core/understand/introduction)\n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [מידע אודות המוצר](/mem/configmgr/core/understand/introduction)\n* [מדיניות חבילת תמיכה](/lifecycle/policies/fixed#service-packs)"
