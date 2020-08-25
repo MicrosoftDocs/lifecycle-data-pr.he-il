@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Mediaroom
+  description: Microsoft Mediaroom עוקב אחר מדיניות מחזור החיים הקבועים.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 811ad478d76a023e8bfc6d610114e84b209529db
+  ms.sourcegitcommit: b887dde29aba4827223427ffe2a108bb0b7f8a2f
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907291"
+name: Microsoft Mediaroom
+summary: >+
+  Microsoft Mediaroom עוקב אחר מדיניות מחזור החיים [הקבועים](/lifecycle/policies/fixed) .
+
+
+  פעולה זו חלה על המהדורות הבאות: שירותי יישומים 1.0, לקוח 2.0, לקוח 2.1, Server 2.0, Server 2.1
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 08/03/2010
+releases:
+- version: Original Release
+  startDate: 08/03/2010
+content: "\n\n> [!NOTE]\n> Ericsson רכשה את מוצרי Microsoft Mediaroom ב-2013. לקבלת מידע נוסף, עיין [בהודעה לעיתונות](http://www.ericsson.com/news/1691160). ללקוחות הזקוקים לתמיכה, עבור [לכאן](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx).\n> [!NOTE]\n> Microsoft Mediaroom Client 2.1 הופץ ב-27 בדצמבר 2011. \n\n## <a name=\"editions\"></a>מהדורות \n* שירותי יישומים 1.0\n* 2.0 לקוח\n* 2.1 לקוח\n* Server 2.0\n* Server 2.1"
