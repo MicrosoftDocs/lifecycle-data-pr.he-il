@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Office 2008 for Mac
   description: Microsoft Office 2008 for Mac עוקב אחר מדיניות מחזור-חיים קבועה.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: abf5213b99b3f5ca6d64daa69ef50c3462fc9d35
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Business,Home and Student,Special Media Editon
+  ms.openlocfilehash: 708930d55e4c8d9df663189a495412a170cef7d8
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: he-IL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "819466"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936745"
 name: Microsoft Office 2008 for Mac
 summary: "Microsoft Office 2008 for Mac עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).\n\nהדבר חל על המהדורות הבאות: Business, Home ו-Student, Special Media Editon\n\n> [!IMPORTANT]\n> הסתיימה התמיכה עבור מוצר זה. \n"
 products:
