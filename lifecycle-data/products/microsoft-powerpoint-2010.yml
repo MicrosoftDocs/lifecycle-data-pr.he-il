@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מיקרוסופט PowerPoint 2010
-  description: 2010 של Microsoft PowerPoint עוקב אחר מדיניות מחזור החיים הקבוע.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9ac5bd4ad99a87aad19471a01a295dacc94f5933
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Microsoft PowerPoint 2010
+  description: Microsoft PowerPoint 2010 עוקב אחר מדיניות מחזור חיי הקבוע.
+  ms.date: 09/01/2020
+  keywords: Home and Student,Standard
+  ms.openlocfilehash: 456aacd4e7c600f852b3a7fb169afc68163bf95c
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: he-IL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "819350"
-name: מיקרוסופט PowerPoint 2010
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930048"
+name: Microsoft PowerPoint 2010
 summary: >+
-  2010 של Microsoft PowerPoint עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft PowerPoint 2010 עוקב אחר מדיניות מחזור חיי [הקבוע](/lifecycle/policies/fixed) .
 
 
-  הדבר חל על המהדורות הבאות: בית ותלמיד, תקן
+  הדבר חל על המהדורות הבאות: Home ו-Student, Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n\n\n## <a name=\"editions\"></a>מהדורות \n* בית ותלמיד\n* רגיל"
+content: "\n\n\n## <a name=\"editions\"></a>מהדורות \n* Home ו-Student\n* Standard"

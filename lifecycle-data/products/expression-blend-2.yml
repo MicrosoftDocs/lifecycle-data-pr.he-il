@@ -2,13 +2,14 @@
 metadata:
   title: ביטוי 2
   description: ביטוי 2 עוקב אחר מדיניות מחזור החיים הקבוע.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0ff3dba3df24ff405a22bfacac75ea04ab227f90
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Blend,Design,Encoder,Studio,Web
+  ms.openlocfilehash: 5186f4bbb53b110f625835b0250418a4594bf78b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: he-IL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "819244"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930825"
 name: ביטוי 2
 summary: "ביטוי 2 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .\n\nהדבר חל על המהדורות הבאות: מיזוג, עיצוב, מקודד, סטודיו, אינטרנט\n\n> [!IMPORTANT]\n> התמיכה הסתיימה עבור מוצר זה. \n"
 products:
@@ -22,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/24/2008
   endDate: 10/09/2018
-content: "\n\n\n## <a name=\"editions\"></a>מהדורות \n* תערובת\n* עיצוב\n* קודד\n* סטודיו\n* אינטרנט"
+content: "\n\n\n## <a name=\"editions\"></a>מהדורות \n* תערובת\n* עיצוב\n* קודד\n* סטודיו\n* Web"

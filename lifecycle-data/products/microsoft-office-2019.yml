@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2019
-  description: Microsoft Office 2019 עוקב אחר מדיניות מחזור החיים הקבוע.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 76252d1d17d478ee3ac5717a68cc8887de606d69
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  description: Microsoft Office 2019 עוקב אחר מדיניות מחזור חיי הקבועים.
+  ms.date: 09/01/2020
+  keywords: Home and Business,Home and Student,Personal,Professional,Professional Academic,Professional Plus,Standard
+  ms.openlocfilehash: 902490302b48c61548ee755b3765506bb1e53b04
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: he-IL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869751"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930381"
 name: Microsoft Office 2019
 summary: >+
-  Microsoft Office 2019 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft Office 2019 עוקב אחר מדיניות מחזור חיי [הקבועים](/lifecycle/policies/fixed) .
 
 
-  הדבר חל על המהדורות הבאות: בית ועסק, בית וסטודנט, אישי, מקצועי, אקדמי מקצועי, מקצועי פלוס, סטנדרט
+  הדבר חל על המהדורות הבאות: בית ועסק, בית ותלמיד, אישי, מקצועי, מקצועי, מקצועי פלוס, סטנדרטי
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/24/2018
   endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>מהדורות \n* בית ועסק\n* בית ותלמיד\n* אישי\n* מקצועי\n* אקדמיה מקצועית\n* פלוס מקצועי\n* רגיל"
+content: "\n\n\n## <a name=\"editions\"></a>מהדורות \n* Home ו-Business\n* Home ו-Student\n* Personal\n* Professional\n* Professional Academic\n* Professional Plus\n* Standard"
