@@ -2,15 +2,16 @@
 metadata:
   title: אבטחת האינטרנט של Microsoft והאצת שרת 2004
   description: אבטחת האינטרנט של Microsoft והאצת שרת 2004 עוקבים אחר מדיניות מחזור חיי הקבוע.
-  ms.date: 08/19/2020
-  ms.openlocfilehash: c6473b773066fa46704ea1ecb65cad0453712d36
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: ca985b778607eed3132ccd8345127d379543f4ff
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: he-IL
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "904125"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933489"
 name: אבטחת האינטרנט של Microsoft והאצת שרת 2004
-summary: "אבטחת האינטרנט של Microsoft והאצת שרת 2004 עוקבים אחר מדיניות מחזור חיי [הקבוע](/lifecycle/policies/fixed) .\n\nפעולה זו חלה על המהדורות הבאות: Enterprise, Standard\n\n> [!IMPORTANT]\n> התמיכה עבור מוצר זה הסתיימה. \n"
+summary: "אבטחת האינטרנט של Microsoft והאצת שרת 2004 עוקבים אחר מדיניות מחזור חיי [הקבוע](/lifecycle/policies/fixed) .\n\nהדבר חל על המהדורות הבאות: Enterprise, Standard\n\n> [!IMPORTANT]\n> הסתיימה התמיכה עבור מוצר זה. \n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -31,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 09/08/2004
   endDate: 03/11/2006
-content: "\n## <a name=\"links\"></a>קישורים \n* [מדיניות service pack](/lifecycle/policies/fixed#service-packs)\n* [הדרכת העברה](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>מהדורות \n* ארגון\n* רגיל"
+content: "\n## <a name=\"links\"></a>קישורים \n* [מדיניות חבילת תמיכה](/lifecycle/policies/fixed#service-packs)\n* [הדרכת ביצוע מעבר](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>מהדורות \n* Enterprise\n* Standard"
