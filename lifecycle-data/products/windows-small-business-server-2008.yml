@@ -2,13 +2,14 @@
 metadata:
   title: Windows Small Business Server 2008
   description: Windows Small Business Server 2008 עוקב אחר מדיניות מחזור-חיים קבועה.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: ca524a5b2238d362198454212c1b53d9946cdb05
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Premium,Standard
+  ms.openlocfilehash: 947f1cc48a1ef1b5397103a64ce7fb2f3e52db2d
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: he-IL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "819314"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939187"
 name: Windows Small Business Server 2008
 summary: "Windows Small Business Server 2008 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).\n\nהדבר חל על המהדורות הבאות: Premium, Standard\n\n> [!IMPORTANT]\n> הסתיימה התמיכה עבור מוצר זה. \n\nתאריך התמיכה עבור חבילת מוצר זה נקבע על פי מדיניות מחזור-חיים השייכת לרכיבי המוצר בהתאמה. אנא עיינו במדיניות מחזור-חיים של רכיבי המוצר על מנת לקבוע את משך התמיכה.\n"
 products:
