@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מסגרת השירותים המחוברים של Microsoft 2.5
-  description: מסגרת השירותים המחוברים של Microsoft 2.5 מלווה את מדיניות מחזור החיים הקבוע.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1475487e7ff1f7d6b5a54e58a3ba2b45e9a7ccf8
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: מסגרת שירותים מחוברים של Microsoft 2.5
+  description: Microsoft מחוברת שירותים מחוברים 2.5 עוקב אחר מדיניות מחזור חיי הקבוע.
+  ms.date: 09/01/2020
+  keywords: Order Handling Standard Business Event 2.5,Server,Service Provider
+  ms.openlocfilehash: e0cdc315d310b2a6ed3c705261592af5be8ca851
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: he-IL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "819829"
-name: מסגרת השירותים המחוברים של Microsoft 2.5
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934118"
+name: מסגרת שירותים מחוברים של Microsoft 2.5
 summary: >+
-  מסגרת השירותים המחוברים של Microsoft 2.5 מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft מחוברת שירותים מחוברים 2.5 עוקב אחר מדיניות מחזור חיי [הקבוע](/lifecycle/policies/fixed) .
 
 
-  הדבר חל על המהדורות הבאות: הזמנה לטיפול בסדר אירוע עסקי רגיל 2.5, שרת, ספק שירות
+  פעולה זו חלה על המהדורות הבאות: הזמנות טיפול באירועים עסקיים רגילים 2.5, שרת, ספק שירותים
 
 products:
 - connected-services-framework
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/26/2005
   endDate: 10/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>מהדורות \n* הזמנת טיפול בעסקים רגיל אירוע 2.5\n* Server\n* ספק שירות"
+content: "\n\n\n## <a name=\"editions\"></a>מהדורות \n* הזמנה לטיפול באירועים עסקיים רגילים 2.5\n* Server\n* ספק שירותים"
