@@ -1,16 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מפגש של Office Live
-  description: הפגישה של Office Live מלווה את מדיניות מחזור החיים המודרני.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: c4b0ff8ddce1b4b699aae7631879845eed849bf4
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: פגישה של Office Live
+  description: Office Live Meeting עוקב אחר מדיניות מחזור החיים המודרני.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: f5d328b887173c82655f707e9d931266c2d7b857
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: he-IL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "819716"
-name: מפגש של Office Live
-summary: "הפגישה של Office Live מלווה את מדיניות מחזור החיים [המודרני](/lifecycle/policies/modern) .\n\nפעולה זו חלה על המהדורות הבאות: תקן\n\n> [!IMPORTANT]\n> התמיכה בשירות זה הסתיימה. ראה הנחיות הגירה להלן. \n"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "928901"
+name: פגישה של Office Live
+summary: "Office Live Meeting עוקב אחר מדיניות מחזור החיים [המודרני](/lifecycle/policies/modern) .\n\nהדבר חל על המהדורות הבאות: Standard\n\n> [!IMPORTANT]\n> התמיכה עבור שירות זה הסתיימה. ראו הנחיות מעבר מטה. \n"
 products:
 - office
 policyType: modern-online
@@ -21,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 04/10/2009
   endDate: 12/31/2017
-content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](https://support.office.com/article/Live-Meeting-Server-End-of-Life-6af25745-1f4a-4bcd-8051-fd0766f53c4f)\n\n\n## <a name=\"editions\"></a>מהדורות \n* רגיל"
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](https://support.office.com/article/Live-Meeting-Server-End-of-Life-6af25745-1f4a-4bcd-8051-fd0766f53c4f)\n\n\n## <a name=\"editions\"></a>מהדורות \n* Standard"
