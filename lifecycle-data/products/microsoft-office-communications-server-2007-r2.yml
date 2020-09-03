@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office תקשורת Server 2007 R2
-  description: Microsoft Office לתקשורת Server 2007 R2 עוקב אחר מדיניות מחזור חיי הקבוע.
+  title: Microsoft Office Communications Server 2007 R2
+  description: Microsoft Office Communications Server 2007 R2 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 08/07/2020
   ms.openlocfilehash: 229bad5ba97248c738f950b7252cd9c69e238cf1
   ms.sourcegitcommit: 41160e72cd21aa5bf1748336c3975d8ec9b9ac06
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 08/07/2020
   ms.locfileid: "885830"
-name: Microsoft Office תקשורת Server 2007 R2
-summary: "Microsoft Office לתקשורת Server 2007 R2 עוקב אחר מדיניות מחזור חיי [הקבוע](/lifecycle/policies/fixed) .\n\nפעולה זו חלה על המהדורות הבאות: כל הפעולות הרלוונטיות, Enterprise, XMPP Gateway\n\n> [!IMPORTANT]\n> התמיכה עבור מוצר זה הסתיימה. ראה הדרכת העברה. \n"
+name: Microsoft Office Communications Server 2007 R2
+summary: "Microsoft Office Communications Server 2007 R2 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).\n\nהדבר חל על המהדורות הבאות: זמין לכולם, Enterprise, XMPP Gateway\n\n> [!IMPORTANT]\n> הסתיימה התמיכה עבור מוצר זה. ראו הנחיות מעבר. \n"
 products:
 - office
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2009
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת העברה](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> שער XMPP שוחרר ב-9/28/2009.\n\n## <a name=\"editions\"></a>מהדורות \n* כל הרלוונטיות\n* ארגון\n* שער XMPP"
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> XMPP Gateway פורסם ב- 28/9/2009.\n\n## <a name=\"editions\"></a>מהדורות \n* All applicable\n* Enterprise\n* XMPP Gateway"

@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual Studio Team Server Server 2010
-  description: Visual Studio Team Server Server 2010 עוקב אחר מדיניות מחזור חיי הקבוע.
+  title: Visual Studio Team Foundation Server 2010
+  description: Visual Studio Team Foundation Server 2010 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 08/21/2020
   ms.openlocfilehash: c0d6be70c5ce001b56c69d5b0ca374b014ecf598
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906796"
-name: Visual Studio Team Server Server 2010
-summary: >+
-  Visual Studio Team Server Server 2010 עוקב אחר מדיניות מחזור חיי [הקבוע](/lifecycle/policies/fixed) .
-
-
-  פעולה זו חלה על המהדורות הבאות: כל המחבר הרלוונטי, המחבר החיצוני
-
+name: Visual Studio Team Foundation Server 2010
+summary: "Visual Studio Team Foundation Server 2010 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).\n\nהדבר חל על המהדורות הבאות:  All applicable, External Connector \n\n"
 products:
 - vs
 policyType: fixed
@@ -30,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת העברה](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [פיתוח מבצעי של התכלת](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>מהדורות \n* כל הרלוונטיות\n* מחבר חיצוני"
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure Dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>מהדורות \n* All applicable\n* External Connector"

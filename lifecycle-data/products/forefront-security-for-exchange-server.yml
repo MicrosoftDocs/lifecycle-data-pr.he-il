@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: אבטחה של חנית עבור Exchange Server
-  description: האבטחה ' חנית ' עבור Exchange Server מופיעה לפי מדיניות מחזור חיי הקבוע.
+  title: Forefront Security עבור Exchange Server
+  description: Forefront Security for Exchange Server עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 08/12/2020
   ms.openlocfilehash: 0053b2aaf2be3d4c6ecbc29a6396bade882e16dc
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893721"
-name: אבטחה של חנית עבור Exchange Server
+name: Forefront Security עבור Exchange Server
 summary: >
-  האבטחה ' חנית ' עבור Exchange Server מופיעה לפי מדיניות מחזור חיי [הקבוע](/lifecycle/policies/fixed) .
+  Forefront Security for Exchange Server עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > מפת הדרכים למוצרי אבטחה תחת המותג החזיתית השתנתה. מוצר זה הופסק החל מ-31 בדצמבר 2015.
+  > מפת הדרכים עבור מוצרי האבטחה תחת המותג Forefront השתנתה. מוצר זה הופסק  נכון ל- 31 בדצמבר, 2015.
 products:
 - windows
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 03/08/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת העברה](https://www.microsoft.com/security/business/explore/cybersecurity)"
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](https://www.microsoft.com/security/business/explore/cybersecurity)"
