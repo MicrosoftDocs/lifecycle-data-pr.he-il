@@ -1,16 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: דואט ארגוני עבור Microsoft SharePoint ו-SAP
-  description: "' דואט ארגוני ' עבור Microsoft SharePoint ו-SAP עוקב אחר מדיניות מחזור החיים הקבוע."
+  title: Duet Enterprise for Microsoft SharePoint and SAP
+  description: Duet Enterprise for Microsoft SharePoint and SAP עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: fbab932e4c44c55969682684dc2ec7590c3dd6f9
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854976"
-name: דואט ארגוני עבור Microsoft SharePoint ו-SAP
-summary: "' דואט ארגוני ' עבור Microsoft SharePoint ו-SAP עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .\n\n\n> [!IMPORTANT]\n> התמיכה במוצר זה הסתיימה. מוצר זה נמכר ונתמך על-ידי SAP.\n"
+name: Duet Enterprise for Microsoft SharePoint and SAP
+summary: >
+  Duet Enterprise for Microsoft SharePoint and SAP עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
+
+
+
+  > [!IMPORTANT]
+
+  > הסתיימה התמיכה עבור מוצר זה. מוצר זה נמכר ונתמך על-ידי SAP.
 products:
 - office
 policyType: fixed
@@ -25,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 03/16/2011
   endDate: 12/31/2017
-content: "\n## <a name=\"links\"></a>קישורים \n* [תמיכה ב-SAP](https://support.sap.com/index.html)"
+content: "\n## <a name=\"links\"></a>קישורים \n* [תמיכת SAP](https://support.sap.com/index.html)"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: וירטואליזציה של יישומים של Microsoft 5.1
-  description: וירטואליזציה של יישומים של Microsoft 5.1 מעקב אחר מדיניות מחזור החיים הקבוע.
+  title: Microsoft Application Virtualization 5.1
+  description: Microsoft Application Virtualization 5.1 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3f0cac2ee013dd73e44fe41d9ba1d07cfcfce2f1
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854846"
-name: וירטואליזציה של יישומים של Microsoft 5.1
+name: Microsoft Application Virtualization 5.1
 summary: >+
-  וירטואליזציה של יישומים של Microsoft 5.1 מעקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft Application Virtualization 5.1 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  פעולה זו חלה על המהדורות הבאות: עבור שירותי שולחן עבודה מרוחק, עבור מחשבים שולחניים של Windows
+  דבר זה חל על המהדורות הבאות: עבור Remote Desktop Services, עבור Windows Desktops
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2015
   endDate: 04/14/2026
-content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות המוצר](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n\n\n## <a name=\"editions\"></a>מהדורות \n* עבור שירותי שולחן עבודה מרוחק\n* עבור מחשבים שולחניים של Windows"
+content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות המוצר](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n\n\n## <a name=\"editions\"></a>מהדורות \n* עבור Remote Desktop Services\n* for Windows Desktops"

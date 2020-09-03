@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows מוטבע 8.1 כף יד
-  description: Windows מוטמע 8.1 כף-יד מלווה את מדיניות מחזור החיים הקבוע.
+  title: Windows Embedded 8.1 Handheld
+  description: Windows Embedded 8.1 Handheld עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0b19ad1d2a53ee16861bf63a21f6924b3bea1c67
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855168"
-name: Windows מוטבע 8.1 כף יד
+name: Windows Embedded 8.1 Handheld
 summary: >
-  Windows מוטבע 8.1 כף-יד מעקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Windows Embedded 8.1 Handheld עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > התמיכה במוצר זה הסתיימה. אם הארגון שלך עדיין שומר על פלטפורמות אלה ויש לו שאלות נוספות, נא פנה לצוות החשבון שלך.
+  > הסתיימה התמיכה עבור מוצר זה. אם הארגון שלך עדיין מתחזק פלטפורמות אלו ויש לו שאלות נוספות, אנא פנה לצוות החשבון שלך.
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 06/24/2014
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>קישורים \n* [הרבה חלונות 10](/windows/iot-core/windows-iot-core)"
+content: "\n## <a name=\"links\"></a>קישורים \n* [Windows 10 IoT](/windows/iot-core/windows-iot-core)"

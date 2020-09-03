@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מרכז המערכת של מיקרוסופט 2012 מנהל שירות
-  description: Microsoft System Center 2012 מנהל השירות עוקב אחר מדיניות מחזור החיים הקבוע.
+  title: Microsoft System Center 2012 Service Manager
+  description: Microsoft System Center 2012 Service Manager עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 98b376f557f50d8ecdb538898e2526fa207c12bb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854774"
-name: מרכז המערכת של מיקרוסופט 2012 מנהל שירות
+name: Microsoft System Center 2012 Service Manager
 summary: >+
-  Microsoft System Center 2012 מנהל השירות עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft System Center 2012 Service Manager עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>קישורים \n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)\n* [משאבי מרכז המערכת](https://www.microsoft.com/system-center/resources)\n* [תיעוד מרכז המערכת](/system-center/#pivot=components&panel=components-all)"
+content: "\n## <a name=\"links\"></a>קישורים \n* [מדיניות חבילת תמיכה](/lifecycle/policies/fixed#service-packs)\n* [משאבי מרכז המערכת](https://www.microsoft.com/system-center/resources)\n* [תיעוד מרכז המערכת](/system-center/#pivot=components&panel=components-all)"

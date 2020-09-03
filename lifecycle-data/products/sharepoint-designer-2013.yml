@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: SharePoint מעצב 2013
-  description: SharePoint Designer 2013 מלווה את מדיניות מחזור החיים הקבוע.
+  title: SharePoint Designer 2013
+  description: SharePoint Designer 2013 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: ae676f0f1f60e3b034244349d273a177cf65662c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855003"
-name: SharePoint מעצב 2013
+name: SharePoint Designer 2013
 summary: >+
-  SharePoint Designer 2013 מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  SharePoint Designer 2013 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  פעולה זו חלה על המהדורות הבאות: מעצב
+  הדבר חל על המהדורות הבאות: Designer
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>קישורים \n* [פרטי התמיכה](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> תמיכה עבור Microsoft SharePoint Designer 2013 מורחבת כפי שמוצג כדי להבטיח תאימות עם SharePoint Server 2016.\n\n## <a name=\"editions\"></a>מהדורות \n* מעצב"
+content: "\n## <a name=\"links\"></a>קישורים \n* [פרטי תמיכה](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> תמיכה עבור Microsoft SharePoint Designer 2013 מורחבת כפי שמוצג כדי להבטיח תאימות עם SharePoint Server 2016.\n\n## <a name=\"editions\"></a>מהדורות \n* Designer"

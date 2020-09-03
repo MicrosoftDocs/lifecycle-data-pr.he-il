@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics AX 2012 R3
-  description: Dynamics AX 2012 R3 עוקב אחר מדיניות מחזור החיים הקבוע.
+  description: Dynamics AX 2012 R3 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: d321f6b8d10b4c1acf17eb7645030cca46f4f611
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854970"
 name: Dynamics AX 2012 R3
 summary: >+
-  Dynamics AX 2012 R3 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Dynamics AX 2012 R3 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 08/01/2014
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](/dynamics365/unified-operations/dev-itpro/migration-upgrade/upgrade-overview-2012)\n* [דינמיקה 365 תוכנית הגירה](https://dynamics.microsoft.com/migration-program/)\n* [מידע נוסף על מחזור החיים](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/upgrade-overview-2012)\n\n> [!NOTE]\n> תמיכה רגילה ומורחבת הורחבה כמוצג."
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](/dynamics365/unified-operations/dev-itpro/migration-upgrade/upgrade-overview-2012)\n* [תכנית מעבר Dynamics 365](https://dynamics.microsoft.com/migration-program/)\n* [פרטי מחזור-חיים נוספים](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/upgrade-overview-2012)\n\n> [!NOTE]\n> תמיכה רגילה ומורחבת הורחבה כפי שמוצג."
