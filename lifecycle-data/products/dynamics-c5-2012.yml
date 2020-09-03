@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: דינמיקה C5 2012
-  description: Dynamics C5 2012 עוקב אחר מדיניות מחזור החיים הקבוע.
+  title: Dynamics C5 2012
+  description: Dynamics C5 2012 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0e2fde2211933228e6bd97265e65fd5c7d711bde
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854968"
-name: דינמיקה C5 2012
+name: Dynamics C5 2012
 summary: >+
-  Dynamics C5 2012 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Dynamics C5 2012 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  פעולה זו חלה על המהדורות הבאות: תקן
+  הדבר חל על המהדורות הבאות: Standard
 
 products:
 - dynamics
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 01/10/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](/dynamics-nav-app/localfunctionality/denmark/ui-extensions-c5-data-migration)\n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>מהדורות \n* רגיל"
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](/dynamics-nav-app/localfunctionality/denmark/ui-extensions-c5-data-migration)\n* [מדיניות חבילת תמיכה](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>מהדורות \n* Standard"

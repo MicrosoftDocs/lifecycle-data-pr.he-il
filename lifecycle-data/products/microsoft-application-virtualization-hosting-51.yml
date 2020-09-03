@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: אירוח וירטואליזציה של מיקרוסופט ליישומים 5.1 עבור מחשבים שולחניים של Windows
-  description: אירוח וירטואליזציה של יישומים של Microsoft המארח 5.1 עבור מחשבים שולחניים של Windows מלווה במדיניות מחזור חיים קבוע.
+  title: Microsoft Application Virtualization Hosting 5.1 for Windows Desktops
+  description: Microsoft Application Virtualization Hosting 5.1 for Windows Desktops עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: c6fc257da84e3276165d0ab97a736120c1424172
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855028"
-name: אירוח וירטואליזציה של מיקרוסופט ליישומים 5.1 עבור מחשבים שולחניים של Windows
+name: Microsoft Application Virtualization Hosting 5.1 for Windows Desktops
 summary: >+
-  אירוח וירטואליזציה של יישומים של Microsoft המארח 5.1 [עבור מחשבים](/lifecycle/policies/fixed) שולחניים של Windows מלווה את מדיניות מחזור החיים
+  Microsoft Application Virtualization Hosting 5.1 for Windows Desktops עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  פעולה זו חלה על המהדורות הבאות: עבור מחשבים שולחניים של Windows
+  הדבר חל על המהדורות הבאות: עבור Windows Desktops
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2015
   endDate: 04/14/2026
-content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות המוצר](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n\n\n## <a name=\"editions\"></a>מהדורות \n* עבור מחשבים שולחניים של Windows"
+content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות המוצר](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n\n\n## <a name=\"editions\"></a>מהדורות \n* for Windows Desktops"

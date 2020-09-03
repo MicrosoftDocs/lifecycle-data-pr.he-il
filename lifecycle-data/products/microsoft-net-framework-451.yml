@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 4.5.1 מסגרת של Microsoft .NET
-  description: 4.5.1 של Microsoft .NET Framework עוקב אחר מדיניות מחזור חיי הרכיבים.
+  title: Microsoft .NET Framework 4.5.1
+  description: Microsoft .NET Framework 4.5.1 עוקב אחר מדיניות מחזור-חיים לרכיבים.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9141a70347bbcd248703cfb15bfe1414abda7caa
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854811"
-name: 4.5.1 מסגרת של Microsoft .NET
+name: Microsoft .NET Framework 4.5.1
 summary: >+
-  Microsoft .NET Framework 4.5.1 מלווה את מדיניות מחזור חיי [הרכיבים](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Microsoft .NET Framework 4.5.1 עוקב אחר מדיניות מחזור-חיים [לרכיבים](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: RTM
   startDate: 01/15/2014
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות המוצר](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-451)\n\n> [!NOTE]\n> תמיכה ב-.NET Framework 4, 4.5 ו-4.5.1 הסתיימה ב -12 בינואר 2016."
+content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות המוצר](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-451)\n\n> [!NOTE]\n> תמיכה עבור .NET Framework 4, 4.5 ו- 4.5.1 הסתיימה ב-12 בינואר 2016."

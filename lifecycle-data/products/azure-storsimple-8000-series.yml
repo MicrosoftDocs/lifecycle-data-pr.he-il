@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: התכלת סטורקל 8000 סדרה
-  description: התכלת סטורקל 8000 Series מלווה את מדיניות מחזור חיי הקבוע.
+  title: Azure StorSimple סדרה 8000
+  description: Azure StorSimple 8000 Series עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: b7f4d4313e664c1d52d52ee6394c8cad97f69e85
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854708"
-name: התכלת סטורקל 8000 סדרה
+name: Azure StorSimple סדרה 8000
 summary: >+
-  התכלת סטורקל 8000 Series מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Azure StorSimple 8000 Series עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:
@@ -24,4 +24,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/01/2014
-content: "\n## <a name=\"links\"></a>קישורים \n* [התמיכה הפתרון StorSimple](https://msdn.microsoft.com/library/mt433077(TechNet.10).aspx)\n* [הנחיית הגירה](/azure/storage/files/storage-files-migration-storsimple-8000)\n\n> [!NOTE]\n> תמיכה עבור כחול StorSimple 8000 סדרת מורחב כפי שמוצג כדי לספק ללקוחות את ציר הזמן הסטנדרטי של מחזור החיים. תמיכה מורחבת כוללת עדכוני אבטחה והחלפת חומרה בלבד."
+content: "\n## <a name=\"links\"></a>קישורים \n* [פתרונות תמיכה StorSimple](https://msdn.microsoft.com/library/mt433077(TechNet.10).aspx)\n* [הדרכת ביצוע מעבר](/azure/storage/files/storage-files-migration-storsimple-8000)\n\n> [!NOTE]\n> התמיכה בסדרת Azure StorSimple 8000 Series מורחבת כמוצג, בכדי לספק ללקוחות את חלון הזמן הסטנדרטי של מחזור החיים. התמיכה המורחבת כוללת החלפת חומרה ועדכוני בטיחות בלבד."
