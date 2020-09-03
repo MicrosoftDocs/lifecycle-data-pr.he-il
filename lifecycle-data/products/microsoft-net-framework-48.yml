@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מיקרוסופט .NET framework 4.8
-  description: Microsoft .NET Framework 4.8 מלווה את מדיניות מחזור חיי הרכיבים.
+  title: Microsoft .NET Framework 4.8
+  description: Microsoft .NET Framework 4.8 עוקב אחר מדיניות מחזור-חיים לרכיבים.
   ms.date: 07/28/2020
   ms.openlocfilehash: df883bbb34d446d8dfe0ba2635a781778f510841
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869757"
-name: מיקרוסופט .NET framework 4.8
+name: Microsoft .NET Framework 4.8
 summary: >+
-  Microsoft .NET Framework 4.8 מלווה את מדיניות מחזור חיי [הרכיבים](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Microsoft .NET Framework 4.8 עוקב אחר מדיניות מחזור-חיים [לרכיבים](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 04/18/2019
-content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות המוצר](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n* [שאלות נפוצות על מחזור חיי המסגרת של .NET](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> .NET Framework הוא רכיב של מערכת ההפעלה Windows. רכיבים מקבלים תמיכה זהה לזו של מוצר האב או הפלטפורמה שלהם."
+content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות המוצר](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n* [שאלות נפוצות אודות מדיניות מחזור-חיים עבור .NET Framework](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> .NET Framework הוא רכיב של מערכת ההפעלה של Windows. רכיבים זוכים לאותה רמת תמיכה כמו מוצר או פלטפורמת האם."

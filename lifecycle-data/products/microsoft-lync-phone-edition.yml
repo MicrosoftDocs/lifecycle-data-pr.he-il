@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: מהדורת הטלפון של Microsoft Lync
-  description: מהדורת הטלפון של Microsoft Lync מלווה את מדיניות מחזור החיים הקבוע.
+  description: Microsoft Lync Phone Edition עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/30/2020
   ms.openlocfilehash: 9eab078296b6c16d3acdc1552739dabb02ab10a1
   ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/31/2020
   ms.locfileid: "879503"
 name: מהדורת הטלפון של Microsoft Lync
 summary: >+
-  מהדורת הטלפון של Microsoft Lync מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft Lync Phone Edition עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>קישורים \n* [מידע נוסף](https://techcommunity.microsoft.com/t5/Skype-for-Business-Blog/Certified-Skype-for-Business-Online-Phones-and-what-this-means/ba-p/120035)\n\n> [!NOTE]\n> מהדורת lync Phone נתמכת עם Lync Server 2010 ו-Lync Server 2013. תאריך התמיכה עבור מהדורת Lync Phone הורחב 2 שנים כדי להתיישר עם מחזור החיים 2013 של Lync Server."
+content: "\n## <a name=\"links\"></a>קישורים \n* [מידע נוסף](https://techcommunity.microsoft.com/t5/Skype-for-Business-Blog/Certified-Skype-for-Business-Online-Phones-and-what-this-means/ba-p/120035)\n\n> [!NOTE]\n> Lync Phone Edition נתמך עם Lync Server 2010 ו- Lync Server 2013. תאריך התמיכה עבור Lync Phone Edition הוארך בשנתיים כדי לישר קו עם המחזור-חיים של Lync Server 2013."

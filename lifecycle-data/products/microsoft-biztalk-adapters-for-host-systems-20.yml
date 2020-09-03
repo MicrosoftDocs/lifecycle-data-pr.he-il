@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מתאמי Microsoft BizTalk עבור מערכות אירוח 2.0
-  description: מתאמי Microsoft BizTalk עבור מערכות Host 2.0 עוקבים אחרי מדיניות מחזור החיים הקבועים.
+  title: Microsoft BizTalk Adapters for Host Systems 2.0
+  description: Microsoft BizTalk Adapters for Host Systems 2.0 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 08/12/2020
   ms.openlocfilehash: 425db6cb5918efdf9afc544d8a0e8bb554ce695c
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893499"
-name: מתאמי Microsoft BizTalk עבור מערכות אירוח 2.0
+name: Microsoft BizTalk Adapters for Host Systems 2.0
 summary: >+
-  מתאמי Microsoft BizTalk עבור מערכות Host 2.0 עוקבים אחרי מדיניות מחזור החיים [הקבועים](/lifecycle/policies/fixed) .
+  Microsoft BizTalk Adapters for Host Systems 2.0 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  פעולה זו חלה על המהדורות הבאות: Developer, Standard
+  הדבר חל על המהדורות הבאות: Developer, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת העברה](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>מהדורות \n* מפתח\n* רגיל"
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>מהדורות \n* Developer\n* Standard"

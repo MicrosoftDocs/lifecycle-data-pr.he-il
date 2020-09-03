@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 8.1
-  description: Windows 8.1 עוקב אחר מדיניות מחזור החיים הקבועים.
+  description: Windows 8.1 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 08/21/2020
   ms.openlocfilehash: 42fc7e148a73c5583047b7bed3862484dea56340
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906657"
 name: Windows 8.1
 summary: >+
-  Windows 8.1 עוקב אחר מדיניות מחזור החיים [הקבועים](/lifecycle/policies/fixed) .
+  Windows 8.1 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  פעולה זו חלה על המהדורות הבאות: Enterprise, Enterprise N, N, Pro with Media Center, Professional, מקצועי N, SL
+  הדבר חל על המהדורות הבאות: Enterprise, Enterprise N, N, Pro with Media Center, Professional, Professional N, SL
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2013
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>קישורים \n* [שאלות נפוצות אודות מחזור חיים-מוצרי Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>מהדורות \n* ארגון\n* ארגון N\n* N\n* Pro עם Media Center\n* מקצועי\n* N מקצועי\n* SL"
+content: "\n## <a name=\"links\"></a>קישורים \n* [שאלות נפוצות אודות מדיניות מחזור-חיים - מוצרי ](/lifecycle/faq/windows)Windows\n\n\n## <a name=\"editions\"></a>מהדורות \n* Enterprise\n* Enterprise N\n* N\n* Pro עם Media Center\n* Professional\n* Professional N\n* SL"
