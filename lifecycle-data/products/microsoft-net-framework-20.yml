@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מיקרוסופט .NET framework 2.0
-  description: Microsoft .NET Framework 2.0 מלווה את מדיניות מחזור החיים הקבוע.
+  title: Microsoft .NET Framework 2.0
+  description: Microsoft .NET Framework 2.0 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: d6d186410b904b018d0d12029387bf88ac0784fb
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819797"
-name: מיקרוסופט .NET framework 2.0
+name: Microsoft .NET Framework 2.0
 summary: >+
-  Microsoft .NET Framework 2.0 מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft .NET Framework 2.0 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 02/17/2006
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>קישורים \n* [מחזור חיים שאלות נפוצות-.NET המסגרת](/lifecycle/faq/dotnet-framework)\n* [מידע אודות המוצר](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-20)\n\n> [!NOTE]\n> תמיכה עבור .NET Framework 2.0 הסתיימה ב-12 ביולי 2011."
+content: "\n## <a name=\"links\"></a>קישורים \n* [שאלות נפוצות בנושא מדיניות מחזור-חיים - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [מידע אודות המוצר](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-20)\n\n> [!NOTE]\n> התמיכה עבור .NET Framework 2.0 הסתיימה ב- 12 ביולי, 2011."

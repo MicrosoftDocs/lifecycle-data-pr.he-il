@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מנהל כרטיס הניקוד העסקי של Microsoft Office 2005
-  description: מנהל כרטיס הניקוד העסקי של Microsoft Office 2005 עוקב אחר מדיניות מחזור חיי הקבוע.
+  title: Microsoft Office Business Scorecard Manager 2005
+  description: Microsoft Office Business Scorecard Manager 2005 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: bc345248ceba7c8f2cac730bc1141a0dae32d398
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820164"
-name: מנהל כרטיס הניקוד העסקי של Microsoft Office 2005
+name: Microsoft Office Business Scorecard Manager 2005
 summary: >+
-  מנהל כרטיס הניקוד העסקי של Microsoft Office 2005 עוקב אחר מדיניות מחזור חיי [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft Office Business Scorecard Manager 2005 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 12/27/2005
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](https://blogs.msdn.microsoft.com/performancepoint/2016/04/06/end-of-support-for-business-scorecard-accelerator-and-business-scorecard-manager-2005)\n\n> [!NOTE]\n> תמיכה עבור מנהל עסקים כרטיס ניקוד 2005 הסתיים ב 1/12/2016."
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](https://blogs.msdn.microsoft.com/performancepoint/2016/04/06/end-of-support-for-business-scorecard-accelerator-and-business-scorecard-manager-2005)\n\n> [!NOTE]\n> התמיכה עבור Business Scorecard Manager 2005 הסתיימה ב- 1/12/2016."

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Excel 2007
-  description: Microsoft Office Excel 2007 עוקב אחר מדיניות מחזור החיים הקבוע.
+  description: Microsoft Office Excel 2007 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: fc9de7b0c021adafe412b797fc40b821dd5d7a4f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819461"
 name: Microsoft Office Excel 2007
 summary: >+
-  Microsoft Office Excel 2007 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft Office Excel 2007 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  הדבר חל על המהדורות הבאות: בית ותלמיד, תקן
+  הדבר חל על המהדורות הבאות: Home ו-Student, Standard
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>מהדורות \n* בית ותלמיד\n* רגיל"
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>מהדורות \n* Home ו-Student\n* Standard"

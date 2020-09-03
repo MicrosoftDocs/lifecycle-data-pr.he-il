@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: חיבור של Microsoft Office 2007
-  description: חיבור Microsoft Office 2007 מלווה את מדיניות מחזור החיים הקבוע.
+  title: Microsoft Office InterConnect 2007
+  description: Microsoft Office InterConnect 2007 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2930b1c5bd1db016e2228772f4a4b81678ce6f68
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819445"
-name: חיבור של Microsoft Office 2007
+name: Microsoft Office InterConnect 2007
 summary: >+
-  2007 של Microsoft Office חיבור מעקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft Office InterConnect 2007 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  פעולה זו חלה על המהדורות הבאות: תקן
+  הדבר חל על המהדורות הבאות: Standard
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>מהדורות \n* רגיל"
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>מהדורות \n* Standard"

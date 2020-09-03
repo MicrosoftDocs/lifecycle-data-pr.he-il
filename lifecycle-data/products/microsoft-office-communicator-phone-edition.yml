@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: מהדורת הטלפון של Microsoft Office Communicator
-  description: מהדורת הטלפון של Microsoft Office Communicator עוקבת אחר מדיניות מחזור החיים הקבוע.
+  description: Microsoft Office Communicator Phone Edition עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 368d65cc1ace6dffa576cfa9add8d9e3286a6ea9
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820150"
 name: מהדורת הטלפון של Microsoft Office Communicator
 summary: >+
-  מהדורת הטלפון של Microsoft Office Communicator עוקבת אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft Office Communicator Phone Edition עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  פעולה זו חלה על המהדורות הבאות: טלפון
+  הדבר חל על המהדורות הבאות: Phone
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2007
   endDate: 04/11/2017
-content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>מהדורות \n* טלפון"
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>מהדורות \n* טלפון"

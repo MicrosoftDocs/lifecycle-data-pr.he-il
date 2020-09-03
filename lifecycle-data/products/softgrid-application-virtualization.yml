@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: וירטואליזציה של יישומים סופגריד
-  description: וירטואליזציה של יישומי SoftGrid מלווה את מדיניות מחזור החיים הקבוע.
+  title: SoftGrid Application Virtualization
+  description: SoftGrid Application Virtualization עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 17b8078138b718a634c2561ac4b1e73f3966ce24
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819178"
-name: וירטואליזציה של יישומים סופגריד
+name: SoftGrid Application Virtualization
 summary: >
-  וירטואליזציה של יישומי SoftGrid מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  SoftGrid Application Virtualization עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  הדבר חל על המהדורות הבאות: 4.1 עבור שולחנות עבודה, 4.2 עבור שולחנות עבודה, עבור שירותי מסופים 4.1
+  הדבר חל על המהדורות הבאות: 4.1 עבור Desktops, 4.2 עבור Desktops, עבור Terminal Services 4.1
 
 
   > [!IMPORTANT]
 
-  > . התמיכה הסתיימה ראה הנחיות הגירה להלן.
+  > התמיכה הסתיימה. ראו הנחיות מעבר מטה.
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/25/2007
   endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>מהדורות \n* 4.1 מחשבים למחשבים שולחניים\n* 4.2 מחשבים למחשבים שולחניים\n* עבור שירותי מסופים 4.1"
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>מהדורות \n* 4.1 עבור Desktops\n* 4.2 עבור Desktops\n* עבור Terminal Services 4.1"
