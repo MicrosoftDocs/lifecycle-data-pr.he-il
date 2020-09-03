@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מחברי מוצר engyro עבור מנהל התפעול של Microsoft 2005
-  description: מחברי מוצר engyro עבור מנהל התפעול של Microsoft 2005 מעקב אחר מדיניות מחזור החיים הקבוע.
+  title: Engyro Product Connectors for Microsoft Operations Manager 2005
+  description: Engyro Product Connectors for Microsoft Operations Manager 2005 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: b421124e88b9e5ee8e28e9added4a7876c9405dd
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819931"
-name: מחברי מוצר engyro עבור מנהל התפעול של Microsoft 2005
+name: Engyro Product Connectors for Microsoft Operations Manager 2005
 summary: >+
-  מחברי מוצר engyro עבור מנהל התפעול של Microsoft 2005 מעקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Engyro Product Connectors for Microsoft Operations Manager 2005 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:

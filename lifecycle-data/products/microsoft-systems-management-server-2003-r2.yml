@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: שרת ניהול של מערכות Microsoft 2003 R2
-  description: שרת ניהול מערכות של Microsoft 2003 R2 עוקב אחר מדיניות מחזור החיים הקבוע.
+  title: Microsoft Systems Management Server 2003 R2
+  description: Microsoft Systems Management Server 2003 R2 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5d1cade536fbdca6669ad3953cf16c07d47c46fb
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819738"
-name: שרת ניהול של מערכות Microsoft 2003 R2
+name: Microsoft Systems Management Server 2003 R2
 summary: >+
-  שרת ניהול מערכות של Microsoft 2003 R2 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft Systems Management Server 2003 R2 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מיקרוסופט .NET framework 3.0
-  description: Microsoft .NET Framework 3.0 מלווה את מדיניות מחזור החיים הקבוע.
+  title: Microsoft .NET Framework 3.0
+  description: Microsoft .NET Framework 3.0 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: a237dbb82803402d137fc784cf184e58b604015b
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819793"
-name: מיקרוסופט .NET framework 3.0
+name: Microsoft .NET Framework 3.0
 summary: >+
-  Microsoft .NET Framework 3.0 מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft .NET Framework 3.0 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 11/21/2006
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>קישורים \n* [מחזור חיים שאלות נפוצות-.NET המסגרת](/lifecycle/faq/dotnet-framework)\n* [מידע אודות המוצר](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-30)\n\n> [!NOTE]\n> תמיכה עבור גירסאות .NET Framework 3. x לפני 3.5 SP1 הסתיימה ב -12 ביולי, 2011."
+content: "\n## <a name=\"links\"></a>קישורים \n* [שאלות נפוצות בנושא מדיניות מחזור-חיים - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [מידע אודות המוצר](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-30)\n\n> [!NOTE]\n> התמיכה בגירסאות ‎.NET Framework 3.x שקמו ל-3.5 SP1 הסתיימה ב-12 ביולי, 2011."

@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: דינמיקה 9.0 המישורים הגדולים
-  description: דינמיקה 9.0 מערבה מלווה את מדיניות מחזור החיים הקבוע.
+  title: Dynamics 9.0 GreatPlains
+  description: Dynamics 9.0 GreatPlains עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0015493ad223e4603a77b348f406d9a2df47d315
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819257"
-name: דינמיקה 9.0 המישורים הגדולים
+name: Dynamics 9.0 GreatPlains
 summary: >
-  דינמיקה 9.0 הגדולים מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Dynamics 9.0 GreatPlains עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > התמיכה במוצר זה הסתיימה.
+  > הסתיימה התמיכה עבור מוצר זה.
 products:
 - dynamics
 policyType: fixed

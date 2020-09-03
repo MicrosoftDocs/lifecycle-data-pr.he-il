@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: אינטרנט אקספלורר 8
-  description: Internet Explorer 8 עוקב אחר מדיניות מחזור חיי הרכיבים.
+  title: Internet Explorer 8
+  description: Internet Explorer 8 עוקב אחר מדיניות מחזור-חיים לרכיבים.
   ms.date: 07/28/2020
   ms.openlocfilehash: 829f271edf5fe7984b750209a89f0f40efc6a3c3
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819895"
-name: אינטרנט אקספלורר 8
+name: Internet Explorer 8
 summary: >+
-  Internet Explorer 8 עוקב אחר מדיניות מחזור חיי [הרכיבים](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Internet Explorer 8 עוקב אחר מדיניות מחזור-חיים [לרכיבים](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 06/17/2009
-content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](https://www.microsoft.com/itpro/microsoft-edge)\n* [שאלות נפוצות על מדיניות מחזור חיי האינטרנט של internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> החל מ-12 בינואר, 2016, רק הגירסה העדכנית ביותר של Internet Explorer הזמינה עבור מערכת הפעלה נתמכת תקבל תמיכה טכנית ועדכוני אבטחה."
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](https://www.microsoft.com/itpro/microsoft-edge)\n* [שאלות נפוצות אודות מדיניות מחזור-חיים עבור Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> החל מה- 12 בינואר, 2016, רק הגירסה העדכנית ביותר של Internet Explorer זמינה עבור מערכת הפעלה נתמכת ותקבל תמיכה טכנית ועדכוני אבטחה."

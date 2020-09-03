@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: מחברי מוצר engyro עבור מנהל התפעול של מרכז המערכת של Microsoft 2007
-  description: מחברי מוצר engyro עבור מנהל התפעול של מרכז המערכת של Microsoft 2007 מלווה את מדיניות מחזור החיים הקבוע.
+  description: Engyro Product Connectors for Microsoft System Center Operations Manager 2007 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 434c323cabe12823036a8bc7854aa026253d65a9
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820180"
 name: מחברי מוצר engyro עבור מנהל התפעול של מרכז המערכת של Microsoft 2007
 summary: >
-  מחברי מוצר engyro עבור מנהל התפעול של מרכז המערכת של Microsoft 2007 מעקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Engyro Product Connectors for Microsoft System Center Operations Manager 2007 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > התמיכה במוצר זה הסתיימה.
+  > הסתיימה התמיכה עבור מוצר זה.
 products:
 - msc
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 10/01/2007
   endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](https://blogs.technet.microsoft.com/momteam/2017/01/10/engyro-product-connector-support-ending-this-year/)"
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](https://blogs.technet.microsoft.com/momteam/2017/01/10/engyro-product-connector-support-ending-this-year/)"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: שירותי הגנת האתר של מיקרוסופט לניהול איום בחזית
-  description: שירותי הגנת האינטרנט של מיקרוסופט בחזית האיים מלווה את מדיניות מחזור החיים הקבוע.
+  title: Microsoft Forefront Threat Management Gateway Web Protection Services
+  description: Microsoft Forefront Threat Management Gateway Web Protection Services עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: c4c69a070513e336ed8305b8f6a37c2bf5972d1c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819803"
-name: שירותי הגנת האתר של מיקרוסופט לניהול איום בחזית
+name: Microsoft Forefront Threat Management Gateway Web Protection Services
 summary: >+
-  שירותי הגנת האינטרנט של מיקרוסופט בחזית האיים מנהלים את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft Forefront Threat Management Gateway Web Protection Services עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/01/2009
   endDate: 12/31/2015
-content: "\n## <a name=\"links\"></a>קישורים \n* [מיפוי דרכים בחזית](https://blogs.technet.microsoft.com/hybridcloud/2012/09/12/important-changes-to-forefront-product-roadmaps/)\n\n> [!NOTE]\n> מפת הדרכים עבור מוצרי אבטחה תחת המותג חזית השתנתה.מוצר זה הופסק בתאריך 31 בדצמבר, 2015."
+content: "\n## <a name=\"links\"></a>קישורים \n* [מפת דרכים Forefront ](https://blogs.technet.microsoft.com/hybridcloud/2012/09/12/important-changes-to-forefront-product-roadmaps/)\n\n> [!NOTE]\n> מפת הדרכים עבור מוצרי האבטחה תחת המותג Forefront השתנתה. מוצר זה הופסק  נכון ל- 31 בדצמבר, 2015.\n\n\n"

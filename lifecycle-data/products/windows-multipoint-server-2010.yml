@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: שרת רב-נקודות של Windows 2010
-  description: Windows MultiPoint Server 2010 עוקב אחר מדיניות מחזור החיים הקבוע.
+  title: Windows MultiPoint Server 2010
+  description: Windows MultiPoint Server 2010 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: fe2e8699f2c0dd5d2303ba32477aa39287a7c354
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819664"
-name: שרת רב-נקודות של Windows 2010
+name: Windows MultiPoint Server 2010
 summary: >+
-  Windows MultiPoint Server 2010 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Windows MultiPoint Server 2010 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  הדבר חל על המהדורות הבאות: אקדמי, סטנדרטי
+  הדבר חל על המהדורות הבאות: Academic, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 05/13/2010
   endDate: 07/14/2020
-content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](https://aka.ms/AA1ovn4)\n* [הנחיית הגירה נוספת](/windows-server/get-started/installation-and-upgrade)\n* [מידע אודות המוצר](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>מהדורות \n* אקדמי\n* רגיל"
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](https://aka.ms/AA1ovn4)\n* [הנחיות מעבר נוספות](/windows-server/get-started/installation-and-upgrade)\n* [מידע אודות המוצר](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>מהדורות \n* Academic\n* Standard"

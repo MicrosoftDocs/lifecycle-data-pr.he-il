@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מסגרת השירותים המחוברים של Microsoft 3.0
-  description: מסגרת השירותים המחוברים של Microsoft 3.0 מלווה את מדיניות מחזור החיים הקבוע.
+  title: Microsoft Connected Services Framework 3.0
+  description: Microsoft Connected Services Framework 3.0 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: f30c38e094a3b58f587d59871bd573607df04273
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819826"
-name: מסגרת השירותים המחוברים של Microsoft 3.0
+name: Microsoft Connected Services Framework 3.0
 summary: >+
-  מסגרת השירותים המחוברים של Microsoft 3.0 מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft Connected Services Framework 3.0 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  הדבר חל על המהדורות הבאות: אירוע חיוב בעסקים סטנדרטיים, אירוע טיפול בהזמנה לעסקים סטנדרטיים, שרת, רגיל, שרת רגיל עם אירועים עסקיים סטנדרטיים
+  הדבר חל על המהדורות הבאות: Billing Standard Business Event, Order Handling Standard Business Event, Server, Standard, Standard Server with Standard Business Events
 
 products:
 - connected-services-framework
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/30/2006
   endDate: 07/12/2016
-content: "\n\n\n## <a name=\"editions\"></a>מהדורות \n* אירוע עסקי ברמת חיוב\n* אירוע עסקי רגיל לטיפול בהזמנות\n* Server\n* רגיל\n* שרת רגיל עם אירועים עסקיים סטנדרטיים"
+content: "\n\n\n## <a name=\"editions\"></a>מהדורות \n* Billing Standard Business Event\n* Order Handling Standard Business Event\n* שרת\n* Standard\n* Standard Server עם Standard Business Events"

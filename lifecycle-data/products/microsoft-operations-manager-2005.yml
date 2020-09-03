@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מנהל התפעול של מיקרוסופט (אמא) 2005
-  description: מנהל התפעול של Microsoft (MOM) 2005 עוקב אחר מדיניות מחזור החיים הקבוע.
+  title: Microsoft Operations Manager (MOM) 2005
+  description: Microsoft Operations Manager (MOM) 2005 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 537a6fbd4ff1d9f82a9ffd0dcd3b456bee05cc55
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819211"
-name: מנהל התפעול של מיקרוסופט (אמא) 2005
+name: Microsoft Operations Manager (MOM) 2005
 summary: >
-  מנהל התפעול של Microsoft (MOM) 2005 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft Operations Manager (MOM) 2005 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  פעולה זו חלה על המהדורות הבאות: קבוצת עבודה
+  הדבר חל על המהדורות הבאות: Workgroup
 
 
   > [!IMPORTANT]
 
-  > התמיכה במוצר זה הסתיימה.
+  > הסתיימה התמיכה עבור מוצר זה.
 products:
 - msc
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 11/24/2004
   endDate: 10/10/2006
-content: "\n## <a name=\"links\"></a>קישורים \n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)\n* [Operations Manager](/system-center/scom/welcome?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>מהדורות \n* קבוצת עבודה\n\nמילות מפתח: אמא"
+content: "\n## <a name=\"links\"></a>קישורים \n* [מדיניות חבילת תמיכה](/lifecycle/policies/fixed#service-packs)\n* [Operations Manager](/system-center/scom/welcome?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>מהדורות \n* Workgroup\n\nמילות מפתח:  MOM"
