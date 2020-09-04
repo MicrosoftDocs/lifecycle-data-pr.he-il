@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Groove 3.1
+  description: Groove 3.1 עוקב אחר מדיניות מחזור החיים הקבועים.
+  ms.date: 09/03/2020
+  keywords: Enterprise Backup Service,Enterprise Data Bridge,Enterprise Relay Server,Hosted Management Services,Hosted Relay Services,Office Project,Virtual Office File Sharing,Virtual Office Professional,Web Services Development Kit
+  ms.openlocfilehash: 19dab25c567ea1b34565a675dffe9c99c6c21ba5
+  ms.sourcegitcommit: 59291eb409a67c9e002fd0e45e37aca76d599df0
+  ms.translationtype: MT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 09/03/2020
+  ms.locfileid: "950839"
+name: Groove 3.1
+summary: >+
+  Groove 3.1 עוקב אחר מדיניות מחזור החיים [הקבועים](/lifecycle/policies/fixed) .
+
+
+  אפשרות זו חלה על המהדורות הבאות: שירות הגיבוי של ארגון, גשר נתונים ארגוני, שרת ממסר ארגוני, שירותי ניהול מתארח, שירותי ממסר מתארחים, Office Project, שיתוף קבצים וירטואליים של Office, וירטואלי Office Professional, ערכת פיתוח של שירותי אינטרנט
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 07/01/2004
+  end: 04/16/2010
+releases:
+- version: Original Release
+  startDate: 07/01/2004
+  endDate: 04/16/2010
+content: "\n\n\n## <a name=\"editions\"></a>מהדורות \n* שירות גיבוי ארגוני\n* גשר נתונים ארגוני\n* שרת ממסר ארגוני\n* שירותי ניהול מתארחים\n* שירותי ממסר מתארחים\n* Office Project\n* שיתוף קבצים וירטואליים של Office\n* וירטואלי Office Professional\n* ערכת פיתוח של שירותי אינטרנט"
