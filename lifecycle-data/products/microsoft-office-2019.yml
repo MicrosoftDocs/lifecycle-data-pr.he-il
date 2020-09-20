@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2019
-  description: Microsoft Office 2019 עוקב אחר מדיניות מחזור חיי הקבועים.
+  description: Microsoft Office 2019 פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 09/01/2020
   keywords: Home and Business,Home and Student,Personal,Professional,Professional Academic,Professional Plus,Standard
   ms.openlocfilehash: 902490302b48c61548ee755b3765506bb1e53b04
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930381"
 name: Microsoft Office 2019
 summary: >+
-  Microsoft Office 2019 עוקב אחר מדיניות מחזור חיי [הקבועים](/lifecycle/policies/fixed) .
+  Microsoft Office 2019 פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  הדבר חל על המהדורות הבאות: בית ועסק, בית ותלמיד, אישי, מקצועי, מקצועי, מקצועי פלוס, סטנדרטי
+  דבר זה חל על המהדורות הבאות: Home ו-Business, Home ו-Student, Personal, Professional, Professional Academic, Professional Plus, Standard
 
 products:
 - office

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: סוכן הפריסה של מיקרוסופט 2013
-  description: סוכן הפריסה של Microsoft 2013 עוקב אחר מדיניות מחזור החיים הקבוע.
+  title: Microsoft Deployment Agent 2013
+  description: Microsoft Deployment Agent 2013 פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: d81680178f3fc6d72450bbf62cbf11ccb7ef8dc5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854837"
-name: סוכן הפריסה של מיקרוסופט 2013
+name: Microsoft Deployment Agent 2013
 summary: >+
-  סוכן הפריסה של Microsoft 2013 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft Deployment Agent 2013 פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n\n> [!NOTE]\n> עבור סוכן הפריסה 2013, עדכון 4 יתמוך לפי הנחיות המדיניות עד 4/9/2024."
+content: "\n\n> [!NOTE]\n> עבור Deployment Agent 2013, עדכון 4 יתמך בהתאם לקווי היסוד של המדיניות עד לתאריך 4/9/2024."

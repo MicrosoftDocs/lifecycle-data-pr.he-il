@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Excel 2010
-  description: Excel 2010 עוקב אחר מדיניות מחזור חיי הקבוע.
+  description: Excel 2010 פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 09/01/2020
   keywords: Home and Student,Mobile,Standard
   ms.openlocfilehash: 1ba0a62a05a1e3fd9d8a0833957ca33f3ba8b4fb
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "931602"
 name: Excel 2010
 summary: >+
-  Excel 2010 עוקב אחר מדיניות מחזור חיי [הקבוע](/lifecycle/policies/fixed) .
+  Excel 2010 פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  הדבר חל על המהדורות הבאות: בית ותלמיד, מכשיר נייד, סטנדרטי
+  הדבר חל על המהדורות הבאות: Home ו-Student, Mobile, Standard
 
 products:
 - office

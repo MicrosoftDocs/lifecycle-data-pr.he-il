@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ביטוי 4
-  description: ביטוי 4 עוקב אחר מדיניות מחזור החיים הקבוע.
+  title: Expression 4
+  description: Expression 4 פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 09/01/2020
   keywords: Design,Encoder,Studio Ultimate,Web
   ms.openlocfilehash: ad3463184e4da721215fe51169c93401d2d9c848
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930862"
-name: ביטוי 4
+name: Expression 4
 summary: >+
-  ביטוי 4 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Expression 4 פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  הדבר חל על המהדורות הבאות: עיצוב, מקודד, Studio Ultimate, Web
+  הדבר חל על המהדורות הבאות: Design, Encoder, Studio Ultimate, Web
 
 products:
 - expression
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/26/2010
   endDate: 07/14/2020
-content: "\n\n> [!NOTE]\n> סוף התמיכה הרגילה עבור ביטויים Studio Ultimate 4 הוא 13 באוקטובר 2015.\n\n## <a name=\"editions\"></a>מהדורות \n* עיצוב\n* קודד\n* סטודיו Ultimate\n* Web"
+content: "\n\n> [!NOTE]\n> סוף התמיכה הרגילה עבור Expression Studio Ultimate 4 הוא 13 באוקטובר 2015.\n\n## <a name=\"editions\"></a>מהדורות \n* Design\n* Encoder\n* Studio Ultimate\n* Web"

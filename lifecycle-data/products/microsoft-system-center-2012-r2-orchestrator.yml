@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מרכז המערכת של מיקרוסופט 2012 R2 התזמוריים
-  description: מרכז המערכת של מיקרוסופט 2012 R2 התזמוריים עוקב אחר מדיניות מחזור החיים הקבוע.
+  title: מרכז מערכת Microsoft 2012 R2 Orchestrator
+  description: מרכז מערכת Microsoft 2012 R2 Orchestrator פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: e67c79ef282808b0523d525c2bd1ad8079cf3e06
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854793"
-name: מרכז המערכת של מיקרוסופט 2012 R2 התזמוריים
+name: מרכז מערכת Microsoft 2012 R2 Orchestrator
 summary: >+
-  מרכז המערכת של Microsoft 2012 R2 התזמוריים עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  מרכז מערכת Microsoft 2012 R2 Orchestrator פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:

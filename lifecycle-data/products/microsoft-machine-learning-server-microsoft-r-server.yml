@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: שרת למידה של מחשב של microsoft (שרת Microsoft R)
-  description: שרת למידה של מחשב של microsoft (Microsoft R Server) עוקב אחר מדיניות מחזור החיים המודרני.
+  title: שרת למידת מחשב של Microsoft (שרת Microsoft R)
+  description: שרת למידת מחשב של Microsoft (שרת Microsoft R) פועל בהתאם למדיניות מחזור החיים המודרנית.
   ms.date: 07/28/2020
   ms.openlocfilehash: 800ea9f3a33e2ea7ba45314ebd7986ebcb047bd8
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854814"
-name: שרת למידה של מחשב של microsoft (שרת Microsoft R)
+name: שרת למידת מחשב של Microsoft (שרת Microsoft R)
 summary: >+
-  שרת למידה של מחשב של microsoft (Microsoft R Server) עוקב אחר מדיניות מחזור החיים [המודרני](/lifecycle/policies/modern) .
+  שרת למידת מחשב של Microsoft (שרת Microsoft R) פועל [בהתאם](/lifecycle/policies/modern)למדיניות מחזור החיים המודרנית.
 
 
 products:

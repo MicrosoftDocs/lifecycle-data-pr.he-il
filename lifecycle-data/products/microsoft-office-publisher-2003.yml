@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Publisher 2003
-  description: Microsoft Office Publisher 2003 עוקב אחר מדיניות מחזור חיי הקבוע.
+  description: Microsoft Office Publisher 2003 פועל בהתאם למדיניות מחזור-חיים.
   ms.date: 09/01/2020
   keywords: Standard,with Digital Imaging
   ms.openlocfilehash: 02171136d8f297220ab847aa34d70f61e3264555
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930344"
 name: Microsoft Office Publisher 2003
 summary: >+
-  Microsoft Office Publisher 2003 עוקב אחר מדיניות מחזור חיי [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft Office Publisher 2003 פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  פעולה זו חלה על המהדורות הבאות: תקן, עם דימות דיגיטלי
+  הדבר חל על המהדורות הבאות: Standard, עם הדמיה דיגיטלית
 
 products:
 - office
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/24/2003
   endDate: 04/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>מהדורות \n* Standard\n* עם דימות דיגיטלי"
+content: "\n\n\n## <a name=\"editions\"></a>מהדורות \n* Standard\n* עם הדמיה דיגיטלית"

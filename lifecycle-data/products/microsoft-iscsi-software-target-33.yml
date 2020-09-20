@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: יעד תוכנת iSCSI של Microsoft 3.3
-  description: היעד של תוכנת iSCSI של Microsoft 3.3 מלווה במדיניות מחזור חיי הרכיבים.
+  description: Microsoft iSCSI Software Target 3.3 פועל בהתאם למדיניות מחזור-חיים לרכיבים.
   ms.date: 07/28/2020
   ms.openlocfilehash: c8ae05506cdc5e83920e82e4cc6bcfef3c03863e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854827"
 name: יעד תוכנת iSCSI של Microsoft 3.3
 summary: >
-  היעד של תוכנת iSCSI של Microsoft 3.3 עוקב אחר מדיניות מחזור החיים של [הרכיבים](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Microsoft iSCSI Software Target 3.3 פועל בהתאם למדיניות מחזור-חיים [לרכיבים](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 
   > [!IMPORTANT]
 
-  > התמיכה ברכיב זה הסתיימה.
+  > הסתיימה התמיכה עבור מוצר זה.
 products:
 - windows
 policyType: component
