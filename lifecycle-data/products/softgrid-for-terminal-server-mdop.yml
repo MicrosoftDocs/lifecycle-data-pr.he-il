@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: רשת סופרת עבור שרת מסופים (MDOP)
-  description: הטבלה הרכה עבור שרת מסופים (MDOP) עוקבת אחר מדיניות מחזור החיים הקבוע.
+  title: Softgrid עבור שרת מסוף (MDOP)
+  description: Softgrid עבור שרת מסוף (MDOP) פועלת בהתאם למדיניות מחזור חיים קבוע.
   ms.date: 07/28/2020
   ms.openlocfilehash: 678dd6057802afee1e92f8bba4296ee1b620a97d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819176"
-name: רשת סופרת עבור שרת מסופים (MDOP)
+name: Softgrid עבור שרת מסוף (MDOP)
 summary: >+
-  הטבלה הרכה עבור Terminal Server (MDOP) עוקבת אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Softgrid עבור שרת מסוף (MDOP) פועלת [בהתאם](/lifecycle/policies/fixed)למדיניות מחזור חיים קבוע.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>קישורים \n* [מחזור חיים שאלות נפוצות-כללי](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> כיטול גירסאות שאינן נתמכות בעבר. התמיכה במוצר זה כפופה לתנאי הרכישה."
+content: "\n## <a name=\"links\"></a>קישורים \n* [שאלות נפוצות אודות מדיניות מחזור-חיים - כללי](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> לא כולל מהדורות קודמות שאינן נתמכות. התמיכה במוצר זה כפופה לתנאי רכישתו."

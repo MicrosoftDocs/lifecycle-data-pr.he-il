@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מ4.0
-  description: Dynamics ניווט 4.0 עוקב אחר מדיניות מחזור החיים הקבוע.
+  title: Dynamics NAV 4.0
+  description: Dynamics NAV 4.0 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 766b8f2b69ca45d1ff1620ce6787df299bb68955
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819933"
-name: מ4.0
-summary: "Dynamics ניווט 4.0 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .\n\n\n> [!IMPORTANT]\n> . התמיכה הסתיימה \n"
+name: Dynamics NAV 4.0
+summary: "Dynamics NAV 4.0 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).\n\n\n> [!IMPORTANT]\n> התמיכה הסתיימה. \n"
 products:
 - dynamics
 policyType: fixed-mainstream-only

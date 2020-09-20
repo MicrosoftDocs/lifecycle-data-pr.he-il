@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: שירותי מידע באינטרנט של Microsoft 7.0
-  description: 7.0 שירותי מידע באינטרנט של Microsoft מצייתות למדיניות מחזור חיי הרכיבים.
+  title: שירותי מידע אינטרנטי Microsoft 7.0
+  description: שירותי מידע אינטרנטי Microsoft 7.0 פועלים בהתאם למדיניות מחזור-חיים לרכיבים.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2db2bbc83343f99aea9be4749fa1fcd0aeb12220
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820175"
-name: שירותי מידע באינטרנט של Microsoft 7.0
+name: שירותי מידע אינטרנטי Microsoft 7.0
 summary: >+
-  7.0 שירותי מידע באינטרנט של Microsoft מצייתות למדיניות מחזור חיי [הרכיבים](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  שירותי מידע אינטרנטי Microsoft 7.0 פועלים בהתאם למדיניות מחזור-חיים [לרכיבים](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 01/25/2007
-content: "> [!TIP]\n> מהדורה זו ידועה כרכיב העוקב אחר מחזור חיי התמיכה של מוצר האב הראשי שלה, Windows Server 2008\n\n## <a name=\"links\"></a>קישורים \n* [Windows Server 2008](/lifecycle/products/windows-server-2008)\n\n\n\n"
+content: "> [!TIP]\n> מהדורה זו מוכרת כרכיב העוקב אחר תמיכת מחזור-חיים של המוצר הראשי מהדור לפניו, שרת Windows 2008\n\n## <a name=\"links\"></a>קישורים \n* [שרת Windows 2008](/lifecycle/products/windows-server-2008)"

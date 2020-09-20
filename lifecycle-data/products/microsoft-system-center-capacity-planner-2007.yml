@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: מתכנן קיבולת של מרכז המערכת של Microsoft 2007
-  description: מתכנן קיבולת של מרכז המערכת של Microsoft 2007 עוקב אחר מדיניות מחזור החיים הקבוע.
+  description: מתכנן קיבולת מרכז המערכת Microsoft 2007 פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 026bf977e513462e9f4e5cb0509144ac26e9b9f7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819763"
 name: מתכנן קיבולת של מרכז המערכת של Microsoft 2007
 summary: >
-  מתכנן קיבולת של מרכז המערכת של Microsoft 2007 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  מתכנן קיבולת מרכז המערכת Microsoft 2007 פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > התמיכה במוצר זה הסתיימה.
+  > הסתיימה התמיכה עבור מוצר זה.
 products:
 - msc
 policyType: fixed

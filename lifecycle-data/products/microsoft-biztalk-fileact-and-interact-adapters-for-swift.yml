@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk FileAct ומתאמי אינטראקציה עבור סוויפט
-  description: Microsoft BizTalk FileAct ומתאמי האינטראקציה עבור סוויפט מלווה את מדיניות מחזור החיים הקבוע.
+  title: Microsoft BizTalk FileAct ומתאמי אינטראקציה עבור SWIFT
+  description: מתאמי Microsoft BizTalk FileAct ו- InterAct עבור SWIFT פועלים בהתאם למדיניות מחזור חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 654ca219f5eb9869d6bae2aaaef848a48af3560e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819857"
-name: Microsoft BizTalk FileAct ומתאמי אינטראקציה עבור סוויפט
+name: Microsoft BizTalk FileAct ומתאמי אינטראקציה עבור SWIFT
 summary: >+
-  Microsoft BizTalk FileAct ומתאמי האינטראקציה עבור סוויפט מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  מתאמי Microsoft BizTalk FileAct ו- InterAct עבור SWIFT פועלים [בהתאם למדיניות](/lifecycle/policies/fixed)מחזור חיים קבועה.
 
 
 products:

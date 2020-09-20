@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: שירותי Visio ב-SharePoint Online
-  description: שירותי Visio ב-SharePoint Online מתנהלים בעקבות מדיניות מחזור החיים המודרני.
+  title: Visio שירותים ב-SharePoint Online
+  description: שירותי Visio ב- SharePoint Online פועלים בהתאם למדיניות מחזור החיים המודרנית.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a6c493769f21589c572611837326a9535f56840
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819330"
-name: שירותי Visio ב-SharePoint Online
+name: Visio שירותים ב-SharePoint Online
 summary: >+
-  Visio Services ב-SharePoint Online מלווה את מדיניות מחזור החיים [המודרני](/lifecycle/policies/modern) .
+  שירותי Visio ב- SharePoint Online פועלים [בהתאם](/lifecycle/policies/modern)למדיניות מחזור החיים המודרנית.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 04/16/2010
   endDate: 09/30/2020
-content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](https://techcommunity.microsoft.com/t5/Office-Retirement-Blog/Visio-Web-Access-aka-Visio-Services-Updates/ba-p/109541)"
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](https://techcommunity.microsoft.com/t5/Office-Retirement-Blog/Visio-Web-Access-aka-Visio-Services-Updates/ba-p/109541)"

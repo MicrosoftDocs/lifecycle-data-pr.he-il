@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: החזית אבטחה עבור Sharepoint
-  description: האבטחה החנית של Sharepoint עוקבת אחר מדיניות מחזור החיים הקבוע.
+  title: Forefront Security עבור Sharepoint
+  description: Forefront Security עבור Sharepoint פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9354e1b278472de171a03354657be0f4920d4b3c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819914"
-name: החזית אבטחה עבור Sharepoint
+name: Forefront Security עבור Sharepoint
 summary: >
-  האבטחה החנית של Sharepoint עוקבת אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Forefront Security עבור Sharepoint פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > התמיכה במוצר זה הסתיימה.
+  > הסתיימה התמיכה עבור מוצר זה.
 products:
 - windows
 policyType: fixed
