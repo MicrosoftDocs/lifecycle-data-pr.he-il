@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Analytics
-  description: Windows Analytics מלווה את מדיניות מחזור החיים המודרני.
+  description: Windows Analytics פועל בהתאם למדיניות מחזור-חיים מודרנית.
   ms.date: 08/11/2020
   ms.openlocfilehash: 01c42583edc132faefab6ccf17e3f25cd6e2ce9b
   ms.sourcegitcommit: d4ec29fd0c57053cfa2254d1bb08c610bb5e6817
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 08/11/2020
   ms.locfileid: "887856"
 name: Windows Analytics
 summary: >
-  Windows Analytics מלווה את מדיניות מחזור החיים [המודרני](/lifecycle/policies/modern) .
+  Windows Analytics פועל בהתאם למדיניות מחזור-חיים [מודרנית](/lifecycle/policies/modern).
 
 
 
   > [!IMPORTANT]
 
-  > התמיכה הסתיימה. ראה הדרכת העברה להלן.
+  > התמיכה הסתיימה. ראו הנחיות מעבר מטה.
 products:
 - windows
 policyType: modern-on-prem
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 03/02/2017
   endDate: 01/31/2020
-content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת העברה](https://techcommunity.microsoft.com/t5/Desktop-Analytics-Blog/Migrate-user-input-data-from-Windows-Analytics-Upgrade-Readiness/ba-p/841744#M15)"
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](https://techcommunity.microsoft.com/t5/Desktop-Analytics-Blog/Migrate-user-input-data-from-Windows-Analytics-Upgrade-Readiness/ba-p/841744#M15)"

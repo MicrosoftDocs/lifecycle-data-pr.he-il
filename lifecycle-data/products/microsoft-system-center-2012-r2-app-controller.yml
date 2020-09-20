@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מרכז המערכת של Microsoft 2012 R2 בבקר App
-  description: מרכז המערכת של Microsoft System 2012 R2 בבקר האפליקציה עוקב אחר מדיניות מחזור החיים הקבוע.
+  title: מרכז מערכת Microsoft 2012 R2 שלט אפליקציות
+  description: מרכז מערכת Microsoft 2012 R2 שלט אפליקציות עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: df618e70dc7d07bc88c666674936f9e7b255a65b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854908"
-name: מרכז המערכת של Microsoft 2012 R2 בבקר App
+name: מרכז מערכת Microsoft 2012 R2 שלט אפליקציות
 summary: >+
-  מרכז המערכת של Microsoft System 2012 R2 בבקר האפליקציה עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  מרכז מערכת Microsoft 2012 R2 שלט אפליקציות עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:

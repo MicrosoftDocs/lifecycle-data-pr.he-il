@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ניהול וניטור של Microsoft BitLocker 2.5
-  description: ניהול וניטור של Microsoft BitLocker 2.5 מעקב אחר מדיניות מחזור החיים הקבוע.
+  title: Microsoft BitLocker Administration and Monitoring 2.5
+  description: ניהול ומעקב של Microsoft BitLocker 2.5 פועלים בהתאם למדיניות מחזור חיים קבוע.
   ms.date: 07/28/2020
   ms.openlocfilehash: fe5d94e98de4c880815a7bad0a2ae5dd42a74600
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855022"
-name: ניהול וניטור של Microsoft BitLocker 2.5
+name: Microsoft BitLocker Administration and Monitoring 2.5
 summary: >+
-  ניהול וניטור של Microsoft BitLocker 2.5 מעקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  ניהול ומעקב של Microsoft BitLocker 2.5 פועלים [בהתאם למדיניות](/lifecycle/policies/fixed)מחזור חיים קבוע.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2014
   endDate: 10/11/2016
-content: "\n## <a name=\"links\"></a>קישורים \n* [מדיניות חבילת שירות](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>קישורים \n* [מדיניות חבילת תמיכה](/lifecycle/policies/fixed#service-packs)"

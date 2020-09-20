@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מנהל הגנת הנתונים של מרכז מערכת Microsoft 2012 R2
-  description: Microsoft System Center 2012 R2 מנהל הגנת נתונים מלווה את מדיניות מחזור החיים הקבוע.
+  title: מרכז מערכת Microsoft 2012 R2 מנהל הגנת נתונים
+  description: מרכז מערכת Microsoft 2012 R2 מנהל הגנת נתונים פועל בהתאם למדיניות מחזור-חיים.
   ms.date: 07/28/2020
   ms.openlocfilehash: ed0d5ccd32c082afb84d8310d7497d11ffdfe0b0
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855006"
-name: מנהל הגנת הנתונים של מרכז מערכת Microsoft 2012 R2
+name: מרכז מערכת Microsoft 2012 R2 מנהל הגנת נתונים
 summary: >+
-  Microsoft System Center 2012 R2 מנהל הגנת נתונים מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  מרכז מערכת Microsoft 2012 R2 מנהל הגנת נתונים פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:

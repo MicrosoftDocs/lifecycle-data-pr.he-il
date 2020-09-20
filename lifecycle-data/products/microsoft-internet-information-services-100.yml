@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: שירותי מידע באינטרנט של Microsoft 10.0
-  description: 10.0 שירותי מידע באינטרנט של Microsoft מצייתות למדיניות מחזור חיי הרכיבים.
+  title: שירותי מידע אינטרנטיים של Microsoft 10.0
+  description: שירותי מידע אינטרנטיים של Microsoft 10.0 פועלים בהתאם למדיניות מחזור-חיים לרכיבים.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6ee9b2824e6fd7cff445f978c3a6294e7784abcb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854826"
-name: שירותי מידע באינטרנט של Microsoft 10.0
+name: שירותי מידע אינטרנטיים של Microsoft 10.0
 summary: >+
-  10.0 שירותי מידע באינטרנט של Microsoft מצייתות למדיניות מחזור חיי [הרכיבים](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  שירותי מידע אינטרנטיים של Microsoft 10.0 פועלים בהתאם למדיניות מחזור-חיים [לרכיבים](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/12/2016
   endDate: 01/11/2027
-content: "\n\n> [!NOTE]\n> מהדורה זו ידועה כרכיב העוקב אחר מחזור חיי התמיכה של מוצר האב הראשי שלו, Windows Server 2016."
+content: "\n\n> [!NOTE]\n> מהדורה זו ידועה כרכיב העוקב אחר תמיכת מחזור-חיים של המוצר הראשי מהדור לפניו, שרת Windows 2016"

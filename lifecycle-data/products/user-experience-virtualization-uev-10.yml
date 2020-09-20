@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: וירטואליזציה של חוויית משתמש (UE-V) 1.0
-  description: וירטואליזציה של חוויית משתמש (UE-V) 1.0 מעקב אחר מדיניות מחזור החיים הקבוע.
+  title: וירטואליזציית חווית משתמש (UE-V) 1.0
+  description: וירטואליזציה של חוויית משתמש (UE-V) 1.0 פועלת בהתאם למדיניות מחזור חיים קבוע.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4be913f32a545326fbfcd9b752017f9f4070c6ec
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854749"
-name: וירטואליזציה של חוויית משתמש (UE-V) 1.0
+name: וירטואליזציית חווית משתמש (UE-V) 1.0
 summary: >+
-  וירטואליזציה של חוויית משתמש (UE-V) 1.0 מעקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft וירטואליזציה של חוויית משתמש (UE-V) 1.0 פועלת בהתאם למדיניות מחזור-חיים [קבוע](/lifecycle/policies/fixed).
 
 
 products:

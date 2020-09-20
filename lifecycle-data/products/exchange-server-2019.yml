@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Exchange Server 2019
-  description: Exchange Server 2019 עוקב אחר מדיניות מחזור חיי הקבוע.
+  title: שרת Exchange 2019
+  description: שרת Exchange 2019 פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: 56188a0231413a812f5b4dea4eb8371c9bc9110b
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "931121"
-name: Exchange Server 2019
+name: שרת Exchange 2019
 summary: >+
-  Exchange Server 2019 עוקב אחר מדיניות מחזור חיי [הקבוע](/lifecycle/policies/fixed) .
+  שרת Exchange 2019 פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
   הדבר חל על המהדורות הבאות: Enterprise, Standard
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2018
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>קישורים \n* [קווים מנחים למתן שירות](/Exchange/new-features/updates?view=exchserver-2019)\n\n\n## <a name=\"editions\"></a>מהדורות \n* Enterprise\n* Standard"
+content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיות מתן שירות](/Exchange/new-features/updates?view=exchserver-2019)\n\n\n## <a name=\"editions\"></a>מהדורות \n* Enterprise\n* Standard"

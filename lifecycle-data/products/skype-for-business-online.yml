@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Skype for Business Online
-  description: סקייפ לעסקים אונליין מלווה את מדיניות מחזור החיים המודרני.
+  title: Skype לעסקים Online
+  description: Skype עבור עסקים Online עוקב אחר מדיניות מחזור-חיים מודרנית.
   ms.date: 07/28/2020
   ms.openlocfilehash: 68200f8b9758ff25b2515f027f39c91bddde4c7e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855087"
-name: Skype for Business Online
+name: Skype לעסקים Online
 summary: >
-  סקייפ לעסקים אונליין מלווה את מדיניות מחזור החיים [המודרני](/lifecycle/policies/modern) .
+  Skype עבור עסקים Online עוקב אחר מדיניות מחזור-חיים [מודרנית](/lifecycle/policies/modern).
 
 
 
   > [!IMPORTANT]
 
-  > שירות זה יפרוש ב -31 ביולי 2021. ראה להלן לקבלת הדרכה להעברה.
+  > שירות זה יפסק ב-31 ביולי 2021. ראו מטה לקבלת הדרכת מעבר.
 products:
 - office
 policyType: modern-online
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2015
   endDate: 07/31/2021
-content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](/MicrosoftTeams/upgrade-start-here)"
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](/MicrosoftTeams/upgrade-start-here)"

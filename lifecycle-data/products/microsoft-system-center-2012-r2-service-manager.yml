@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מרכז מערכת של Microsoft 2012 R2 מנהל השירות
-  description: מנהל השירות של Microsoft System 2012 R2 עוקב אחר מדיניות מחזור החיים הקבוע.
+  title: מרכז מערכת Microsoft 2012 R2 מנהל שירות
+  description: מרכז מערכת Microsoft 2012 R2 מנהל שירות עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: b3c895b5725deb96794d7dbad255bd1fab5e88b6
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855004"
-name: מרכז מערכת של Microsoft 2012 R2 מנהל השירות
+name: מרכז מערכת Microsoft 2012 R2 מנהל שירות
 summary: >+
-  Microsoft System Center 2012 R2 מנהל השירות עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  מרכז מערכת Microsoft 2012 R2 מנהל שירות עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:
