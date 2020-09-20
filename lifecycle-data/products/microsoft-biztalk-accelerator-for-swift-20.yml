@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מאיץ Microsoft BizTalk עבור סוויפט 2.0
-  description: מאיץ Microsoft BizTalk for סוויפט 2.0 עוקב אחר מדיניות מחזור החיים הקבוע.
+  title: Microsoft מאיץ BizTalk עבור SWIFT 2.0
+  description: Microsoft מאיץ BizTalk עבור SWIFT 2.0 פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 09/01/2020
   keywords: Enterprise
   ms.openlocfilehash: f2d3f0b8991cf28223d4ba5110c0686facccf8f2
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934858"
-name: מאיץ Microsoft BizTalk עבור סוויפט 2.0
+name: Microsoft מאיץ BizTalk עבור SWIFT 2.0
 summary: >+
-  מאיץ Microsoft BizTalk for סוויפט 2.0 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft מאיץ BizTalk עבור SWIFT 2.0 פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
   הדבר חל על המהדורות הבאות: Enterprise

@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: הווירטואליזציה של שולחן העבודה של Microsoft Enterprise 2.0
-  description: הווירטואליזציה של שולחן העבודה של Microsoft Enterprise 2.0 כדלקמן מדיניות מחזור חיים קבוע.
+  title: Microsoft Enterprise Desktop Virtualization 2.0
+  description: Microsoft Enterprise Desktop Virtualization 2.0 פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 09/01/2020
   keywords: Enterprise
   ms.openlocfilehash: c389a7a61ffd7a171c58b70f1050657e82d736be
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933896"
-name: הווירטואליזציה של שולחן העבודה של Microsoft Enterprise 2.0
+name: Microsoft Enterprise Desktop Virtualization 2.0
 summary: >+
-  הווירטואליזציה של שולחן העבודה של Microsoft Enterprise 2.0 כדלקמן מדיניות מחזור חיים [קבוע](/lifecycle/policies/fixed) .
+  Microsoft Enterprise Desktop Virtualization 2.0 פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
   הדבר חל על המהדורות הבאות: Enterprise
