@@ -1,27 +1,27 @@
 ---
 title: ייצוא נתוני מחזור חיים
 description: ייצוא מידע של מחזור חיים של מוצר
-ms.date: 09/14/2020
-ms.openlocfilehash: 66fc9fb6f5f5660380570bae8d69a327c9a1db80
-ms.sourcegitcommit: a246bd5f3f9227f1dbfca6471808b64cb076623a
+ms.date: 09/18/2020
+ms.openlocfilehash: eaaece725a9a3535c228d48598195b4b4a50401d
+ms.sourcegitcommit: 445dd417cde533a0479a2e7012b0a7bc5338e3a1
 ms.translationtype: MT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "1008465"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "1025030"
 ---
-# <a name="lifecycle-data-export"></a><span data-ttu-id="e610c-103">ייצוא נתוני מחזור חיים</span><span class="sxs-lookup"><span data-stu-id="e610c-103">Lifecycle data export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="69406-103">ייצוא נתוני מחזור חיים</span><span class="sxs-lookup"><span data-stu-id="69406-103">Lifecycle data export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="e610c-104">דף זה נמצא תחת פיתוח.</span><span class="sxs-lookup"><span data-stu-id="e610c-104">This page is under development.</span></span>
+> <span data-ttu-id="69406-104">דף זה נמצא תחת פיתוח.</span><span class="sxs-lookup"><span data-stu-id="69406-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="e610c-105">ייצוא כל המוצרים</span><span class="sxs-lookup"><span data-stu-id="e610c-105">Export all products</span></span>
-<span data-ttu-id="e610c-106">ייצוא נתוני מחזור חיים עבור כל המוצרים על-ידי לחיצה להלן:</span><span class="sxs-lookup"><span data-stu-id="e610c-106">Export lifecycle data for all products by clicking below:</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="69406-105">ייצוא כל המוצרים</span><span class="sxs-lookup"><span data-stu-id="69406-105">Export all products</span></span>
+<span data-ttu-id="69406-106">ייצוא נתוני מחזור חיים עבור כל המוצרים על-ידי לחיצה להלן:</span><span class="sxs-lookup"><span data-stu-id="69406-106">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="e610c-107">ייצוא כל המוצרים</span><span class="sxs-lookup"><span data-stu-id="e610c-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="69406-107">ייצוא כל המוצרים</span><span class="sxs-lookup"><span data-stu-id="69406-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a><span data-ttu-id="e610c-108">ייצוא מוצרים לפי משפחה וקבוצה</span><span class="sxs-lookup"><span data-stu-id="e610c-108">Export products by Family and Group</span></span>
-<span data-ttu-id="e610c-109">בחר משפחה ולאחר מכן בחר קבוצה לייצוא.</span><span class="sxs-lookup"><span data-stu-id="e610c-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="e610c-110">הערה: הייצוא יחל בעת בחירת ערך קבוצה.</span><span class="sxs-lookup"><span data-stu-id="e610c-110">Note: Export will begin when Group value is selected.</span></span> 
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="69406-108">ייצוא מוצרים לפי משפחה וקבוצה</span><span class="sxs-lookup"><span data-stu-id="69406-108">Export products by Family and Group</span></span>
+<span data-ttu-id="69406-109">בחר משפחה ולאחר מכן בחר קבוצה לייצוא.</span><span class="sxs-lookup"><span data-stu-id="69406-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="69406-110">הערה: הייצוא יחל בעת בחירת ערך קבוצה.</span><span class="sxs-lookup"><span data-stu-id="69406-110">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="משפחה" title2="קבוצה"]
 > - [(.NET | כל](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -83,8 +83,8 @@ ms.locfileid: "1008465"
 > - [(Windows | אבטחה](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="e610c-171">ייצוא מוצרים לפי תאריך סיום התמיכה</span><span class="sxs-lookup"><span data-stu-id="e610c-171">Export products by end of support date</span></span>
-<span data-ttu-id="e610c-172">בחר שנה כדי לראות מוצרים המגיעים לסוף התמיכה.</span><span class="sxs-lookup"><span data-stu-id="e610c-172">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="e610c-173">הערה: הייצוא יחל כאשר ערך השנה נבחר.</span><span class="sxs-lookup"><span data-stu-id="e610c-173">Note: Export will begin when Year value is selected.</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="69406-171">ייצוא מוצרים לפי תאריך סיום התמיכה</span><span class="sxs-lookup"><span data-stu-id="69406-171">Export products by end of support date</span></span>
+<span data-ttu-id="69406-172">בחר שנה כדי לראות מוצרים המגיעים לסוף התמיכה.</span><span class="sxs-lookup"><span data-stu-id="69406-172">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="69406-173">הערה: הייצוא יחל כאשר ערך השנה נבחר.</span><span class="sxs-lookup"><span data-stu-id="69406-173">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))

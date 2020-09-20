@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Communicator 2005
-  description: Microsoft Office Communicator 2005 עוקב אחר מדיניות מחזור חיי הקבוע.
+  description: Microsoft Office Communicator 2005 פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 63747b4e26cc52df003704a5cda3a3bcd637a8c1
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "936264"
 name: Microsoft Office Communicator 2005
-summary: "Microsoft Office Communicator 2005 עוקב אחר מדיניות מחזור חיי [הקבוע](/lifecycle/policies/fixed) .\n\nהדבר חל על המהדורות הבאות: Standard\n\n> [!IMPORTANT]\n> הסתיימה התמיכה עבור מוצר זה. \n"
+summary: "Microsoft Office Communicator 2005 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).\n\nהדבר חל על המהדורות הבאות: Standard\n\n> [!IMPORTANT]\n> הסתיימה התמיכה עבור מוצר זה. \n"
 products:
 - office
 policyType: fixed

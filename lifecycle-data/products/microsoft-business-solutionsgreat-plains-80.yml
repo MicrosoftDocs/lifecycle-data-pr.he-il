@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: פתרונות עסקיים של Microsoft--המישורים הגדולים 8.0
-  description: הפתרונות העסקיים של Microsoft--המישורים הגדולים 8.0 עוקבים אחר מדיניות מחזור חיי הקבוע.
+  title: Microsoft פתרונות עסקיים --Great Plains 8.0
+  description: Microsoft פתרונות עסקיים --Great Plains 8.0 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 536666c99ff11026e44547243dc841425050faaa
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934673"
-name: פתרונות עסקיים של Microsoft--המישורים הגדולים 8.0
+name: Microsoft פתרונות עסקיים --Great Plains 8.0
 summary: >
-  הפתרונות העסקיים של Microsoft--המישורים הגדולים 8.0 עוקבים אחר מדיניות מחזור חיי [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft פתרונות עסקיים --Great Plains 8.0 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
   הדבר חל על המהדורות הבאות: Standard
@@ -20,7 +20,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > התמיכה עבור מוצר זה הסתיימה ב-13 באוקטובר 2009
+  > התמיכה עבור מוצר זה הסתיימה ב-13.10.2009
 products:
 - dynamics
 policyType: fixed-mainstream-only
