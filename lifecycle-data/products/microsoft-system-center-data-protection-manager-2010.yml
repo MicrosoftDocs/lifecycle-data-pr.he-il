@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מנהל הגנת נתונים של מרכז המערכת של Microsoft 2010
-  description: מנהל הגנת הנתונים של מרכז המערכת של Microsoft 2010 עוקב אחר מדיניות מחזור חיי הקבוע.
+  title: מנהל הגנת מרכז הנתונים של מערכת Microsoft 2010
+  description: מנהל הגנת מרכז הנתונים של מערכת Microsoft 2010 עוקב אחר מדיניות מחזור-חיים קבוע.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7534f6aceaf0d1bb13a70109e9df6b5dd07c1153
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819753"
-name: מנהל הגנת נתונים של מרכז המערכת של Microsoft 2010
+name: מנהל הגנת מרכז הנתונים של מערכת Microsoft 2010
 summary: >+
-  מנהל הגנת הנתונים של מרכז המערכת של Microsoft 2010 עוקב אחר מדיניות מחזור חיי [הקבוע](/lifecycle/policies/fixed) .
+  מנהל הגנת מרכז הנתונים של מערכת Microsoft 2010 עוקב אחר מדיניות מחזור-חיים [קבוע](/lifecycle/policies/fixed).
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>קישורים \n* [הנחיית הגירה](/system-center/dpm/upgrade-dpm?view=sc-dpm-2019)"
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](/system-center/dpm/upgrade-dpm?view=sc-dpm-2019)"

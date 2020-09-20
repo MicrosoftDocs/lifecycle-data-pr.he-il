@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מציג הדוחות של מיקרוסופט 2010 להפצה חוזרת
-  description: מציג הדוחות של Microsoft Report 2010 להפצה חוזרת מאחר למדיניות מחזור חיי הקבוע.
+  title: Microsoft Report Viewer 2010 ניתן להפצה
+  description: Microsoft Report Viewer 2010 ניתן להפצה פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: f4e1569165a222cc013d2d9fd58074f6cef98816
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819207"
-name: מציג הדוחות של מיקרוסופט 2010 להפצה חוזרת
+name: Microsoft Report Viewer 2010 ניתן להפצה
 summary: >+
-  מציג הדוחות של Microsoft Report 2010 ההפצה מחוזרת מלווה במדיניות מחזור חיי [קבוע](/lifecycle/policies/fixed) .
+  Microsoft Report Viewer 2010 ניתן להפצה פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:

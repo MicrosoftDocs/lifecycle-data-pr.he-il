@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: פתרון Microsoft להודעות מתארחות ושיתוף פעולה 4.5
-  description: פתרון Microsoft עבור העברת הודעות ושיתוף פעולה 4.5 מתארח בעקבות מדיניות מחזור החיים הקבוע.
+  title: פתרון Microsoft עבור הודעות מתארחות ושיתוף פעולה 4.5
+  description: פתרון Microsoft עבור הודעות מתארחות ושיתוף פעולה 4.5 פועל בהתאם למדיניות מחזור חיים קבוע.
   ms.date: 07/28/2020
   ms.openlocfilehash: cbc7bce389f60d1972cae075005525780c82eed0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819443"
-name: פתרון Microsoft להודעות מתארחות ושיתוף פעולה 4.5
+name: פתרון Microsoft עבור הודעות מתארחות ושיתוף פעולה 4.5
 summary: >+
-  פתרון Microsoft עבור העברת הודעות ושיתוף פעולה 4.5 מתארח בעקבות מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  פתרון Microsoft עבור העברת הודעות מתארחות ושיתוף פעולה 4.5 פועל [בהתאם](/lifecycle/policies/fixed)למדיניות מחזור חיים קבוע.
 
 
 products:
