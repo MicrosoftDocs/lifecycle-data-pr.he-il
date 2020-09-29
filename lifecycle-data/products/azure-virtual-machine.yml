@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מכונת תכלת וירטואלית
-  description: מכונה "תכלת וירטואלית" עוקבת אחר מדיניות מחזור החיים המודרני.
+  title: Azure Virtual Machine
+  description: Azure Virtual Machine פועל בהתאם למדיניות מחזור-חיים עכשוית.
   ms.date: 07/28/2020
   ms.openlocfilehash: 84ee256cb8f83f04ce94702234a380442fb2e69a
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854933"
-name: מכונת תכלת וירטואלית
+name: Azure Virtual Machine
 summary: >+
-  מכונה "תכלת וירטואלית" עוקבת אחר מדיניות מחזור החיים [המודרני](/lifecycle/policies/modern) .
+  Azure Virtual Machine פועל בהתאם למדיניות מחזור-חיים [עכשוית](/lifecycle/policies/modern).
 
 
 products:

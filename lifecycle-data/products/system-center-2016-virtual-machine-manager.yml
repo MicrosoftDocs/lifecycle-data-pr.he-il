@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מרכז מערכת 2016 מנהל מחשב וירטואלי
-  description: System Center 2016 מנהל המחשב הווירטואלי מלווה את מדיניות מחזור החיים הקבוע.
+  title: System Center  2016 מנהל מחשב וירטואלי
+  description: System Center 2016 Virtual Machine Manager פועל בהתאם למדיניות מחזור-חיים עכשוית.
   ms.date: 07/28/2020
   ms.openlocfilehash: 43bd64cf4f3bcde6c41718f57bddd96ccd63a8a6
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855002"
-name: מרכז מערכת 2016 מנהל מחשב וירטואלי
+name: System Center  2016 מנהל מחשב וירטואלי
 summary: >+
-  System Center 2016 מנהל המחשב הווירטואלי מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  System Center 2016 Virtual Machine Manager פועל בהתאם למדיניות מחזור-חיים [עכשוית](/lifecycle/policies/fixed).
 
 
 products:
