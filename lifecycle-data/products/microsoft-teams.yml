@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Teams
-  description: צוותי Microsoft מתנהלים בעקבות מדיניות מחזור החיים המודרני.
+  description: Microsoft Teams פועל בהתאם למדיניות מחזור-חיים עכשוית.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a95c11e5ed20489a0e571cfbab654a977a4dd1c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855128"
 name: Microsoft Teams
 summary: >+
-  צוותי Microsoft מתנהלים בעקבות מדיניות מחזור החיים [המודרני](/lifecycle/policies/modern) .
+  Microsoft Teams פועל בהתאם למדיניות מחזור-חיים [עכשוית](/lifecycle/policies/modern).
 
 
 products:

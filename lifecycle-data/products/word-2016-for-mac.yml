@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Word 2016 עבור Mac
-  description: Word 2016 for Mac עוקב אחר מדיניות מחזור החיים הקבוע.
+  description: Word 2016 for Mac פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71b901131d651cb74f4f8835f0ca834dd90dca79
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "854775"
 name: Word 2016 עבור Mac
 summary: >+
-  Word 2016 for Mac עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Word 2016 for Mac פועל בהתאם למדיניות מחזור-חיים [קבועה.](/lifecycle/policies/fixed)
 
 
 products:

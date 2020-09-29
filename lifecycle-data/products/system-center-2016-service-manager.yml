@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מרכז מערכת 2016 מנהל שירות
-  description: מרכז המערכת 2016 מנהל השירות עוקב אחר מדיניות מחזור החיים הקבוע.
+  title: System Center  2016 מנהל שירות
+  description: System Center 2016 Service Manager פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 324b4d018b20d596afdf61ff10658489d7f1d79f
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855178"
-name: מרכז מערכת 2016 מנהל שירות
+name: System Center  2016 מנהל שירות
 summary: >+
-  מרכז המערכת 2016 מנהל השירות עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  System Center 2016 Service Manager פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:
