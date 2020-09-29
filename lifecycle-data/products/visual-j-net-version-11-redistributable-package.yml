@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מערכת ההפצה החוזרת של Visual J.NET גירסה 1.1
-  description: החבילה החוזרת של Visual J.NET גירסה 1.1 מלווה את מדיניות מחזור החיים הקבוע.
+  title: Visual J# .NET Version 1.1 Redistributable Package
+  description: Visual J# .NET Version 1.1 Redistributable Package פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5cd64a881e213e1db23e4d7a0f7fe32baf3d8b12
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819328"
-name: מערכת ההפצה החוזרת של Visual J.NET גירסה 1.1
+name: Visual J# .NET Version 1.1 Redistributable Package
 summary: >+
-  החבילה החוזרת של Visual J.NET גירסה 1.1 מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Visual J# .NET Version 1.1 Redistributable Package פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:

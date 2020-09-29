@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: כלים לפיתוח של Dynamics Mobile
-  description: הכלי לפיתוח של Dynamics Mobile מלווה את מדיניות מחזור חיי הרכיבים.
+  title: Dynamics Mobile Development Tools
+  description: Dynamics Mobile Development Tools פועל בהתאם למדיניות מחזור-חיים לרכיבים.
   ms.date: 07/28/2020
   ms.openlocfilehash: eacb8775d2e07be3c802073e4006099af4089699
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819507"
-name: כלים לפיתוח של Dynamics Mobile
+name: Dynamics Mobile Development Tools
 summary: >+
-  הכלי לפיתוח של Dynamics Mobile מלווה את מדיניות מחזור חיי [הרכיבים](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Dynamics Mobile Development Tools פועל בהתאם למדיניות מחזור-חיים [לרכיבים](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:

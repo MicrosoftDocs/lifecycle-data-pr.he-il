@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: שרת התקשורת של Microsoft Office Live 2003
-  description: Microsoft Office Live תקשורת Server 2003 עוקב אחר מדיניות מחזור החיים הקבוע.
+  title: Microsoft Office Live Communications Server 2003
+  description: Microsoft Office Live Communications Server 2003 פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7f369f1316b72fd8eaebbe3b48dc0311474e947e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820149"
-name: שרת התקשורת של Microsoft Office Live 2003
+name: Microsoft Office Live Communications Server 2003
 summary: >+
-  Microsoft Office Live תקשורת Server 2003 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft Office Live Communications Server 2003 פועל בהתאם למדיניות מחזור-חיים [קבועה.](/lifecycle/policies/fixed)
 
 
 products:

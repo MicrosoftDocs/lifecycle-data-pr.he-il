@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: שירותי קרן התקשורת של חלונות
-  description: שירותי הקרן לתקשורת של Windows מלווה את מדיניות מחזור החיים הקבוע.
+  title: Windows Communication Foundation RIA Services
+  description: Windows Communication Foundation RIA Services פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3876aae1488148f489c9c4c46dfd24bb89fd9480
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819160"
-name: שירותי קרן התקשורת של חלונות
+name: Windows Communication Foundation RIA Services
 summary: >+
-  שירותי הקרן לתקשורת של Windows מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Windows Communication Foundation RIA Services פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: שירותי ענן
-  description: שירותי ענן התכלת מתנהלים בעקבות מדיניות מחזור החיים המודרני.
+  title: Azure Cloud Services
+  description: Azure Cloud Services פועל בהתאם למדיניות מחזור-חיים עכשוית.
   ms.date: 07/28/2020
   ms.openlocfilehash: aab601bc296dcf08a3f860220bf93b35fa67e335
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820085"
-name: שירותי ענן
+name: Azure Cloud Services
 summary: >+
-  שירותי ענן התכלת מתנהלים בעקבות מדיניות מחזור החיים [המודרני](/lifecycle/policies/modern) .
+  Azure Cloud Services פועל בהתאם למדיניות מחזור-חיים [עכשוית](/lifecycle/policies/modern).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/27/2008
-content: "\n## <a name=\"links\"></a>קישורים \n* [מידע על מדיניות התמיכה והפרישה בתכלת האורחים](/azure/cloud-services/cloud-services-guestos-retirement-policy)"
+content: "\n## <a name=\"links\"></a>קישורים \n* [מדיניות התמיכה והפרישה של מערכת ההפעלה Azure Guest OS](/azure/cloud-services/cloud-services-guestos-retirement-policy)"
