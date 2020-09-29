@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: למידה יסודות 2.0 עבור Microsoft Office
-  description: למידה יסודות 2.0 עבור Microsoft Office מלווה את מדיניות מחזור חיי הרכיבים.
+  title: Learning Essentials 2.0 for Microsoft Office
+  description: Learning Essentials 2.0 for Microsoft Office פועל בהתאם למדיניות מחזור-חיים לרכיבים.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1bdfd924e319c432bbaf5d2b75f5945ca6408915
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819891"
-name: למידה יסודות 2.0 עבור Microsoft Office
+name: Learning Essentials 2.0 for Microsoft Office
 summary: >+
-  למידה יסודות 2.0 עבור Microsoft Office מלווה את מדיניות מחזור חיי [הרכיבים](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Learning Essentials 2.0 for Microsoft Office פועל בהתאם למדיניות מחזור-חיים [לרכיבים](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:

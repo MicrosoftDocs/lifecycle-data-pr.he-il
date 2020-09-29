@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows כלי רכב 4.2
-  description: Windows כלי רכב 4.2 מלווה את מדיניות מחזור החיים הקבוע.
+  title: Windows Automotive 4.2
+  description: Windows Automotive 4.2 פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: a2671ea93a2852928c59d836ed4ebc8412963b61
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819162"
-name: Windows כלי רכב 4.2
+name: Windows Automotive 4.2
 summary: >
-  Windows כלי רכב 4.2 מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Windows Automotive 4.2 פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > התמיכה במוצר זה הסתיימה.
+  > הסתיימה התמיכה עבור מוצר זה.
 products:
 - windows
 policyType: fixed

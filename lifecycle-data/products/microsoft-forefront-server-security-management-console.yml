@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מסוף ניהול האבטחה של שרת החזית של Microsoft
-  description: מסוף ניהול האבטחה של שרת החזית של Microsoft מלווה במדיניות מחזור חיים קבוע.
+  title: Microsoft Forefront Server Security Management Console
+  description: Microsoft Forefront Server Security Management Console פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 79937f95580b655b318e965e2ef659931323ff8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819806"
-name: מסוף ניהול האבטחה של שרת החזית של Microsoft
+name: Microsoft Forefront Server Security Management Console
 summary: >+
-  מסוף ניהול האבטחה של שרת החזית של Microsoft מלווה במדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft Forefront Server Security Management Console פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:

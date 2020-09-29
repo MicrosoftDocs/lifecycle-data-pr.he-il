@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: פתרונות עסקיים של Microsoft לניתוח ה6.7
-  description: פתרונות עסקיים של Microsoft לניתוח ה6.7 מעקב אחר מדיניות מחזור החיים הקבוע.
+  title: Microsoft Business Solutions for Analytics Forecaster 6.7
+  description: Microsoft Business Solutions for Analytics Forecaster 6.7 פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 36be353ad94fe53b83be08cae60d98902f0e7c92
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819851"
-name: פתרונות עסקיים של Microsoft לניתוח ה6.7
+name: Microsoft Business Solutions for Analytics Forecaster 6.7
 summary: >+
-  פתרונות עסקיים של Microsoft לניתוח ה6.7 מעקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft Business Solutions for Analytics Forecaster 6.7 פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:

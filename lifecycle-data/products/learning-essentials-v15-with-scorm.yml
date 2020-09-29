@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: יסודות למידה v 1.5 עם SCORM
-  description: יסודות הלמידה v 1.5 עם SCORM מצייתות למדיניות מחזור חיי הרכיבים.
+  title: Learning Essentials v1.5 with SCORM
+  description: Learning Essentials v1.5 with SCORM פועל בהתאם למדיניות מחזור-חיים לרכיבים.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7d1881def5a4b9f675b435cc766a3594b8ad7e56
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "819888"
-name: יסודות למידה v 1.5 עם SCORM
+name: Learning Essentials v1.5 with SCORM
 summary: >+
-  יסודות הלמידה v 1.5 עם SCORM מצייתות למדיניות מחזור חיי [הרכיבים](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Learning Essentials v1.5 with SCORM פועל בהתאם למדיניות מחזור-חיים [לרכיבים](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
