@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Mediaroom
-  description: Microsoft Mediaroom עוקב אחר מדיניות מחזור החיים הקבועים.
+  description: Microsoft Mediaroom עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 09/01/2020
   keywords: Application Services 1.0,Client 2.0,Client 2.1,Server 2.0,Server 2.1
   ms.openlocfilehash: 5842b1725e7c5cbc964de743111a400d2b7de2b9
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930603"
 name: Microsoft Mediaroom
 summary: >+
-  Microsoft Mediaroom עוקב אחר מדיניות מחזור החיים [הקבועים](/lifecycle/policies/fixed) .
+  Microsoft Mediaroom פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  פעולה זו חלה על המהדורות הבאות: שירותי יישומים 1.0, לקוח 2.0, לקוח 2.1, Server 2.0, Server 2.1
+  הדבר חל על המהדורות הבאות: Application Services 1.0, Client 2.0, Client 2.1, Server 2.0, Server 2.1
 
 products:
 - windows
@@ -25,4 +25,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 08/03/2010
-content: "\n\n> [!NOTE]\n> Ericsson רכשה את מוצרי Microsoft Mediaroom ב-2013. לקבלת מידע נוסף, עיין [בהודעה לעיתונות](http://www.ericsson.com/news/1691160). ללקוחות הזקוקים לתמיכה, עבור [לכאן](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx).\n> [!NOTE]\n> Microsoft Mediaroom Client 2.1 הופץ ב-27 בדצמבר 2011. \n\n## <a name=\"editions\"></a>מהדורות \n* שירותי יישומים 1.0\n* 2.0 לקוח\n* 2.1 לקוח\n* Server 2.0\n* Server 2.1"
+content: "\n\n> [!NOTE]\n> Ericsson רכשה מוצרי Microsoft Mediaroom בשנת 2013. למידע נוסף, אנא ראו [פרסום תקשורתי](http://www.ericsson.com/news/1691160). עבור לקוחות הזקוקים לתמיכה, אנא עברו [לכאן](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx). \n> [!NOTE]\n> Microsoft Mediaroom Client 2.1 פורסם ב- 27 בדצמבר, 2011. \n\n## <a name=\"editions\"></a>מהדורות \n* Application Services 1.0\n* Client 2.0\n* Client 2.1\n* Server 2.0\n* Server 2.1"
