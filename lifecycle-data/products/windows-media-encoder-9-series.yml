@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: סדרת מקודד 9 של Windows Media
-  description: סדרת מקודד 9 של Windows Media מופיעה לפי מדיניות מחזור חיי הקבוע.
+  title: Windows Media Encoder 9 Series
+  description: Windows Media Encoder 9 Series פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 09/01/2020
   keywords: 64 Bit,Standard
   ms.openlocfilehash: 902d5b57d6d0e0615acf48da69f17582e84164b6
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "940001"
-name: סדרת מקודד 9 של Windows Media
+name: Windows Media Encoder 9 Series
 summary: >+
-  סדרת מקודד 9 של Windows Media מופיעה לפי מדיניות מחזור חיי [הקבוע](/lifecycle/policies/fixed) .
+  Windows Media Encoder 9 Series פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  פעולה זו חלה על המהדורות הבאות: 64 Bit, Standard
+  הדבר חל על המהדורות הבאות: 64 Bit, Standard
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/15/2002
   endDate: 01/13/2015
-content: "\n\n> [!NOTE]\n> מהדורת x64 של מקודד Windows Media 9 Series הופצה ב-15 בספטמבר 2005.\n\n## <a name=\"editions\"></a>מהדורות \n* 64 Bit\n* Standard"
+content: "\n\n> [!NOTE]\n> מהדורת Windows Media Encoder 9 Series x64 Edition פורסמה ב- 15 בספטמבר 2005.\n\n## <a name=\"editions\"></a>מהדורות \n* 64 Bit\n* Standard"
