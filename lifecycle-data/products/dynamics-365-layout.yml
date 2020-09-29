@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: הפריסה ' דינמיקה 365 '
-  description: הפריסה של Dynamics 365 מופיעה לפי מדיניות מחזור החיים המודרני.
+  title: Dynamics 365 Layout
+  description: Dynamics 365 Layout פועל בהתאם למדיניות מחזור-חיים עכשוית.
   ms.date: 08/12/2020
   ms.openlocfilehash: 1995274fb40f9ea278629e50c290def57f7f113d
   ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 08/12/2020
   ms.locfileid: "891843"
-name: הפריסה ' דינמיקה 365 '
+name: Dynamics 365 Layout
 summary: >+
-  הפריסה של Dynamics 365 מופיעה לפי מדיניות מחזור החיים [המודרני](/lifecycle/policies/modern) .
+  Dynamics 365 Layout פועל בהתאם למדיניות מחזור-חיים [עכשוית](/lifecycle/policies/modern).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 09/30/2018
   endDate: 12/31/2021
-content: "\n## <a name=\"links\"></a>קישורים \n* [פריסה וסיוע מרחוק](/dynamics365/mixed-reality/layout/faq)\n* [הכרזה על המעבר של הפריסה של Dynamics 365](https://dynamics.microsoft.com/mixed-reality/layout-transition/)"
+content: "\n## <a name=\"links\"></a>קישורים \n* [Layout and Remote Assist](/dynamics365/mixed-reality/layout/faq)\n* [הכרזה על המעבר של Dynamics 365 Layout](https://dynamics.microsoft.com/mixed-reality/layout-transition/)"

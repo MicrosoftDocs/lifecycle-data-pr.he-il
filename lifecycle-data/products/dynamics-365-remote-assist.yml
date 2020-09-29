@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: דינמיקה 365 מרחוק סיוע
-  description: Dynamics 365 הסיוע המרוחק מלווה את מדיניות מחזור החיים המודרני.
+  title: Dynamics 365 Remote Assist
+  description: Dynamics 365 Remote Assist פועל בהתאם למדיניות מחזור-חיים עכשוית.
   ms.date: 07/28/2020
   ms.openlocfilehash: f515184c8d286e79842892235e7e48414438d758
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869650"
-name: דינמיקה 365 מרחוק סיוע
+name: Dynamics 365 Remote Assist
 summary: >+
-  Dynamics 365 הסיוע המרוחק מלווה את מדיניות מחזור החיים [המודרני](/lifecycle/policies/modern) .
+  Dynamics 365 Remote Assist פועל בהתאם למדיניות מחזור-חיים [עכשוית](/lifecycle/policies/modern).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 09/30/2018
-content: "\n## <a name=\"links\"></a>קישורים \n* [פריסה וסיוע מרחוק](/dynamics365/mixed-reality/layout/faq)"
+content: "\n## <a name=\"links\"></a>קישורים \n* [Layout and Remote Assist](/dynamics365/mixed-reality/layout/faq)"

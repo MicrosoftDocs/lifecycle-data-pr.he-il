@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מנהל הנתונים StorSimple
-  description: מנהל הנתונים StorSimple מלווה את מדיניות מחזור החיים הקבוע.
+  title: StorSimple Data Manager
+  description: StorSimple Data Manager פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: cca889145816fcf7bde921df52a32be61a97a54d
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869704"
-name: מנהל הנתונים StorSimple
+name: StorSimple Data Manager
 summary: >+
-  מנהל הנתונים StorSimple עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  StorSimple Data Manager פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:

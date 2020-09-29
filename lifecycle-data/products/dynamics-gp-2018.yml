@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: דינמיקה GP 2018
-  description: Dynamics GP 2018 מלווה את מדיניות מחזור החיים הקבוע.
+  title: Dynamics GP 2018
+  description: Dynamics GP 2018 פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: ceeb4827503ab282ee2ffef12cc0518f3f80ae2c
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869639"
-name: דינמיקה GP 2018
+name: Dynamics GP 2018
 summary: >+
-  Dynamics GP 2018 מלווה את מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Dynamics GP 2018 פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:

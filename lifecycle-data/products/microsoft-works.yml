@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Works
-  description: Microsoft פועלת לפי מדיניות מחזור חיי הקבועים.
+  description: Microsoft Works פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 08/19/2020
   ms.openlocfilehash: da68f15014771676be04285328ffde3ff1c49858
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904138"
 name: Microsoft Works
 summary: >+
-  Microsoft פועלת לפי מדיניות מחזור חיי [הקבועים](/lifecycle/policies/fixed) .
+  Microsoft Works פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:
@@ -39,4 +39,4 @@ releases:
 - version: Microsoft Works Suite 2004
   startDate: 10/25/2003
   endDate: 01/09/2007
-content: "\n\n> [!NOTE]\n> רישום זה מכיל את כל מוצרי Microsoft Works שהופצו בין 2003 ו-2007."
+content: "\n\n> [!NOTE]\n> רישום זה מכיל את כל מוצרי Microsoft Works שפורסמו בין השנים 2003 ל-2007."

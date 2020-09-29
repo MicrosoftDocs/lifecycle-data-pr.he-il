@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: מרכז מערכת 2019 מנהל שירות
-  description: מרכז המערכת 2019 מנהל השירות עוקב אחר מדיניות מחזור החיים הקבוע.
+  title: System Center 2019 Service Manager
+  description: System Center 2019 Service Manager פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: 488ee016cd574e0318bd9e0062bc2919299b89d8
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869770"
-name: מרכז מערכת 2019 מנהל שירות
+name: System Center 2019 Service Manager
 summary: >+
-  מרכז המערכת 2019 מנהל השירות עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  System Center 2019 Service Manager פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:

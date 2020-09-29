@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ערכת הפיתוח של תוכנת Microsoft PlayReady Server 2.0
-  description: ערכת הפיתוח של תוכנת Microsoft PlayReady Server 2.0 מופיעה לפי מדיניות מחזור חיי הקבוע.
+  title: Microsoft PlayReady Server Software Development Kit 2.0
+  description: Microsoft PlayReady Server Software Development Kit 2.0 פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 08/21/2020
   ms.openlocfilehash: 61635292b88f853a5daeda3ffcc766a1786e42cd
   ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "908059"
-name: ערכת הפיתוח של תוכנת Microsoft PlayReady Server 2.0
+name: Microsoft PlayReady Server Software Development Kit 2.0
 summary: >+
-  ערכת הפיתוח של תוכנת Microsoft PlayReady Server 2.0 מופיעה לפי מדיניות מחזור חיי [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft PlayReady Server Software Development Kit 2.0 פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:
