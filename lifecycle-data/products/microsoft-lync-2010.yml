@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Lync 2010
-  description: Microsoft Lync 2010 עוקב אחר מדיניות מחזור חיי הקבוע.
+  description: Microsoft Lync 2010 פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 09/01/2020
   keywords: Attendant,Attendee,Group Chat,Standard
   ms.openlocfilehash: c3db784bc5a889bab9f8c319ddb04361993c453a
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933452"
 name: Microsoft Lync 2010
 summary: >+
-  Microsoft Lync 2010 עוקב אחר מדיניות מחזור חיי [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft Lync 2010 פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  פעולה זו חלה על המהדורות הבאות: מטפל, משתתף, צ'אט קבוצתי, רגיל
+  הדבר חל על המהדורות הבאות: Attendant, Attendee, Group Chat, Standard
 
 products:
 - office
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/13/2021
-content: "\n\n\n## <a name=\"editions\"></a>מהדורות \n* דיילת\n* משתתף\n* צ'אט קבוצתי\n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>מהדורות \n* Attendant\n* Attendee\n* Group Chat\n* Standard"

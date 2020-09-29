@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft word Server 2004
-  description: Microsoft word Server 2004 עוקב אחר מדיניות מחזור חיי הקבוע.
+  title: Microsoft Speech Server 2004
+  description: Microsoft Speech Server 2004 פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: 2fb4a48b2caffce89e54dac838ff7f1149886d48
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937078"
-name: Microsoft word Server 2004
+name: Microsoft Speech Server 2004
 summary: >+
-  Microsoft word Server 2004 עוקב אחר מדיניות מחזור חיי [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft Speech Server 2004 פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
   הדבר חל על המהדורות הבאות: Enterprise, Standard
