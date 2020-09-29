@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: WinTarget 2.0
-  description: WinTarget 2.0 עוקב אחר מדיניות מחזור חיי הקבועים.
+  description: WinTarget 2.0 פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 09/01/2020
   keywords: Advanced,Standard
   ms.openlocfilehash: 940b4d3c615a3e3f72bfa6a2a6e250154bcd5a57
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938743"
 name: WinTarget 2.0
 summary: >+
-  WinTarget 2.0 עוקב אחר מדיניות מחזור חיי [הקבועים](/lifecycle/policies/fixed) .
+  WinTarget 2.0 פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-  פעולה זו חלה על המהדורות הבאות: מתקדם, סטנדרטי
+  הדבר חל על המהדורות הבאות: Advanced, Standard
 
 products:
 - windows
