@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: שרת ניהול ביקורת ושליטה של Microsoft Office 2013
-  description: שרת הניהול של Microsoft Office וניהול הפקדים 2013 עוקב אחר מדיניות מחזור חיי הקבוע.
+  title: Microsoft Office Audit and Control Management Server 2013
+  description: Microsoft Office Audit and Control Management Server 2013 פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 08/21/2020
   ms.openlocfilehash: 95c21c2239aee0e4e83c2caf5dc3752c0915b58e
   ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "907911"
-name: שרת ניהול ביקורת ושליטה של Microsoft Office 2013
+name: Microsoft Office Audit and Control Management Server 2013
 summary: >+
-  שרת הניהול של Microsoft Office וניהול הפקדים 2013 עוקב אחר מדיניות מחזור חיי [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft Office Audit and Control Management Server 2013 פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:

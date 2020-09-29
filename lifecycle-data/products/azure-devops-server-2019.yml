@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: התכלת שרת 2019
-  description: התכלת DevOps Server 2019 עוקב אחר מדיניות מחזור החיים הקבוע.
+  title: שרת Azure DevOps 2019
+  description: Azure DevOps Server 2019 פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
   ms.openlocfilehash: a15d9ba4c905a38a9743b959a5b36e8e3f24ec3b
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869684"
-name: התכלת שרת 2019
+name: שרת Azure DevOps 2019
 summary: >+
-  התכלת DevOps Server 2019 עוקב אחר מדיניות מחזור החיים [הקבוע](/lifecycle/policies/fixed) .
+  Azure DevOps Server 2019 פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:

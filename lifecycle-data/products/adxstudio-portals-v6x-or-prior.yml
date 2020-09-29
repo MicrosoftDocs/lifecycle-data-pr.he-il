@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Adxstudio פורטלים של v6. x או קודמות
-  description: Adxstudio פורטלים של v6. x או קודמות עוקבים אחר מדיניות מחזור החיים הקבועים.
+  title: Adxstudio Portals v6.x or prior
+  description: Adxstudio Portals v6.x or prior פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 08/28/2020
   ms.openlocfilehash: d30568ac94980a8ea178e1971f3841f5093514fa
   ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 08/28/2020
   ms.locfileid: "924372"
-name: Adxstudio פורטלים של v6. x או קודמות
+name: Adxstudio Portals v6.x or prior
 summary: >+
-  Adxstudio פורטלים של v6. x או קודמות עוקבים אחר מדיניות מחזור החיים [הקבועים](/lifecycle/policies/fixed) .
+  Adxstudio Portals v6.x or prior פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 09/29/2015
   endDate: 04/12/2016
-content: "\n## <a name=\"links\"></a>קישורים \n* [שאלות נפוצות אודות מחזור חיים-רכישות](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> התמיכה עבור מוצר זה כפופה לתנאי הרכישה והסתיימה."
+content: "\n## <a name=\"links\"></a>קישורים \n* [שאלות נפוצות אודות מדיניות מחזור-חיים - רכישות](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> התמיכה במוצר זה כפופה לתנאי רכישתו."

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: שירותים של התכלת BizTalk
-  description: מדיניות המחזור המודרני של מחזור החיים של התכלת של BizTalk
+  title: Azure BizTalk Services
+  description: Azure BizTalk Services פועל בהתאם למדיניות מחזור-חיים עכשוית.
   ms.date: 08/19/2020
   ms.openlocfilehash: 3fba232a5fce7a5cbc705ce79978718f84181737
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904131"
-name: שירותים של התכלת BizTalk
+name: Azure BizTalk Services
 summary: >+
-  מדיניות המחזור [המודרני](/lifecycle/policies/modern) של מחזור החיים של התכלת של BizTalk
+  Azure BizTalk Services פועל בהתאם למדיניות מחזור-חיים [עכשוית](/lifecycle/policies/modern).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 11/21/2013
   endDate: 05/31/2018
-content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת העברה](https://azure.microsoft.com/services/biztalk-services)"
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](https://azure.microsoft.com/services/biztalk-services)"

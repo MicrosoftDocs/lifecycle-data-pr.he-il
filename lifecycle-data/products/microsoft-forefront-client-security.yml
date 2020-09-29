@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: אבטחת לקוח של Microsoft Forefront
-  description: אבטחת לקוח של Microsoft Forefront עוקבת אחר מדיניות מחזור חיי הקבוע.
+  title: Microsoft Forefront Client Security
+  description: Microsoft Forefront Client Security עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 08/28/2020
   ms.openlocfilehash: 335ae81ffa4b7cb64352b19e7330765a4cac6c68
   ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 08/28/2020
   ms.locfileid: "924256"
-name: אבטחת לקוח של Microsoft Forefront
+name: Microsoft Forefront Client Security
 summary: >+
-  אבטחת לקוח של Microsoft Forefront עוקבת אחר מדיניות מחזור חיי [הקבוע](/lifecycle/policies/fixed) .
+  Microsoft Forefront Client Security עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 08/02/2007
   endDate: 07/14/2015
-content: "\n## <a name=\"links\"></a>קישורים \n* [הגנה על נקודות קצה של מרכז המערכת](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> אבטחת לקוח של הלקוח הופסקה מ-14 ביולי 2015. עדכוני ההגדרה Antimalware ו-Antispyware לא יהיו זמינים עוד לאחר סוף התמיכה של גירסת המוצר. הערכת הגנה של נקודות קצה של מרכז המערכת כתחליף."
+content: "\n## <a name=\"links\"></a>קישורים \n* [System Center Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> Forefront Client Security הופסקה נכון ל- 14 ביולי, 2015. עדכוני Antimalware ו- Antispyware לא יהיו עוד זמינים לאחר סיום תקופת התמיכה במהדורת המוצר אנא העריכו את System Center Endpoint Protection בתור חלופה."

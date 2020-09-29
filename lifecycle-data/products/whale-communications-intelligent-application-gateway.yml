@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: שער יישומים אינטליגנטי של תקשורת לווייתן
-  description: שער היישום האינטליגנטי של תקשורת לווייתן עוקב אחר מדיניות מחזור חיי הקבוע.
+  title: Whale Communications Intelligent Application Gateway
+  description: Whale Communications Intelligent Application Gateway פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 08/21/2020
   ms.openlocfilehash: 4946cfbd0c53706853138bd707157a5c318b8dc6
   ms.sourcegitcommit: bc7fcda30191f92db77ed2e7f74d5816ac276a55
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: he-IL
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "907141"
-name: שער יישומים אינטליגנטי של תקשורת לווייתן
+name: Whale Communications Intelligent Application Gateway
 summary: >+
-  שער היישום האינטליגנטי של תקשורת לווייתן עוקב אחר מדיניות מחזור חיי [הקבוע](/lifecycle/policies/fixed) .
+  Whale Communications Intelligent Application Gateway עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:
