@@ -2,14 +2,14 @@
 metadata:
   title: Windows 10 Home ו- Pro
   description: Windows 10 Home and Pro עוקבים אחר מדיניות מחזור-חיים עכשוית.
-  ms.date: 09/22/2020
+  ms.date: 10/09/2020
   keywords: 
-  ms.openlocfilehash: afe3de560cc371fc307d5e1e7f831e301c3ce99f
-  ms.sourcegitcommit: 528043c09bc83880f3c1dcc3f976c4241e9ec4b7
+  ms.openlocfilehash: 095634809dda7456b4aa5cae512bbfef43253f87
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: he-IL
-  ms.lasthandoff: 09/22/2020
-  ms.locfileid: "1026886"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162482"
 name: Windows 10 Home ו- Pro
 summary: >
   Windows 10 Home and Pro עוקבים אחר מדיניות מחזור-חיים  [עכשוית](/lifecycle/policies/modern).
@@ -28,6 +28,9 @@ supportDates:
   start: 07/29/2015
   end: 10/14/2025
 releases:
+- version: Version 20H2
+  startDate: 10/20/2020
+  endDate: 05/10/2022
 - version: Version 2004
   startDate: 05/27/2020
   endDate: 12/14/2021
@@ -58,4 +61,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>קישורים \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [גיליון עובדות של מדיניות מחזור-חיים של Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [שאלות נפוצות אודות מדיניות מחזור-חיים - מוצרי ](/lifecycle/faq/windows)Windows\n\n> [!NOTE]\n> Pro for Workstation פורסם לראשונה עם גרסה 1709.\n> [!NOTE]\n> למעט אם נדחו, עדכוני תכונות עוקבים של הערוץ החצי-שנתי של Windows 10 ניתנים להתקנה טרם תאריך סוף תמיכה עיקרית הרשום.\n\n## <a name=\"editions\"></a>מהדורות \n* Home\n* Pro\n* Pro for Education\n* Pro for Workstations"
+content: "\n## <a name=\"links\"></a>קישורים \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [שאלות נפוצות אודות מדיניות מחזור-חיים - מוצרי ](/lifecycle/faq/windows)Windows\n\n> [!NOTE]\n> Pro for Workstation פורסם לראשונה עם גרסה 1709.\n> [!NOTE]\n> למעט אם נדחו, עדכוני תכונות עוקבים של הערוץ החצי-שנתי של Windows 10 ניתנים להתקנה טרם תאריך סוף תמיכה עיקרית הרשום.\n\n## <a name=\"editions\"></a>מהדורות \n* Home\n* Pro\n* Pro for Education\n* Pro for Workstations"
