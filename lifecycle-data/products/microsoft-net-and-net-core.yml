@@ -1,0 +1,47 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft .NET ו- .NET Core
+  description: Microsoft .NET ו- .NET Core עוקבים אחר מדיניות מחזור-חיים עכשווית.
+  ms.date: 12/17/2020
+  keywords: ASP.NET Core,Entity Framework Core
+  ms.openlocfilehash: 6052955c370906a7e2ecc16cc1d24b3e055adc89
+  ms.sourcegitcommit: f4e86f7c87c4574636289408f511574ac20127a0
+  ms.translationtype: HT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 12/17/2020
+  ms.locfileid: "1347381"
+name: Microsoft .NET ו- .NET Core
+summary: >+
+  Microsoft .NET ו- .NET Core עוקבים אחר מדיניות מחזור-חיים [עכשווית](/lifecycle/policies/modern).
+
+
+products:
+- dotnet
+policyType: modern-on-prem
+supportDates:
+  start: 06/27/2016
+releases:
+- version: .NET 5.0
+  startDate: 11/10/2020
+- version: .NET Core 3.1 (LTS)
+  startDate: 12/03/2019
+  endDate: 12/03/2022
+- version: .NET Core 3.0
+  startDate: 09/23/2019
+  endDate: 03/03/2020
+- version: .NET Core 2.2
+  startDate: 12/04/2018
+  endDate: 12/23/2019
+- version: .NET Core 2.1 (LTS)
+  startDate: 05/30/2018
+  endDate: 08/21/2021
+- version: .NET Core 2.0
+  startDate: 08/14/2017
+  endDate: 10/01/2018
+- version: .NET Core 1.1
+  startDate: 11/16/2016
+  endDate: 06/27/2019
+- version: .NET Core 1.0
+  startDate: 06/27/2016
+  endDate: 06/27/2019
+content: "\n## <a name=\"links\"></a>קישורים \n* [פרטי תמיכה של .NET Core (dotnet)](https://dotnet.microsoft.com/platform/support/policy/dotnet-core)\n* [לוח זמנים להפצה של .NET Core](https://github.com/dotnet/core/blob/master/roadmap.md)\n* [מפת דרכים של המוצר .NET Core](https://github.com/dotnet/core/blob/master/product-roadmap/current.md)\n* [שאלות נפוצות לגבי מחזור חיי ליבת .NET](/lifecycle/faq/dotnet-core)\n* [פרטי התמיכה של ASP.NET ASP.NET ו- Core](https://dotnet.microsoft.com/platform/support/policy/aspnet)\n* [פרטי תמיכה של Entity Framework](/ef/core/what-is-new)\n\n> [!NOTE]\n> החל מ- .NET 5.0, Microsoft .NET Core עבר מיתוג מחדש כ- .NET. \n>\n>ASP.NET Core ו- Entity Framework Core פועלים בהתאם לאותה מדיניות מחזור-חיים כמו .NET Core."
