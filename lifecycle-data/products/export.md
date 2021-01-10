@@ -1,25 +1,25 @@
 ---
 title: יצוא נתוני מחזור-חיים
 description: ייצוא מידע אודות מחזור-חיים של מוצר
-ms.date: 11/29/2020
+ms.date: 01/06/2021
 layout: ContentPage
-ms.openlocfilehash: 210af0cf60630cbdbf43847641022283aca78366
-ms.sourcegitcommit: 272dedcf92e644b57865e78c716f937b66e534c3
+ms.openlocfilehash: 4a27cd96ddaa1b3d128d9f1d711504d88c28e36e
+ms.sourcegitcommit: f24c8653f7fd67e5b3f9f41e17b47edcecb5856e
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "1335885"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "1367564"
 ---
-# <a name="lifecycle-data-export"></a><span data-ttu-id="d8cfb-103">יצוא נתוני מחזור-חיים</span><span class="sxs-lookup"><span data-stu-id="d8cfb-103">Lifecycle data export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="3257d-103">יצוא נתוני מחזור-חיים</span><span class="sxs-lookup"><span data-stu-id="3257d-103">Lifecycle data export</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="d8cfb-104">יצוא כל המוצרים</span><span class="sxs-lookup"><span data-stu-id="d8cfb-104">Export all products</span></span>
-<span data-ttu-id="d8cfb-105">יצא נתוני מחזור-חיים עבור כל המוצרים על-ידי לחיצה מטה:</span><span class="sxs-lookup"><span data-stu-id="d8cfb-105">Export lifecycle data for all products by clicking below:</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="3257d-104">יצוא כל המוצרים</span><span class="sxs-lookup"><span data-stu-id="3257d-104">Export all products</span></span>
+<span data-ttu-id="3257d-105">יצא נתוני מחזור-חיים עבור כל המוצרים על-ידי לחיצה מטה:</span><span class="sxs-lookup"><span data-stu-id="3257d-105">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="d8cfb-106">יצוא כל המוצרים</span><span class="sxs-lookup"><span data-stu-id="d8cfb-106">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="3257d-106">יצוא כל המוצרים</span><span class="sxs-lookup"><span data-stu-id="3257d-106">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a><span data-ttu-id="d8cfb-107">ייצוא מוצרים לפי משפחה וקבוצה</span><span class="sxs-lookup"><span data-stu-id="d8cfb-107">Export products by Family and Group</span></span>
-<span data-ttu-id="d8cfb-108">בחרו משפחה ולאחר מכן קבוצה לייצוא.</span><span class="sxs-lookup"><span data-stu-id="d8cfb-108">Select a Family and then a Group to export.</span></span> <span data-ttu-id="d8cfb-109">הערה: הייצוא יתחיל כאשר ערך קבוצה נבחר.</span><span class="sxs-lookup"><span data-stu-id="d8cfb-109">Note: Export will begin when Group value is selected.</span></span> 
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="3257d-107">ייצוא מוצרים לפי משפחה וקבוצה</span><span class="sxs-lookup"><span data-stu-id="3257d-107">Export products by Family and Group</span></span>
+<span data-ttu-id="3257d-108">בחרו משפחה ולאחר מכן קבוצה לייצוא.</span><span class="sxs-lookup"><span data-stu-id="3257d-108">Select a Family and then a Group to export.</span></span> <span data-ttu-id="3257d-109">הערה: הייצוא יתחיל כאשר ערך קבוצה נבחר.</span><span class="sxs-lookup"><span data-stu-id="3257d-109">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="משפחה" title2="קבוצה"]
 > - [(.NET | All)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='.NET'))
@@ -81,13 +81,12 @@ ms.locfileid: "1335885"
 > - [(Windows | Security)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Windows',group='Security'))
 > - [(Windows | Server)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Windows',group='Server'))
 
-## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="d8cfb-170">ייצוא מוצרים לפי תאריכי סיום התמיכה</span><span class="sxs-lookup"><span data-stu-id="d8cfb-170">Export products by end of support date</span></span>
-<span data-ttu-id="d8cfb-171">בחרו שנה כדי לראות מוצרים המגיעים לסוף התמיכה בהם.</span><span class="sxs-lookup"><span data-stu-id="d8cfb-171">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="d8cfb-172">הערה: הייצוא יתחיל כאשר ערך השנה נבחר.</span><span class="sxs-lookup"><span data-stu-id="d8cfb-172">Note: Export will begin when Year value is selected.</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="3257d-170">ייצוא מוצרים לפי תאריכי סיום התמיכה</span><span class="sxs-lookup"><span data-stu-id="3257d-170">Export products by end of support date</span></span>
+<span data-ttu-id="3257d-171">בחרו שנה כדי לראות מוצרים המגיעים לסוף התמיכה בהם.</span><span class="sxs-lookup"><span data-stu-id="3257d-171">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="3257d-172">הערה: הייצוא יתחיל כאשר ערך השנה נבחר.</span><span class="sxs-lookup"><span data-stu-id="3257d-172">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [12 החודשים הבאים](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportMonths=12))
 > - [6 החודשים הבאים](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportMonths=6))
-> - [2015](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2015))
 > - [2016](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2016))
 > - [2017](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2017))
 > - [2018](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2018))
