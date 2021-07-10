@@ -2,20 +2,23 @@
 metadata:
   title: Windows 10 IoT 2019 LTSC
   description: Windows 10 IoT 2019 LTSC עוקב אחר מדיניות מחזור-חיים קבועה.
-  ms.date: 09/01/2020
-  keywords: Core,Enterprise
-  ms.openlocfilehash: 14d9c6c53748361e9ab051381cfe36ea267968d9
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 06/08/2021
+  keywords: 
+  ms.openlocfilehash: 82df2d08ff2833c856ecc70b17b54c74c7003bc6
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: he-IL
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938225"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029247"
 name: Windows 10 IoT 2019 LTSC
 summary: >+
   Windows 10 IoT 2019 LTSC עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
+
   הדבר חל על המהדורות הבאות: Core, Enterprise
+
+
 
 products:
 - windows
@@ -28,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>קישורים \n* [שרותי IoT Core של Windows 10](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n* [עדכון אוקטובר ל- Windows 10 (גרסה 1809) פורסמה מחדש ב- 13 בנובמבר, 2018. תאריכי התמיכה עודכנו בהתאם.](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [שאלות נפוצות אודות Windows 10 LTSC ](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel) \n\n> [!NOTE]\n> LTSC = ערוץ שירות לטווח ארוך Windows 10\n\n## <a name=\"editions\"></a>מהדורות \n* Core\n* Enterprise"
+content: "\n\n## <a name=\"links\"></a>קישורים \n* [עדכון Windows 10 October 2018 ](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/) \n* [שרותי IoT Core של Windows 10](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [שאלות נפוצות אודות Windows 10 LTSC ](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel) \n\n\n> [!NOTE]\n> LTSC = ערוץ שירות לטווח ארוך Windows 10\n\n\n## <a name=\"editions\"></a>מהדורות \n* Core\n* Enterprise"
