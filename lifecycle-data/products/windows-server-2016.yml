@@ -2,20 +2,23 @@
 metadata:
   title: שרת Windows 2016
   description: Windows Server 2016 עוקב אחר מדיניות מחזור החיים הקבוע.
-  ms.date: 09/01/2020
-  keywords: Datacenter,Essentials,MultiPoint Premium,Standard
-  ms.openlocfilehash: 17206dccdf2844a2daa1e1326679b812dd9f55eb
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 07/09/2021
+  keywords: 
+  ms.openlocfilehash: 07c1dc6d0d6983d6fde9a35f0fad1dacbec2de75
+  ms.sourcegitcommit: c5cb11b464035a1b4d239621b8d4bf06f574da82
   ms.translationtype: HT
   ms.contentlocale: he-IL
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939372"
+  ms.lasthandoff: 07/28/2021
+  ms.locfileid: "2255244"
 name: שרת Windows 2016
 summary: >+
   Windows Server 2016 עוקב אחר מדיניות מחזור החיים [הקבוע.](/lifecycle/policies/fixed)
 
 
+
   הדבר חל על המהדורות הבאות: Datacenter, Essentials, MultiPoint Premium, Standard
+
+
 
 products:
 - windows
@@ -28,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 10/15/2016
   endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות המוצר](/windows-server/get-started/server-basics)\n* [שאלות נפוצות אודות מדיניות מחזור-חיים - מוצרי ](/lifecycle/faq/windows)Windows\n\n\n## <a name=\"editions\"></a>מהדורות \n* Datacenter\n* Essentials\n* MultiPoint Premium\n* Standard"
+content: "\n\n## <a name=\"links\"></a>קישורים \n* [מידע אודות המוצר](/windows-server/get-started/server-basics)\n* [שאלות נפוצות אודות מדיניות מחזור-חיים - מוצרי ](/lifecycle/faq/windows)Windows\n* [טיפול במחזורי חיים של תמונת בסיס של מיכל Windows](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n\n\n> [!NOTE]\n> מיכלים ששוחררו עם Windows Server 2016 פועלים בהתאם לאותם תאריכי מחזור חיים.\n\n\n## <a name=\"editions\"></a>מהדורות \n* Datacenter\n* Essentials\n* MultiPoint Premium\n* Standard"

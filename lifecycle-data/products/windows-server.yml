@@ -2,20 +2,23 @@
 metadata:
   title: שרת Windows
   description: Windows Server עוקב אחר מדיניות מחזור-חיים עכשוית.
-  ms.date: 10/19/2020
+  ms.date: 07/12/2021
   keywords: 
-  ms.openlocfilehash: cc8dd57a0773e9b67fd312e52d7f25bbb96ce10e
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
+  ms.openlocfilehash: 79c81dbee5c7ce3220e5cba21c2f116a65eaf0bf
+  ms.sourcegitcommit: c5cb11b464035a1b4d239621b8d4bf06f574da82
   ms.translationtype: HT
   ms.contentlocale: he-IL
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162334"
+  ms.lasthandoff: 07/28/2021
+  ms.locfileid: "2255170"
 name: שרת Windows
 summary: >+
   Windows Server עוקב אחר מדיניות מחזור-חיים [עכשוית](/lifecycle/policies/modern).
 
 
+
   הדבר חל על המהדורות הבאות: Datacenter, Standard
+
+
 
 products:
 - windows
@@ -23,6 +26,9 @@ policyType: modern-on-prem
 supportDates:
   start: 10/17/2017
 releases:
+- version: Version 21H1
+  startDate: 05/18/2021
+  endDate: 12/13/2022
 - version: Version 20H2
   startDate: 10/20/2020
   endDate: 05/10/2022
@@ -44,4 +50,4 @@ releases:
 - version: Version 1709
   startDate: 10/17/2017
   endDate: 04/09/2019
-content: "\n## <a name=\"links\"></a>קישורים \n* [ערוצי מתן שירות של Windows Server: LTSC ו- SAC](/windows-server/get-started-19/servicing-channels-19)\n* [שאלות נפוצות אודות מדיניות מחזור-חיים - מוצרי ](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)Windows\n\n> [!NOTE]\n> שרת Windows, גירסה 1809 שוחרר מחדש ב- 13 בנובמבר, 2018. תאריכי התמיכה עודכנו בהתאם.\n\n## <a name=\"editions\"></a>מהדורות \n* Datacenter\n* Standard"
+content: "\n\n## <a name=\"links\"></a>קישורים \n* [טיפול במחזורי חיים של תמונת בסיס של מיכל Windows](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n* [ערוצי מתן שירות של Windows Server: LTSC ו- SAC](/windows-server/get-started-19/servicing-channels-19)\n* [שאלות נפוצות אודות מדיניות מחזור-חיים - מוצרי ](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)Windows\n\n\n> [!NOTE]\n> מיכלים שפורסמו עם גרסאות Windows Server המפורטות למעלה פועלים בהתאם לאותם תאריכי מחזור חיים. נווט אל דף שירות התמונה הבסיסי ב- [טיפול במחזורי חיים של תמונת בסיס של מיכל Windows](https://docs.microsoft.com/virtualization/windowscontainers/deploy-containers/base-image-lifecycle) לפרטים נוספים.\n> [!NOTE]\n> שרת Windows, גירסה 1809 שוחרר מחדש ב- 13 בנובמבר, 2018. תאריכי התמיכה עודכנו בהתאם.\n\n\n## <a name=\"editions\"></a>מהדורות \n* Datacenter\n* Standard"
