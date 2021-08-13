@@ -4,26 +4,34 @@ metadata:
   description: שרת אחסון Windows 2003 R2 בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 0bbf6a9de795da54ad932124e857b89fa09d55e2
-  ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
-  ms.translationtype: HT
-  ms.contentlocale: he-IL
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "940850"
 name: שרת אחסון Windows 2003 R2
-summary: "שרת אחסון Windows 2003 R2 בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).\n\nהדבר חל על המהדורות הבאות: Standard\n\n> [!IMPORTANT]\n> הסתיימה התמיכה עבור מוצר זה.\nמוצר זה נשלח עם ערכת שירות אחת של שרת Windows 2003. \n"
+summary: |
+  שרת אחסון Windows 2003 R2 בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
+
+  הדבר חל על המהדורות הבאות: Standard
+
+  > [!IMPORTANT]
+  > הסתיימה התמיכה עבור מוצר זה.
+  מוצר זה נשלח עם ערכת שירות אחת של שרת Windows 2003. 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 03/05/2006
   end: 07/13/2010
   extendedEnd: 07/14/2015
 releases:
-- version: Service Pack 2
-  startDate: 03/13/2007
-  endDate: 07/14/2015
-- version: Original Release
-  startDate: 03/05/2006
-  endDate: 04/14/2009
-content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>מהדורות \n* Standard"
+  - version: Service Pack 2
+    startDate: 03/13/2007
+    endDate: 07/14/2015
+  - version: Original Release
+    startDate: 03/05/2006
+    endDate: 04/14/2009
+content: |
+
+  ## <a name="links"></a>קישורים 
+  * [הדרכת ביצוע מעבר](/windows-server/upgrade/upgrade-overview)
+
+
+  ## <a name="editions"></a>מהדורות 
+  * Standard

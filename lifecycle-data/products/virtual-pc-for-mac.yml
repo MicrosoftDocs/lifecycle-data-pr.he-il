@@ -3,25 +3,23 @@ metadata:
   title: מחשב וירטואלי עבור Mac
   description: מחשב וירטואלי עבור Mac  בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
-  ms.openlocfilehash: cf556aeada0feade9a260e41c921b5f0ac6638e7
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: he-IL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "819698"
 name: מחשב וירטואלי עבור Mac
-summary: >+
+summary: |+
   מחשב וירטואלי עבור Mac בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 11/12/2003
   end: 04/13/2010
 releases:
-- version: Original Release
-  startDate: 11/12/2003
-  endDate: 01/13/2009
-content: "\n\n> [!NOTE]\n> כולל גרסה 5.01, גרסה 5.02, גרסה 5.03, גרסה 5.04, גרסה 6.01, גרסה 6.02, גרסה 6.1, גרסה 6.1.1 עדכון, גרסה 7, גרסה 7.01"
+  - version: Original Release
+    startDate: 11/12/2003
+    endDate: 01/13/2009
+content: |+
+
+
+  > [!NOTE]
+  > כולל גרסה 5.01, גרסה 5.02, גרסה 5.03, גרסה 5.04, גרסה 6.01, גרסה 6.02, גרסה 6.1, גרסה 6.1.1 עדכון, גרסה 7, גרסה 7.01
