@@ -3,26 +3,23 @@ metadata:
   title: שרת Visual Studio Team Foundation 2018
   description: שרת Visual Studio Team Foundation 2018 פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 6d1d0f045180b541ab90be9f3f553445004bd58c
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: HT
-  ms.contentlocale: he-IL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869719"
 name: שרת Visual Studio Team Foundation 2018
-summary: >+
+summary: |+
   שרת Visual Studio Team Foundation 2018 פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 11/15/2017
   end: 01/10/2023
   extendedEnd: 01/11/2028
 releases:
-- version: Original Release
-  startDate: 11/15/2017
-  endDate: 01/11/2028
-content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות המוצר](/azure/devops/server/whats-new?view=azure-devops)"
+  - version: Original Release
+    startDate: 11/15/2017
+    endDate: 01/11/2028
+content: |+
+
+  ## <a name="links"></a>קישורים 
+  * [מידע אודות המוצר](/azure/devops/server/whats-new?view=azure-devops)

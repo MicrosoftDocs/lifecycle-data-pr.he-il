@@ -3,33 +3,32 @@ metadata:
   title: Software Licensing ו-Protection Server
   description: Software Licensing and Protection Server עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 09/10/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 567392e4c49c46a29c7f9f80730542f0ded21608
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: he-IL
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001057"
+  keywords: 'Enterprise,Standard'
 name: Software Licensing ו-Protection Server
-summary: >
+summary: |
   Software Licensing and Protection Server עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
-
 
   הדבר חל על המהדורות הבאות: Enterprise, Standard
 
-
   > [!IMPORTANT]
-
   > בשל ההפשטה של Software Licensing and Protection Server (SLPS), Microsoft תמכה ב- SLPS עד ה- 24 בספטמבר, 2009.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 12/30/2007
   end: 09/24/2009
   extendedEnd: 09/24/2009
 releases:
-- version: Original Release
-  startDate: 12/30/2007
-  endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>קישורים \n* [Software Licensing and Protection Server (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>מהדורות \n* Enterprise\n* Standard"
+  - version: Original Release
+    startDate: 12/30/2007
+    endDate: 01/09/2018
+content: |
+
+  ## <a name="links"></a>קישורים 
+  * [Software Licensing and Protection Server (SLPS)](https://www.microsoft.com/slps)
+
+
+  ## <a name="editions"></a>מהדורות 
+  * Enterprise
+  * Standard

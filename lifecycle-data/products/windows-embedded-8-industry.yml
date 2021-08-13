@@ -3,33 +3,33 @@ metadata:
   title: Windows Embedded 8 Industry
   description: Windows Embedded 8 Industry עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 09/10/2020
-  keywords: Enterprise,Pro
-  ms.openlocfilehash: d14babf394a315b631da1b0d71baa96088efa14d
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: he-IL
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002156"
+  keywords: 'Enterprise,Pro'
 name: Windows Embedded 8 Industry
-summary: >
+summary: |
   Windows Embedded 8 Industry עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
-
 
   הדבר חל על המהדורות הבאות: Enterprise, Pro
 
-
   > [!IMPORTANT]
-
   > על הלקוחות לעבור ל- Windows 8.1 כדי להישאר נתמכים.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 06/24/2013
   end: 01/12/2016
   extendedEnd: 01/12/2016
 releases:
-- version: Original Release
-  startDate: 06/24/2013
-  endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](https://www.microsoft.com/download/details.aspx?id=40279)\n* [שאלות נפוצות אודות מדיניות מחזור-חיים - מוצרי ](/lifecycle/faq/windows)Windows\n\n\n## <a name=\"editions\"></a>מהדורות \n* Enterprise\n* Pro"
+  - version: Original Release
+    startDate: 06/24/2013
+    endDate: 01/12/2016
+content: |
+
+  ## <a name="links"></a>קישורים 
+  * [הדרכת ביצוע מעבר](https://www.microsoft.com/download/details.aspx?id=40279)
+  * [שאלות נפוצות אודות מדיניות מחזור-חיים - מוצרי ](/lifecycle/faq/windows)Windows
+
+
+  ## <a name="editions"></a>מהדורות 
+  * Enterprise
+  * Pro
