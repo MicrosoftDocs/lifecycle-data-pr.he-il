@@ -3,22 +3,27 @@ metadata:
   title: Windows Phone 8.1
   description: Windows Phone 8.1 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
-  ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: he-IL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "854990"
 name: Windows Phone 8.1
-summary: "Windows Phone 8.1 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed). \n\n\n> [!IMPORTANT]\n> הסתיימה התמיכה עבור מוצר זה.\n"
+summary: |
+  Windows Phone 8.1 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed). 
+
+
+  > [!IMPORTANT]
+  > הסתיימה התמיכה עבור מוצר זה.
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 06/24/2014
   end: 07/11/2017
 releases:
-- version: Original Release
-  startDate: 06/24/2014
-  endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>קישורים \n* [שאלות נפוצות אודות Windows Phone 8.1](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Microsoft תהפוך עדכונים לזמינים עבור מערכת ההפעלה, כולל עדכוני אבטחה, למשך 36 חודשים לפחות מתאריך התחלת מדיניות מחזור-חיים. עדכונים אלו יהיו מצטברים, כאשר כל עדכון בנוי מעל העדכון שלפניו. על הלקוחות להתקין כל עדכון שפורסם כדי להישאר נתמכים. ייתכן וחלוקתם של עדכונים מצטברים אלה תהיה נשלטת על-ידי המפעיל הנייד או יצרן הטלפון ממנו רכשת את מכשירך, וההתקנה תדרוש כי בטלפון ימצאו כל העדכונים הקודמים. זמינות העדכון תשתנה גם לפי המדינה, האזור ויכולות החומרה."
+  - version: Original Release
+    startDate: 06/24/2014
+    endDate: 07/11/2017
+content: |+
+
+  ## <a name="links"></a>קישורים 
+  * [שאלות נפוצות אודות Windows Phone 8.1](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)
+
+  > [!NOTE]
+  > Microsoft תהפוך עדכונים לזמינים עבור מערכת ההפעלה, כולל עדכוני אבטחה, למשך 36 חודשים לפחות מתאריך התחלת מדיניות מחזור-חיים. עדכונים אלו יהיו מצטברים, כאשר כל עדכון בנוי מעל העדכון שלפניו. על הלקוחות להתקין כל עדכון שפורסם כדי להישאר נתמכים. ייתכן וחלוקתם של עדכונים מצטברים אלה תהיה נשלטת על-ידי המפעיל הנייד או יצרן הטלפון ממנו רכשת את מכשירך, וההתקנה תדרוש כי בטלפון ימצאו כל העדכונים הקודמים. זמינות העדכון תשתנה גם לפי המדינה, האזור ויכולות החומרה.
