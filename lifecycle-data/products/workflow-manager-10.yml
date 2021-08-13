@@ -3,29 +3,33 @@ metadata:
   title: Workflow Manager 1.0
   description: Workflow Manager 1.0 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 09/10/2020
-  keywords: 
-  ms.openlocfilehash: 4fa17a4187f64e1ea2b46d8fdca61b81bbb7c7fa
-  ms.sourcegitcommit: 5c618c870f05989d24ebd3a61d98ce2302e85d3b
-  ms.translationtype: HT
-  ms.contentlocale: he-IL
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002678"
+  keywords: null
 name: Workflow Manager 1.0
-summary: >+
+summary: |+
   Workflow Manager 1.0 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
-
 
   הדבר חל על המהדורות הבאות: Client, Standard
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 10/18/2012
   end: 01/09/2018
   extendedEnd: 01/10/2023
 releases:
-- version: Original Release
-  startDate: 10/18/2012
-  endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות שירות SharePoint 2016](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [מידע אודות שירות ](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)SharePoint 2013\n\n> [!NOTE]\n> כאשר Workflow Manager מהווה כרכיב של SharePoint Server 2016 או SharePoint Server 2013, הוא יתמך בהתאם לתאריכי סיום התמיכה של גרסאות SharePoint Server בהתאמה.\n\n## <a name=\"editions\"></a>מהדורות \n* לקוח\n* Standard"
+  - version: Original Release
+    startDate: 10/18/2012
+    endDate: 01/10/2023
+content: |
+
+  ## <a name="links"></a>קישורים 
+  * [מידע אודות שירות SharePoint 2016](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)
+  * [מידע אודות שירות ](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)SharePoint 2013
+
+  > [!NOTE]
+  > כאשר Workflow Manager מהווה כרכיב של SharePoint Server 2016 או SharePoint Server 2013, הוא יתמך בהתאם לתאריכי סיום התמיכה של גרסאות SharePoint Server בהתאמה.
+
+  ## <a name="editions"></a>מהדורות 
+  * לקוח
+  * Standard
