@@ -3,30 +3,29 @@ metadata:
   title: Microsoft Forefront Endpoint Protection 2010
   description: Microsoft Forefront Endpoint Protection 2010 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 113adafeb18c300817f2c264cf2457b0e24cbd8c
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: he-IL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855009"
 name: Microsoft Forefront Endpoint Protection 2010
-summary: >
+summary: |
   Microsoft Forefront Endpoint Protection 2010 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
-
   > [!IMPORTANT]
-
   > התמיכה הסתיימה. ראו הנחיות מעבר מטה.
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 03/31/2011
   end: 07/08/2014
   extendedEnd: 07/09/2019
 releases:
-- version: Original Release
-  startDate: 03/31/2011
-  endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [מידע אודות מתן שירות](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> על הלקוחות להישאר עדכניים עם עדכון הפלטפורמה האחרון נגד תוכנות זדוניות על מנת להתמך באופן מלא. Forefront Endpoint Protection 2010 מכוסה על ידי אותה מדיניות מחזור-חיים של System Center Configuration Manager 2007 עבור תמיכה עיקרית וגם תמיכה מורחבת."
+  - version: Original Release
+    startDate: 03/31/2011
+    endDate: 07/09/2019
+content: |+
+
+  ## <a name="links"></a>קישורים 
+  * [הדרכת ביצוע מעבר](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)
+  * [מידע אודות מתן שירות](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)
+
+  > [!NOTE]
+  > על הלקוחות להישאר עדכניים עם עדכון הפלטפורמה האחרון נגד תוכנות זדוניות על מנת להתמך באופן מלא. Forefront Endpoint Protection 2010 מכוסה על ידי אותה מדיניות מחזור-חיים של System Center Configuration Manager 2007 עבור תמיכה עיקרית וגם תמיכה מורחבת.

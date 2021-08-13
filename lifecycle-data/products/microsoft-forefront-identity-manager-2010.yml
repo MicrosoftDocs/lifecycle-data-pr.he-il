@@ -3,26 +3,24 @@ metadata:
   title: מנהל זהות חזיתי של Microsoft 2010
   description: מנהל זהות חזיתי של Microsoft 2010 פועל בהתאם למדיניות מחזור החיים קבועה.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 9b76ebc222ff94ed78ae77e18623f18557e8ac38
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: he-IL
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "819807"
 name: מנהל זהות חזיתי של Microsoft 2010
-summary: >+
+summary: |+
   מנהל זהות חזיתי של Microsoft 2010 פועל בהתאם למדיניות מחזור החיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:
-- m365
+  - m365
 policyType: fixed
 supportDates:
   start: 05/27/2010
   end: 10/10/2017
   extendedEnd: 10/11/2022
 releases:
-- version: Original Release
-  startDate: 05/27/2010
-  endDate: 10/11/2022
-content: "\n\n> [!NOTE]\n> התמיכה העיקרית עבור מנהל זהות חזיתי של Microsoft 2010 הורחבה כלהלן על מנת לספק לכל הלקוחות את ציר הזמן הסטנדרטי של מעבר מחזור-חיים."
+  - version: Original Release
+    startDate: 05/27/2010
+    endDate: 10/11/2022
+content: |+
+
+
+  > [!NOTE]
+  > התמיכה העיקרית עבור מנהל זהות חזיתי של Microsoft 2010 הורחבה כלהלן על מנת לספק לכל הלקוחות את ציר הזמן הסטנדרטי של מעבר מחזור-חיים.
