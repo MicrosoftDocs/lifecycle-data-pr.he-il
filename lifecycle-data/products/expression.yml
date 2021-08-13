@@ -3,24 +3,34 @@ metadata:
   title: Expression
   description: Expression פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 09/01/2020
-  keywords: Blend,Design,Encoder,Studio
-  ms.openlocfilehash: 2d2e5c18c1e8ca1b355bfe392df42d6a351e6585
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: he-IL
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936227"
+  keywords: 'Blend,Design,Encoder,Studio'
 name: Expression
-summary: "Expression פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).\n\nהדבר חל על המהדורות הבאות: Blend, Design, Encoder, Studio\n\n> [!IMPORTANT]\n> הסתיימה התמיכה עבור מוצר זה. \n"
+summary: |
+  Expression פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
+
+  הדבר חל על המהדורות הבאות: Blend, Design, Encoder, Studio
+
+  > [!IMPORTANT]
+  > הסתיימה התמיכה עבור מוצר זה. 
 products:
-- expression
+  - expression
 policyType: fixed
 supportDates:
   start: 07/27/2007
   end: 10/09/2012
   extendedEnd: 10/10/2017
 releases:
-- version: Original Release
-  startDate: 07/27/2007
-  endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> תאריך ההתחלה עבור Expression Blend הוא 13 ביולי 2007. \n\n## <a name=\"editions\"></a>מהדורות \n* Blend\n* Design\n* Encoder\n* Studio"
+  - version: Original Release
+    startDate: 07/27/2007
+    endDate: 10/10/2017
+content: |
+
+
+  > [!NOTE]
+  > תאריך ההתחלה עבור Expression Blend הוא 13 ביולי 2007. 
+
+  ## <a name="editions"></a>מהדורות 
+  * Blend
+  * Design
+  * Encoder
+  * Studio

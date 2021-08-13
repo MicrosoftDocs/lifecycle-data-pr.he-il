@@ -3,22 +3,25 @@ metadata:
   title: Microsoft Word עבור Mac 2011
   description: Microsoft Word עבור Mac 2011 פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
-  ms.openlocfilehash: a33ce7f2ee56098ccc8b316733d42042b842a84d
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: he-IL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "854954"
 name: Microsoft Word עבור Mac 2011
-summary: "Microsoft Word עבור Mac 2011 פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).\n\n\n> [!IMPORTANT]\n> הסתיימה התמיכה עבור מוצר זה. \n"
+summary: |
+  Microsoft Word עבור Mac 2011 פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
+
+
+  > [!IMPORTANT]
+  > הסתיימה התמיכה עבור מוצר זה. 
 products:
-- office
+  - office
 policyType: fixed-mainstream-only
 supportDates:
   start: 12/09/2010
   end: 10/10/2017
 releases:
-- version: Original Release
-  startDate: 12/09/2010
-  endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> התמיכה העיקרית עבור Microsoft Office עבור Mac 2011 הורחבה כלהלן על מנת לספק לכל הלקוחות את ציר הזמן הסטנדרטי של מעבר מחזור-חיים."
+  - version: Original Release
+    startDate: 12/09/2010
+    endDate: 10/10/2017
+content: |+
+
+
+  > [!NOTE]
+  > התמיכה העיקרית עבור Microsoft Office עבור Mac 2011 הורחבה כלהלן על מנת לספק לכל הלקוחות את ציר הזמן הסטנדרטי של מעבר מחזור-חיים.

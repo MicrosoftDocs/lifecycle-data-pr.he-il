@@ -3,25 +3,30 @@ metadata:
   title: Internet Explorer 7
   description: Internet Explorer 7 עוקב אחר מדיניות מחזור-חיים לרכיבים.
   ms.date: 10/05/2020
-  keywords: 
-  ms.openlocfilehash: e9a0e815b920011e15e4da8e58158c45e7971cd0
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
-  ms.translationtype: HT
-  ms.contentlocale: he-IL
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162667"
+  keywords: null
 name: Internet Explorer 7
-summary: >+
+summary: |+
   Internet Explorer 7 עוקב אחר מדיניות מחזור-חיים [לרכיבים](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
-- internet-explorer
+  - internet-explorer
 policyType: component
 supportDates:
   start: 10/18/2006
   end: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 10/18/2006
-content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](https://www.microsoft.com/itpro/microsoft-edge)\n* [Windows Embedded Compact 7](/lifecycle/products/windows-embedded-compact-7)\n* [Windows Embedded Compact 2013](/lifecycle/products/windows-embedded-compact-2013)\n* [שאלות נפוצות אודות מדיניות מחזור-חיים עבור Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Internet Explorer 7 הוא רכיב של Windows Embedded Compact 7 ו- Windows Embedded Compact 2013 ועוקב אחר אותו מחזור החיים. \n> [!NOTE]\n> החל מה- 12 בינואר, 2016, רק הגירסה העדכנית ביותר של Internet Explorer זמינה עבור מערכת הפעלה נתמכת ותקבל תמיכה טכנית ועדכוני אבטחה."
+  - version: Original Release
+    startDate: 10/18/2006
+content: |+
+
+  ## <a name="links"></a>קישורים 
+  * [הדרכת ביצוע מעבר](https://www.microsoft.com/itpro/microsoft-edge)
+  * [Windows Embedded Compact 7](/lifecycle/products/windows-embedded-compact-7)
+  * [Windows Embedded Compact 2013](/lifecycle/products/windows-embedded-compact-2013)
+  * [שאלות נפוצות אודות מדיניות מחזור-חיים עבור Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)
+
+  > [!NOTE]
+  > Internet Explorer 7 הוא רכיב של Windows Embedded Compact 7 ו- Windows Embedded Compact 2013 ועוקב אחר אותו מחזור החיים. 
+  > [!NOTE]
+  > החל מה- 12 בינואר, 2016, רק הגירסה העדכנית ביותר של Internet Explorer זמינה עבור מערכת הפעלה נתמכת ותקבל תמיכה טכנית ועדכוני אבטחה.
