@@ -3,29 +3,31 @@ metadata:
   title: Windows Storage Server 2016
   description: Windows Storage Server 2016 פועל בהתאם למדיניות מחזור-חיים קבועה.
   ms.date: 09/01/2020
-  keywords: Standard,Workgroup
-  ms.openlocfilehash: 3c0a7d1d5f6f5a73282c35ad96c1b0a036f938d1
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: he-IL
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938965"
+  keywords: 'Standard,Workgroup'
 name: Windows Storage Server 2016
-summary: >+
+summary: |+
   שרת אחסון Windows 2016 פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
-
 
   הדבר חל על המהדורות הבאות: Standard, Workgroup
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/15/2016
   end: 01/11/2022
   extendedEnd: 01/12/2027
 releases:
-- version: Original Release
-  startDate: 10/15/2016
-  endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>קישורים \n* [שאלות נפוצות אודות מדיניות מחזור-חיים - מוצרי ](/lifecycle/faq/windows)Windows\n* [מידע אודות המוצר](/windows-server/storage/whats-new-in-storage)\n\n\n## <a name=\"editions\"></a>מהדורות \n* Standard\n* Workgroup"
+  - version: Original Release
+    startDate: 10/15/2016
+    endDate: 01/12/2027
+content: |
+
+  ## <a name="links"></a>קישורים 
+  * [שאלות נפוצות אודות מדיניות מחזור-חיים - מוצרי ](/lifecycle/faq/windows)Windows
+  * [מידע אודות המוצר](/windows-server/storage/whats-new-in-storage)
+
+
+  ## <a name="editions"></a>מהדורות 
+  * Standard
+  * Workgroup

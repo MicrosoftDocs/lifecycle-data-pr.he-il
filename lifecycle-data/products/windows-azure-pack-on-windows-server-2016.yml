@@ -3,26 +3,26 @@ metadata:
   title: Windows Azure Pack (on Windows Server 2016)
   description: Windows Azure Pack (על Windows Server 2016) עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
-  ms.openlocfilehash: a3bc7138c47161efae20613f28d27e015d290e41
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: he-IL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "854731"
 name: Windows Azure Pack (on Windows Server 2016)
-summary: >+
+summary: |+
   Windows Azure Pack (על Windows Server 2016) עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/12/2016
   end: 01/11/2022
   extendedEnd: 01/12/2027
 releases:
-- version: Original Release
-  startDate: 10/12/2016
-  endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>קישורים \n* [מידע נוסף](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n> [!NOTE]\n> Windows Azure Pack עבור Windows Server הוא פתרון ענן היברידי המביא את טכנולוגיות Windows Azure למרכז הנתונים שלך. הוא מאפשר ללקוחות Microsoft להציע מגוון עשיר, בשירות עצמי, ענן רב-משתמשים בחומרתו של מרכז הנתונים שלהם ללא עלות נוספת."
+  - version: Original Release
+    startDate: 10/12/2016
+    endDate: 01/12/2027
+content: |+
+
+  ## <a name="links"></a>קישורים 
+  * [מידע נוסף](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))
+
+  > [!NOTE]
+  > Windows Azure Pack עבור Windows Server הוא פתרון ענן היברידי המביא את טכנולוגיות Windows Azure למרכז הנתונים שלך. הוא מאפשר ללקוחות Microsoft להציע מגוון עשיר, בשירות עצמי, ענן רב-משתמשים בחומרתו של מרכז הנתונים שלהם ללא עלות נוספת.
