@@ -3,26 +3,24 @@ metadata:
   title: מרכז מערכת Microsoft 2012 R2 שלט אפליקציות
   description: מרכז מערכת Microsoft 2012 R2 שלט אפליקציות עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 07/28/2020
-  ms.openlocfilehash: df618e70dc7d07bc88c666674936f9e7b255a65b
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: he-IL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "854908"
 name: מרכז מערכת Microsoft 2012 R2 שלט אפליקציות
-summary: >+
+summary: |+
   מרכז מערכת Microsoft 2012 R2 שלט אפליקציות עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 01/16/2014
   end: 07/11/2017
   extendedEnd: 07/12/2022
 releases:
-- version: Original Release
-  startDate: 01/16/2014
-  endDate: 07/12/2022
-content: "\n## <a name=\"links\"></a>קישורים \n* [תיעוד מרכז המערכת](/system-center/#pivot=components&panel=components-all)\n* [משאבי מרכז המערכת](https://www.microsoft.com/system-center/resources)"
+  - version: Original Release
+    startDate: 01/16/2014
+    endDate: 07/12/2022
+content: |+
+
+  ## <a name="links"></a>קישורים 
+  * [תיעוד מרכז המערכת](/system-center/#pivot=components&panel=components-all)
+  * [משאבי מרכז המערכת](https://www.microsoft.com/system-center/resources)

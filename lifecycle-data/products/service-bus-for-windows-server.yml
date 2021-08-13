@@ -3,22 +3,21 @@ metadata:
   title: אפיק השירות עבור Windows Server
   description: Service Bus עבור Windows Server עוקב אחר מדיניות מחזור-חיים לרכיבים.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 1641a04266351d29d8b152c5bc87f62207344b65
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: he-IL
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "854907"
 name: אפיק השירות עבור Windows Server
-summary: "Service Bus עבור Windows Server עוקב אחר מדיניות מחזור-חיים  [לרכיבים](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).\n\n\n> [!IMPORTANT]\n> כאשר Service Bus 1.1 מהווה כרכיב של SharePoint Server 2016 או SharePoint Server 2013, הוא יתמך בהתאם לתאריכי סיום התמיכה של גרסאות SharePoint Server בהתאמה. \n"
+summary: |
+  Service Bus עבור Windows Server עוקב אחר מדיניות מחזור-חיים  [לרכיבים](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
+
+
+  > [!IMPORTANT]
+  > כאשר Service Bus 1.1 מהווה כרכיב של SharePoint Server 2016 או SharePoint Server 2013, הוא יתמך בהתאם לתאריכי סיום התמיכה של גרסאות SharePoint Server בהתאמה. 
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 10/18/2012
   end: 01/10/2023
 releases:
-- version: Original Release
-  startDate: 10/18/2012
-  endDate: 01/10/2023
-content: ''
+  - version: Original Release
+    startDate: 10/18/2012
+    endDate: 01/10/2023
+content: |+

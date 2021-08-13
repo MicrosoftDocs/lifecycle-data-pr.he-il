@@ -4,31 +4,27 @@ metadata:
   description: Microsoft פתרונות עסקיים --Great Plains 8.0 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 536666c99ff11026e44547243dc841425050faaa
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: he-IL
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "934673"
 name: Microsoft פתרונות עסקיים --Great Plains 8.0
-summary: >
+summary: |
   Microsoft פתרונות עסקיים --Great Plains 8.0 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
-
 
   הדבר חל על המהדורות הבאות: Standard
 
-
   > [!IMPORTANT]
-
   > התמיכה עבור מוצר זה הסתיימה ב-13.10.2009
 products:
-- dynamics
+  - dynamics
 policyType: fixed-mainstream-only
 supportDates:
   start: 06/01/2004
   end: 10/13/2009
 releases:
-- version: Original Release
-  startDate: 06/01/2004
-  endDate: 10/13/2009
-content: "\n\n\n## <a name=\"editions\"></a>מהדורות \n* Standard"
+  - version: Original Release
+    startDate: 06/01/2004
+    endDate: 10/13/2009
+content: |
+
+
+
+  ## <a name="editions"></a>מהדורות 
+  * Standard
