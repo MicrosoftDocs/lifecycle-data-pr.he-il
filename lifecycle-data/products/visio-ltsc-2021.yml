@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visio LTSC 2021
+  description: Visio 2021 פועל בהתאם למדיניות מחזור-חיים קבועה.
+  ms.date: 09/16/2021
+  keywords: Office,Professional,Standard
+  ms.openlocfilehash: 1fd4f0c3a761f478f4dcc7b17be430dac2121755
+  ms.sourcegitcommit: 17be92666405b75359d58e4487bda40de53b13a7
+  ms.translationtype: HT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 09/17/2021
+  ms.locfileid: "3457749"
+name: Visio LTSC 2021
+summary: >+
+  Visio 2021 פועל בהתאם למדיניות מחזור-חיים קבועה [קבועה](/lifecycle/policies/fixed).
+
+
+
+  הדבר חל על המהדורות הבאות: Professional, Standard
+
+
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 09/16/2021
+  end: 10/13/2026
+releases:
+- version: Original Release
+  startDate: 09/16/2021
+  endDate: 10/13/2026
+content: "\n\n## <a name=\"links\"></a>קישורים \n* [דרישות מערכת](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n\n\n## <a name=\"editions\"></a>מהדורות \n* Professional\n* Standard"
