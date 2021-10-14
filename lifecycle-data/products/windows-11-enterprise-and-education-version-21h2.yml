@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: גרסה 21H2 של Windows 11 Enterprise ו-Education
+  description: גרסה 21H2 של Windows 11 Enterprise ו-Education פועלת בהתאם למדיניות מחזור החיים המודרנית.
+  ms.date: 09/22/2021
+  keywords: 
+  ms.openlocfilehash: 8bccbb271d78ef9b03d0a2d9f92c78984e775f88
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509376"
+name: גרסה 21H2 של Windows 11 Enterprise ו-Education
+summary: >+
+  גרסה 21H2 של Windows 11 Enterprise ו-Education עוקבת אחר מדיניות מחזור החיים [המודרנית](/lifecycle/policies/modern).
+
+
+
+  הדבר חל על המהדורות הבאות: Education, Enterprise
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 10/04/2021
+  end: 10/08/2024
+releases:
+- version: Original Release
+  startDate: 10/04/2021
+  endDate: 10/08/2024
+content: "\n\n## <a name=\"links\"></a>קישורים \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [שאלות נפוצות אודות מדיניות מחזור-חיים - Windows](/lifecycle/faq/windows)\n* [משאבי Windows נוספים](/windows/resources/)\n* [Windows 11 IoT Enterprise](/lifecycle/products/windows-11-iot-enterprise)\n* Windows 11 Home[ ו- Pro](/lifecycle/products/windows-11-home-and-pro)\n\n\n> [!NOTE]\n> למעט אם נדחו, ייתכן שיותקנו עדכוני התכונות הבאים של Windows 11 טרם תאריך סוף התמיכה העיקרית הרשום.\n\n\n## <a name=\"editions\"></a>מהדורות \n* Education\n* Enterprise"

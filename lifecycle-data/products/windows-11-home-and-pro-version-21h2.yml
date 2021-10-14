@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: גרסה 21H2 של Windows 11 Home ו- Pro
+  description: גרסה 21H2 של Windows 11 Home ו- Pro פועלת בהתאם למדיניות מחזור החיים המודרנית.
+  ms.date: 09/23/2021
+  keywords: 
+  ms.openlocfilehash: ea691bf8b5c3e0a62e8d8d6e4bdc5ec3147faa22
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509397"
+name: גרסה 21H2 של Windows 11 Home ו- Pro
+summary: >+
+  גרסה 21H2 של Windows 11 Home ו- Pro עוקבת אחר מדיניות מחזור החיים [המודרנית](/lifecycle/policies/modern).
+
+
+
+  הדבר חל על המהדורות הבאות: Home, Pro, Pro Education, Pro for Workstations
+
+
+
+products:
+- windows
+policyType: modern-on-prem
+supportDates:
+  start: 10/04/2021
+  end: 10/10/2023
+releases:
+- version: Original release (Version 21H2)
+  startDate: 10/04/2021
+  endDate: 10/10/2023
+content: "\n\n## <a name=\"links\"></a>קישורים \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-overview)\n* [שאלות נפוצות אודות מדיניות מחזור-חיים - Windows](/lifecycle/faq/windows)\n* [משאבי Windows נוספים](/windows/resources/)\n* [Windows 11 Enterprise ו-](/lifecycle/products/windows-11-enterprise-and-education)Education\n* [Windows 11 IoT Enterprise](/lifecycle/products/windows-11-iot-enterprise)\n\n\n\n\n## <a name=\"editions\"></a>מהדורות \n* Home\n* Pro\n* Pro for Education\n* Pro for Workstations"
