@@ -2,14 +2,14 @@
 metadata:
   title: גרסה 21H2 של Windows 11 IoT Enterprise
   description: גרסה 21H2 של Windows 11 IoT Enterprise פועלת בהתאם למדיניות מחזור החיים המודרנית.
-  ms.date: 09/23/2021
+  ms.date: 10/26/2021
   keywords: 
-  ms.openlocfilehash: 9a933ca28c406dbd125712266cae66a8f1ccb338
-  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.openlocfilehash: 54c4bc26956a13152fad262355c6ea9d61e1a186
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
   ms.translationtype: HT
   ms.contentlocale: he-IL
-  ms.lasthandoff: 10/05/2021
-  ms.locfileid: "3509389"
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546598"
 name: גרסה 21H2 של Windows 11 IoT Enterprise
 summary: >+
   גרסה 21H2 של Windows 11 IoT Enterprise עוקבת אחר מדיניות מחזור החיים [המודרנית](/lifecycle/policies/modern).
@@ -28,4 +28,4 @@ releases:
 - version: Original release (Version 21H2)
   startDate: 10/04/2021
   endDate: 10/08/2024
-content: "\n\n## <a name=\"links\"></a>קישורים \n* [תחילת העבודה עם Windows 11 IoT Enterprise](https://aka.ms/Windows11IoTEnterprise)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [שאלות נפוצות אודות מדיניות מחזור-חיים - Windows](/lifecycle/faq/windows)\n* [משאבי Windows נוספים](/windows/resources/)\n* [Windows 11 Enterprise ו-](/lifecycle/products/windows-11-enterprise-and-education)Education\n* Windows 11 Home[ ו- Pro](/lifecycle/products/windows-11-home-and-pro)\n\n\n> [!NOTE]\n> למעט אם נדחו, ייתכן שיותקנו עדכוני התכונות הבאים של Windows 11 טרם תאריך סוף התמיכה העיקרית הרשום."
+content: "\n\n## <a name=\"links\"></a>קישורים \n* [תחילת העבודה עם Windows 11 IoT Enterprise](https://aka.ms/Windows11IoTEnterprise)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [שאלות נפוצות אודות מדיניות מחזור-חיים - Windows](/lifecycle/faq/windows)\n* [משאבי Windows נוספים](/windows/resources/)\n* [Windows 11 Enterprise ו-](/lifecycle/products/windows-11-iot-enterprise-version-21h2)Education\n* Windows 11 Home[ ו- Pro](/lifecycle/products/windows-11-home-and-pro-version-21h2)\n\n\n> [!NOTE]\n> למעט אם נדחו, ייתכן שיותקנו עדכוני התכונות הבאים של Windows 11 טרם תאריך סוף התמיכה העיקרית הרשום."
