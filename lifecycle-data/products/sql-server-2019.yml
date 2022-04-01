@@ -2,30 +2,33 @@
 metadata:
   title: שרת SQL 2019
   description: שרת SQL 2019 פועל בהתאם למדיניות מחזור-חיים קבועה.
-  ms.date: 09/01/2020
-  keywords: on Linux (all editions),on Windows (all editions)
-  ms.openlocfilehash: 5963d96efa70fdfb3bb470a362fd6c2204e8d989da8d47eb2e813466bd4cafbb
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.date: 02/16/2022
+  keywords: big data cluster,on Linux (all editions),on Windows (all editions)
+  ms.openlocfilehash: 33c1c3f06073be35c2cc5a4697a52e14c1e57d93
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: he-IL
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2506912"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4136016"
 name: שרת SQL 2019
 summary: >+
   שרת SQL 2019 פועל בהתאם למדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
 
 
+
   הדבר חל על המהדורות הבאות: Linux (כל המהדורות) ו- Windows (כל המהדורות)
+
+
 
 products:
 - sql-server
 policyType: fixed
 supportDates:
-  start: 11/04/2019
-  end: 01/07/2025
-  extendedEnd: 01/08/2030
+  start: 2019-11-04T00:00:00.000-08:00
+  end: 2025-01-14T22:59:59.999-08:00
+  extendedEnd: 2030-01-08T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 11/04/2019
-  endDate: 01/08/2030
-content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות מתן שירות](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n\n## <a name=\"editions\"></a>מהדורות \n* Linux (כל המהדורות)\n* Windows (כל המהדורות)"
+  startDate: 2019-11-04T00:00:00.000-08:00
+  endDate: 2030-01-08T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>קישורים \n* [מידע אודות מתן שירות](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n\n> [!NOTE]\n> SQL Server Big Data Clusters יוצאו משימוש ב- 28 בפברואר 2025. אנא עברו ל [כאן](https://aka.ms/sqlserver_bigdataclusters) למידע נוסף. \n\n\n## <a name=\"editions\"></a>מהדורות \n* Linux (כל המהדורות)\n* Windows (כל המהדורות)"

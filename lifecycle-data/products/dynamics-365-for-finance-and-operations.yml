@@ -3,29 +3,26 @@ metadata:
   title: Dynamics 365 עבר Finance and Operations
   description: Dynamics 365 עבור Finance and Operations עוקב אחר מדיניות מחזור-חיים עכשוית.
   ms.date: 09/29/2020
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: 5792f8d75e78d9e8bb14db6f7039fd2f32f489fc
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4122474"
 name: Dynamics 365 עבר Finance and Operations
-summary: |+
+summary: >+
   Dynamics 365 עבור Finance and Operations עוקב אחר מדיניות מחזור-חיים [עכשוית](/lifecycle/policies/modern).
+
 
   הדבר חל על המהדורות הבאות: Enterprise
 
 products:
-  - dynamics
+- dynamics
 policyType: modern-online
 supportDates:
-  start: 02/19/2016
+  start: 2016-02-19T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 02/19/2016
-content: |
-
-  ## <a name="links"></a>קישורים 
-  * [Microsoft Dynamics 365 Roadmap](https://roadmap.dynamics.com/)
-  * [תכונות שהוסרו או בוטלו](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/deprecated-features?toc=/dynamics365/finance/toc.json%22%20%5Cl%20%22us-payroll-tax-updates)
-  * [מידע אודות מתן שירות](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)
-  * [דרישות מערכת](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)
-
-
-  ## <a name="editions"></a>מהדורות 
-  * Enterprise
+- version: Original Release
+  startDate: 2016-02-19T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>קישורים \n* [Microsoft Dynamics 365 Roadmap](https://roadmap.dynamics.com/)\n* [תכונות שהוסרו או בוטלו](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/deprecated-features?toc=/dynamics365/finance/toc.json%22%20%5Cl%20%22us-payroll-tax-updates)\n* [מידע אודות מתן שירות](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)\n* [דרישות מערכת](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)\n\n\n## <a name=\"editions\"></a>מהדורות \n* Enterprise"

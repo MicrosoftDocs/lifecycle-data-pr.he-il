@@ -3,33 +3,29 @@ metadata:
   title: Workflow Manager 1.0
   description: Workflow Manager 1.0 עוקב אחר מדיניות מחזור-חיים קבועה.
   ms.date: 09/10/2020
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: d3dcfa85b641cdeeb6e43ee61dabfc6e390ceed1
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4147005"
 name: Workflow Manager 1.0
-summary: |+
+summary: >+
   Workflow Manager 1.0 עוקב אחר מדיניות מחזור-חיים [קבועה](/lifecycle/policies/fixed).
+
 
   הדבר חל על המהדורות הבאות: Client, Standard
 
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
-  start: 10/18/2012
-  end: 01/09/2018
-  extendedEnd: 01/10/2023
+  start: 2012-10-18T00:00:00.000-08:00
+  end: 2018-01-09T22:59:59.999-08:00
+  extendedEnd: 2023-01-10T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 10/18/2012
-    endDate: 01/10/2023
-content: |
-
-  ## <a name="links"></a>קישורים 
-  * [מידע אודות שירות SharePoint 2016](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)
-  * [מידע אודות שירות ](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)SharePoint 2013
-
-  > [!NOTE]
-  > כאשר Workflow Manager מהווה כרכיב של SharePoint Server 2016 או SharePoint Server 2013, הוא יתמך בהתאם לתאריכי סיום התמיכה של גרסאות SharePoint Server בהתאמה.
-
-  ## <a name="editions"></a>מהדורות 
-  * לקוח
-  * Standard
+- version: Original Release
+  startDate: 2012-10-18T00:00:00.000-08:00
+  endDate: 2023-01-10T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>קישורים \n* [מידע אודות שירות SharePoint 2016](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [מידע אודות שירות ](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)SharePoint 2013\n\n> [!NOTE]\n> כאשר Workflow Manager מהווה כרכיב של SharePoint Server 2016 או SharePoint Server 2013, הוא יתמך בהתאם לתאריכי סיום התמיכה של גרסאות SharePoint Server בהתאמה.\n\n## <a name=\"editions\"></a>מהדורות \n* לקוח\n* Standard"

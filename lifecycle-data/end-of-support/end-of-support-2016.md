@@ -1,13 +1,13 @@
 ---
 title: תמיכה במוצרים המסתיימים עבור 2016.
 description: גלו באילו מוצרים לא יעשה עוד שימוש, יגיעו לסוף התמיכה הטכנית או יעברו מתמיכה רגילה לתמיכה מורחבת ב-2016.
-ms.date: 09/17/2021
-ms.openlocfilehash: 173d56e15247cd3bb3e31ece82f9aa2d05a54146
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 01/14/2022
+ms.openlocfilehash: 02f886067fe5d4199a1f0e5f4505c6afa5cd6194
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4028166"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117553"
 ---
 # <a name="products-ending-support-in-2016"></a>מוצרים שתמיכתם תיפסק ב-2016
 
@@ -20,13 +20,6 @@ ms.locfileid: "4028166"
 
 
 
-## <a name="release-end-of-servicing"></a>הוצאת סיום שירות
-
-המוצרים הבאים, הכפופים ל [מדיניות המודרנית](/lifecycle/policies/modern), יפסיקו להיתמך ב-2016.
-
-| מוצר | סיום שירות |
-| --- | --- |
-| [Microsoft Endpoint Configuration Manager, Version 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 8 בדצמבר 2016 |
 
 
 ## <a name="products-reaching-end-of-support"></a>מוצרים מגיעים לסוף התמיכה

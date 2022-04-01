@@ -3,24 +3,23 @@ metadata:
   title: Internet Explorer 9
   description: Internet Explorer 9 עוקב אחר מדיניות מחזור-חיים לרכיבים.
   ms.date: 08/12/2020
+  ms.openlocfilehash: f61f077fd1b92fb7ef960ad2fa68e6ac1ebdb88c
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: he-IL
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4154368"
 name: Internet Explorer 9
-summary: |+
+summary: >+
   Internet Explorer 9 עוקב אחר מדיניות מחזור-חיים [לרכיבים](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
-  - internet-explorer
+- internet-explorer
 policyType: component
 supportDates:
-  start: 03/15/2011
+  start: 2011-03-15T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 03/15/2011
-content: |+
-
-  ## <a name="links"></a>קישורים 
-  * [הדרכת ביצוע מעבר](https://www.microsoft.com/itpro/microsoft-edge)
-  * [שאלות נפוצות אודות מדיניות מחזור-חיים עבור Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)
-
-  > [!NOTE]
-  > החל מה- 12 בינואר, 2016, רק הגירסה העדכנית ביותר של Internet Explorer זמינה עבור מערכת הפעלה נתמכת ותקבל תמיכה טכנית ועדכוני אבטחה.
+- version: Original Release
+  startDate: 2011-03-15T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>קישורים \n* [הדרכת ביצוע מעבר](https://www.microsoft.com/itpro/microsoft-edge)\n* [שאלות נפוצות אודות מדיניות מחזור-חיים עבור Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> החל מה- 12 בינואר, 2016, רק הגירסה העדכנית ביותר של Internet Explorer זמינה עבור מערכת הפעלה נתמכת ותקבל תמיכה טכנית ועדכוני אבטחה."
