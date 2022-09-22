@@ -1,13 +1,13 @@
 ---
 title: מוצרים שתמיכתם מסתיימת עבור 2020
 description: גלו באילו מוצרים לא יעשה עוד שימוש, יגיעו לסוף התמיכה הטכנית או יעברו מתמיכה רגילה לתמיכה מורחבת ב-2020.
-ms.date: 02/22/2022
-ms.openlocfilehash: e427619e7015e375d7ec11cfe3f5b87fc4d6a0ec
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 07/26/2022
+ms.openlocfilehash: 5e9fe15375b61f659076f10221d48d7b144b3ebe
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117590"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518194"
 ---
 # <a name="products-ending-support-in-2020"></a>מוצרים שתמיכתם מסתיימת ב-2020
 
@@ -38,7 +38,7 @@ ms.locfileid: "4117590"
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager, Version 1806](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 31 בינואר, 2020 |
 | [.NET Core 3.0](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | 3 במרץ, 2020 |
-| [PowerShell, PowerShell 6.x](/lifecycle/products/powershell?branch=live)<br>[PowerShell, PowerShell Core 6.2](/lifecycle/products/powershell?branch=live)<br> | 4 בספטמבר, 2020 |
+| [PowerShell, PowerShell Core 6.2](/lifecycle/products/powershell?branch=live)<br> | 4 בספטמבר, 2020 |
 | [Microsoft Endpoint Configuration Manager, Version 1902](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 27 בספטמבר, 2020 |
 | [שירותי Visio ב- SharePoint (ב- Microsoft 365)](/lifecycle/products/visio-services-in-sharepoint-in-microsoft-365?branch=live)<br> | 30 בספטמבר, 2020 |
 | [Windows 10 Enterprise and Education, Version 1709](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise, Version 1709](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 13 באוקטובר, 2020 |
