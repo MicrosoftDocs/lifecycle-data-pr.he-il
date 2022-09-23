@@ -1,13 +1,13 @@
 ---
 title: מוצרים המסיימים את תמיכתם ב- 2021
 description: גלו באילו מוצרים לא יעשה עוד שימוש, יגיעו לסוף התמיכה הטכנית או יעברו מתמיכה רגילה לתמיכה מורחבת ב-2021.
-ms.date: 01/14/2022
-ms.openlocfilehash: e0be3c1d9300e53c4eb912b0f9347902948fb0f8
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 09/13/2022
+ms.openlocfilehash: d92c5d932bd58716fea6238162788a45d0dced00
+ms.sourcegitcommit: 83c4bec3ec265ce0fb67fc5dc6b134f8e011dfff
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117479"
+ms.lasthandoff: 09/13/2022
+ms.locfileid: "4520833"
 ---
 # <a name="products-ending-support-in-2021"></a>מוצרים שתמיכתם תסתיים ב-2021
 
@@ -37,12 +37,12 @@ ms.locfileid: "4117479"
 | מוצר | סיום שירות |
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager, Version 1906](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 26 בינואר, 2021 |
+| [Azure IoT Edge, גירסה 1.0](/lifecycle/products/azure-iot-edge?branch=live)<br> | 1 בפברואר 2021 |
 | [Dynamics 365 Business Central on-premises (Modern Policy), 2019 release wave 2, version 15.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 13 באפריל, 2021 |
 | [Windows 10 Enterprise and Education, Version 1803](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Enterprise and Education, Version 1809](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home and Pro, Version 1909](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, Version 1803](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows 10 IoT Enterprise, Version 1809](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, Version 1909](/lifecycle/products/windows-server?branch=live)<br> | 11 במאי, 2021 |
-| [Microsoft Endpoint Configuration Manager, Version 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br>[Microsoft Endpoint Configuration Manager, Version 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 29 במאי, 2021 |
+| [Microsoft Endpoint Configuration Manager, Version 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 29 במאי, 2021 |
 | [.NET Core 2.1 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | 21 באוגוסט, 2021 |
 | [Microsoft Endpoint Configuration Manager, Version 2002](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 1 באוקטובר, 2021 |
-| [Dynamics 365 Business Central on-premises (Modern Policy), 2020 release wave 1, version 16.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 12 אוקטובר 2021‏ |
 | [Windows 10 Enterprise and Education, Version 2004](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home and Pro, Version 2004](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, Version 2004](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, Version 2004](/lifecycle/products/windows-server?branch=live)<br> | 14 בדצמבר, 2021 |
 
 
