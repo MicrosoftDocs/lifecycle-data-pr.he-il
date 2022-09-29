@@ -1,13 +1,13 @@
 ---
 title: תמיכה במוצרים המסתיימים עבור 2025.
 description: גלו באילו מוצרים לא יעשה עוד שימוש, יגיעו לסוף התמיכה הטכנית או יעברו מתמיכה רגילה לתמיכה מורחבת ב-2025.
-ms.date: 07/26/2022
-ms.openlocfilehash: e8838567dcbd55799be4036be1031dcb5181caab
-ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+ms.date: 09/20/2022
+ms.openlocfilehash: f4b77006c5c2f23c9f624de090a371da2fceeb2c
+ms.sourcegitcommit: 271be77bfed364b789251cdc113296e7e7842cbb
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/09/2022
-ms.locfileid: "4517912"
+ms.lasthandoff: 09/20/2022
+ms.locfileid: "4526156"
 ---
 # <a name="products-ending-support-in-2025"></a>תמיכה במוצרים המסתיימים ב-2025
 
@@ -27,6 +27,13 @@ ms.locfileid: "4517912"
 | [Windows 10 Enterprise ו-Education](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home ו- Pro](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 14 באוקטובר, 2025 |
 
 
+## <a name="release-end-of-servicing"></a>מוצרים מגיעים לסוף התמיכה
+
+מהדורות המוצרים הבאות, הנשלטות על ידי [המדיניות המודרנית](/lifecycle/policies/modern), יפסיקו את תמיכתן ב-2025.
+
+| מוצר | סיום שירות |
+| --- | --- |
+| [Windows 11 Enterprise ו-Education, גרסה 22H2](/lifecycle/products/windows-11-enterprise-and-education?branch=live)<br>[Windows 11 IoT Enterprise, גרסה 22H2](/lifecycle/products/windows-11-iot-enterprise?branch=live)<br> | 14 באוקטובר, 2025 |
 
 
 ## <a name="products-reaching-end-of-support"></a>מוצרים מגיעים לסוף התמיכה

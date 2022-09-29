@@ -1,13 +1,13 @@
 ---
 title: תמיכה במוצרים המסתיימים עבור 2023.
 description: גלו באילו מוצרים לא יעשה עוד שימוש, יגיעו לסוף התמיכה הטכנית, או יעברו מתמיכה רגילה לתמיכה מורחבת ב-2023.
-ms.date: 09/13/2022
-ms.openlocfilehash: 14252d5922ab850dbdc90c4ef3a8d58cad40892f
-ms.sourcegitcommit: b88b4db4bcd8ffe5d63ffa23a2a518ac25a4f635
+ms.date: 09/21/2022
+ms.openlocfilehash: facaf412f81123ef165642fd5c6692dc121fe123
+ms.sourcegitcommit: 369efbff28148903c4c47e5d1ae453fcc2cc9ae6
 ms.translationtype: HT
 ms.contentlocale: he-IL
-ms.lasthandoff: 09/13/2022
-ms.locfileid: "4521059"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "4526867"
 ---
 # <a name="products-ending-support-in-2023"></a>מוצרים עבורם תופסק התמיכה ב-2023
 
@@ -36,13 +36,12 @@ ms.locfileid: "4521059"
 | מוצר | סיום שירות |
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager, Version 2107](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2 בפברואר 2023 |
-| [מנהל התצורה של נקודות הקצה של Microsoft, גרסה 2207](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 12 בפברואר 2023 |
 | [Dynamics 365 Business Central on-premises (Modern Policy), 2021 release wave 2, גרסה 19.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 12 באפריל 2023 |
 | [Windows 10 Enterprise ו-Education, גרסה 20H2](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise, Version 20H2](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 9 במאי, 2023 |
 | [Microsoft Endpoint Configuration Manager, Version 2111](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 1 ביוני 2023 |
 | [Windows 10 Home ו-Pro, גרסה 21H2](/lifecycle/products/windows-10-home-and-pro?branch=live)<br> | 13 ביוני 2023 |
 | Microsoft Endpoint Configuration Manager[, גרסה ](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)2203<br> | 6 באוקטובר 2023 |
-| [Dynamics 365 Business Central on-premises (מדיניות מודרנית), גל מהדורה 1 של 2022, גרסה 20.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Windows 11 Home ו-Pro (גרסה 21H2), מהדורה מקורית (גרסה 21H2)](/lifecycle/products/windows-11-home-and-pro-version-21h2?branch=live)<br> | 10 באוקטובר, 2023 |
+| [Dynamics 365 Business Central on-premises (מדיניות מודרנית), גל מהדורה 1 של 2022, גרסה 20.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Windows 11 Home ו-Pro, גרסה 21H2](/lifecycle/products/windows-11-home-and-pro?branch=live)<br> | 10 באוקטובר, 2023 |
 
 
 ## <a name="products-reaching-end-of-support"></a>מוצרים מגיעים לסוף התמיכה
